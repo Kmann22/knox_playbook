@@ -1,0 +1,175 @@
+{
+ "twitter": {
+  "raw_rows": 56571,
+  "raw_columns": [
+   "id",
+   "text",
+   "isRetweet",
+   "isDeleted",
+   "device",
+   "favorites",
+   "retweets",
+   "date",
+   "isFlagged"
+  ],
+  "missing": {},
+  "id_unique": 35453,
+  "retweets_flagged": 9877,
+  "manual_retweets_found": 127,
+  "exact_duplicates_removed": 1,
+  "zero_like_own_posts": 761,
+  "zero_like_by_year": {
+   "2012": 82,
+   "2013": 638,
+   "2014": 2,
+   "2016": 2,
+   "2018": 1,
+   "2019": 6,
+   "2020": 27,
+   "2021": 3
+  },
+  "zero_like_share_replies": 0.938
+ },
+ "truth": {
+  "raw_rows": 32754,
+  "raw_columns": [
+   "id",
+   "created_at",
+   "text",
+   "url",
+   "retruth_count",
+   "like_count",
+   "reply_count",
+   "engagement_ratio",
+   "is_retruth",
+   "hour_of_day",
+   "day_of_week",
+   "is_weekend",
+   "days_since_last_post",
+   "sentiment_score",
+   "sentiment_label",
+   "emotion",
+   "readability_score",
+   "word_count",
+   "cap_ratio",
+   "all_caps_word_count",
+   "exclamation_count",
+   "question_count",
+   "ellipsis_count",
+   "link_count",
+   "hashtag_count",
+   "hashtag_list",
+   "post_length_category",
+   "mentions_media",
+   "media_outlets_mentioned",
+   "politicians_mentioned",
+   "countries_mentioned",
+   "companies_mentioned",
+   "mentions_person",
+   "toxicity_score",
+   "topic",
+   "rhetorical_device",
+   "target_entity",
+   "sentiment_toward_target",
+   "is_policy_related",
+   "has_text"
+  ],
+  "missing": {
+   "text": 0.1812,
+   "days_since_last_post": 0.0,
+   "sentiment_score": 0.1812,
+   "sentiment_label": 0.1812,
+   "emotion": 0.1812,
+   "readability_score": 0.1812,
+   "word_count": 0.1812,
+   "cap_ratio": 0.1812,
+   "all_caps_word_count": 0.1812,
+   "exclamation_count": 0.1812,
+   "question_count": 0.1812,
+   "ellipsis_count": 0.1812,
+   "link_count": 0.1812,
+   "hashtag_count": 0.1812,
+   "hashtag_list": 0.1812,
+   "post_length_category": 0.1812,
+   "mentions_media": 0.1812,
+   "media_outlets_mentioned": 0.1812,
+   "politicians_mentioned": 0.1812,
+   "countries_mentioned": 0.1812,
+   "companies_mentioned": 0.1812,
+   "mentions_person": 0.1812,
+   "topic": 0.0003,
+   "rhetorical_device": 0.0007,
+   "target_entity": 0.3396,
+   "sentiment_toward_target": 0.0021,
+   "is_policy_related": 0.0003
+  },
+  "duplicate_ids": 0,
+  "is_retruth_values": {
+   "False": 32754
+  },
+  "emotion_values": {
+   "unknown": 26819
+  },
+  "kinds": {
+   "original": 14161,
+   "media_only": 5935,
+   "repost": 5933,
+   "link_only": 5705,
+   "quote": 1020
+  },
+  "text_duplicates_own": 598,
+  "repost_zero_like_share": 0.89,
+  "zero_like_posts": 10,
+  "recent_3d_posts": 73
+ },
+ "transformations": [
+  "Twitter: `id` stored as float in source -> precision lost (35453 unique of 56571). Never used as a key; a new row key `pid` is assigned.",
+  "Twitter: `date` parsed as m/d/Y H:M and treated as UTC (archive convention; minute precision only).",
+  "Twitter: 9877 rows flagged isRetweet plus 127 unflagged rows starting 'RT @' treated as retweets. Their like counts belong to the original author, so they are excluded from authorship and engagement analysis (kept in counts).",
+  "Twitter: 20 device strings mapped to Android / iPhone / Web / Staff tools (TweetDeck, Media Studio, Ads) / Other.",
+  "Twitter: 761 own posts have 0 likes, concentrated in 2012-13 @-replies (94% replies) -> treated as a collection artefact and excluded from engagement metrics; a sensitivity run keeps them.",
+  "Truth Social: `is_retruth` is False for all 32754 rows although 5933 posts begin 'RT @'/'RT:' -> field judged broken and ignored; reposts re-derived from text.",
+  "Truth Social: 1020 'RT: <link>' posts carry his own added comment (quote posts) and real likes; kept as a separate post type in his own words.",
+  "Truth Social: `emotion` = 'unknown' for every row -> dropped. Emotion re-scored with the NRC lexicon.",
+  "Truth Social: 892 posts had double-encoded characters (e.g. '\u00e2\u20ac\u2122'); repaired with ftfy.",
+  "Truth Social: textless posts (media/video) kept for frequency and engagement, excluded from text NLP.",
+  "Truth Social: multi-label fields joined by '|' (topic, rhetorical_device, sentiment_toward_target) split; first label kept as primary for comparison.",
+  "Truth Social: 89% of re-posts show 0 likes (the platform credits engagement to the original post), so re-posts are excluded from engagement analysis, as on Twitter.",
+  "Truth Social: 10 own posts with 0 likes excluded from engagement metrics as likely collection artefacts.",
+  "Truth Social: 73 posts in the final 3 days before collection excluded from engagement metrics (counts still accruing).",
+  "All timestamps converted to US Eastern for time-of-day analysis.",
+  "Relative Performance (RP) = likes / median likes of the same platform's eligible posts in the previous 30 days (min 20 posts); a time window is robust to posting bursts. When he posted fewer than 20 times in 30 days (2009-11), the median of his previous 50 posts is used instead. Secondary: RP_period = likes / platform-period median. Likes are a count, not a rate: there is no impressions denominator."
+ ],
+ "processed": {
+  "rows_total": 89324,
+  "by_platform_kind": {
+   "Truth Social|link_only": 5705,
+   "Truth Social|media_only": 5935,
+   "Truth Social|original": 14161,
+   "Truth Social|quote": 1020,
+   "Truth Social|repost": 5933,
+   "Twitter|link_only": 1241,
+   "Twitter|original": 41562,
+   "Twitter|reply": 3763,
+   "Twitter|repost": 10004
+  },
+  "engagement_eligible": {
+   "Twitter": 45805,
+   "Truth Social": 26750
+  },
+  "with_rp": {
+   "Twitter": 45795,
+   "Truth Social": 26740
+  },
+  "date_coverage": {
+   "Truth Social": [
+    "2022-02-14 15:54:32.528000+00:00",
+    "2026-04-23 03:02:45.507000+00:00"
+   ],
+   "Twitter": [
+    "2009-05-04 18:54:00+00:00",
+    "2021-01-08 15:44:00+00:00"
+   ]
+  }
+ }
+}

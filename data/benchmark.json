@@ -1,0 +1,3981 @@
+{
+ "examples": {
+  "AOC": {
+   "excl": [
+    {
+     "date": "2019-01-03",
+     "text": "I wore all-white today to honor the women who paved the path before me, and for all the women yet to come.\n\nFrom suffragettes to Shirley Chisholm, I wouldn\u2019t be here if it wasn\u2019t for the mothers of the movement. \u2b07\ufe0f   QT @amandalitman Early suffragists wore all white. Shirley Chisholm wore all white ",
+     "handle": "AOC",
+     "n_match": 194
+    },
+    {
+     "date": "2019-03-08",
+     "text": "PSA: Daylight Savings is this weekend!   QT @NYCMayorsOffice Daylight Savings Time is nothing to lose sleep over... except on Sunday. Remember that clocks skip ahead an hour at 2 am. We're looking FORWARD to more sunshine in the evenings!",
+     "handle": "AOC",
+     "n_match": 194
+    },
+    {
+     "date": "2019-05-23",
+     "text": "Ending the War on Drugs means we must transform DA offices across the country.\n\nIn Queens, @CabanForQueens wants to set a new model for the country:\n\u2705 End Cash Bail\n\u2705 Stop Prosecuting Drug Use (it\u2019s a HEALTH issue!)\n\u2705 No Corporate $\n\nDonate + help here:",
+     "handle": "AOC",
+     "n_match": 194
+    },
+    {
+     "date": "2020-04-23",
+     "text": "@krossny1 @jduffyrice Thanks! I wish I could help young women navigate these things more specifically because it took me a long time and a lot of effort to figure out when I was just starting out. I\u2019m still learning. Doing your own gel mani at home w/ a peel off base coat is a life (and nail) saver!",
+     "handle": "AOC",
+     "n_match": 194
+    },
+    {
+     "date": "2020-12-11",
+     "text": "@J_ManPrime21 \u201cWhy aren\u2019t they there?\u201d is the real Q! We watched the presidential debates and saw how many fiercely defend our for-profit insurance system.\n\nBut know that the movement pressure - positive support, primaries, popularity, organizing, etc IS working. More cosponsors now than ever",
+     "handle": "AOC",
+     "n_match": 194
+    },
+    {
+     "date": "2020-12-19",
+     "text": "@taymacintyre Yes! My questionnaire asked about prior vaccine allergies (I personally don\u2019t have any) and also listed the specific vaccine components to check as well.\n\nMy advice is to be as forthright as possible w/ your Dr. regarding any health conditions/concerns you have questions about!",
+     "handle": "AOC",
+     "n_match": 194
+    }
+   ],
+   "shout": [
+    {
+     "date": "2019-02-12",
+     "text": "\u201cThere is a wide gulf between the political center + the moral center.\n\nWhat is different now is that the moral center \u2014 what is right \u2014 is popular.\n\nSo they yell \u201csocialism!\u201d \u201cVenezuela!\u201d \u201cextremism!\u201d\n... to spread fear to protect a discredited political center.\u201d\n\n- @RevJJackson   QT @RevJJackson P",
+     "handle": "AOC",
+     "n_match": 77
+    },
+    {
+     "date": "2019-04-01",
+     "text": "Croissants at LaGuardia are going for SEVEN DOLLARS A PIECE \ud83d\ude31\n\nYet some people think getting a whole hour of personal, dedicated human labor for $15 is too expensive??",
+     "handle": "AOC",
+     "n_match": 77
+    },
+    {
+     "date": "2019-12-05",
+     "text": "My family relied on food stamps (EBT) when my dad died at 48.\n\nI was a student. If this happened then, we might\u2019ve just starved.\n\nNow, many people will.\n\nIt\u2019s shameful how the GOP works overtime to create freebies for the rich while dissolving lifelines of those who need it most.   QT @NBCNews BREAK",
+     "handle": "AOC",
+     "n_match": 77
+    },
+    {
+     "date": "2020-06-22",
+     "text": "NEW YORK: Tomorrow is Election Day!\n\nIt\u2019s time to VOTE to continue our fight for social, economic, and racial justice.\n\nMake your plan for voting tomorrow.\n\nFind your voting location here:",
+     "handle": "AOC",
+     "n_match": 77
+    },
+    {
+     "date": "2020-09-30",
+     "text": "Listen to @AyannaPressley.\n\nThe President is many awful things, but when people use diagnoses & treatments such as ADHD as insults, they aren\u2019t insulting 45 as much as they hurt the millions living with these conditions - many of whom you likely know, but may not be aware of. \u2b07\ufe0f   QT @AyannaPressley",
+     "handle": "AOC",
+     "n_match": 77
+    },
+    {
+     "date": "2020-12-03",
+     "text": "We\u2019re trying to get COVID relief and stimulus checks out to people and right now Republicans are trying to prematurely adjourn Congress.\n\nPeople are going hungry and they\u2019re treating this like a game. Leaders don\u2019t abandon people in their time of greatest need.   QT @RepSwalwell This is batty. Ameri",
+     "handle": "AOC",
+     "n_match": 77
+    }
+   ],
+   "link": [
+    {
+     "date": "2019-05-31",
+     "text": "Yeah I don\u2019t know why people are suddenly trusting alt-right outlets with \u201cscoops\u201d on who I\u2019m endorsing.\n\nLet\u2019s use our reading skills. Context clues. If they haven\u2019t ever reported about me honestly &amp; in good faith, why would they start now?\n\nI\u2019m not endorsing for some time. https://twitter.com/",
+     "handle": "AOC",
+     "n_match": 655
+    },
+    {
+     "date": "2019-06-28",
+     "text": "Yep, amusing how some think GOP calling Dems socialists is a new thing. \n\na) they\u2019ve called us it (at least) since FDR\nb) GOP has no idea what economic democracy is\n\nThe whole goal of this attack is to get Dems to back off fighting for the economic rights of working class people. https://twitter.com",
+     "handle": "AOC",
+     "n_match": 655
+    },
+    {
+     "date": "2019-10-06",
+     "text": "Just when we caught a glimpse of justice for Botham Jean, much of it feels stolen back with the murder of Joshua Brown, a key witness in the case.\n\nMy heart breaks for his family and for everyone touched by this tragedy. We must get to the bottom of this injustice. https://twitter.com/breznican/stat",
+     "handle": "AOC",
+     "n_match": 655
+    },
+    {
+     "date": "2020-03-06",
+     "text": "I am constantly asked if I\u2018d support the Dem nominee. Could you imagine if I said I wouldn\u2019t?\n\nYet Biden\u2019s camp is on TV threatening to help Trump if they don\u2019t get exactly what they want.\n\nThis is profoundly irresponsible on all ends. Our country is not a game. Get it together. https://twitter.com/",
+     "handle": "AOC",
+     "n_match": 655
+    },
+    {
+     "date": "2020-03-18",
+     "text": "One bright spot: despite powerful attempts in DC to protect an anti-LGBT+, anti-choice Dem in a safe blue seat, powerful progressive @Marie4Congress won the #IL03 primary!\n\nCongratulations, Marie. You &amp; every organizer worked so hard to make this happen.\n\nThank you #IL03 voters! http://pbs.twimg",
+     "handle": "AOC",
+     "n_match": 655
+    },
+    {
+     "date": "2021-01-08",
+     "text": "Senators Hawley and Cruz should listen to their colleagues. And if they refuse, then the Senate should expel them. https://twitter.com/kylegriffin1/status/1347622889726435331 QT @kylegriffin1 Breaking: Sen. Patty Murray, the No. 3 Senate Democrat, calls on Josh Hawley and Ted Cruz to resign.",
+     "handle": "RepAOC",
+     "n_match": 655
+    }
+   ],
+   "neg": [
+    {
+     "date": "2019-02-20",
+     "text": "\u2018You\u2019re a millionaire funded by billionaires... and what they want you to do is scapegoat immigrants instead of talking about their tax evasion.\u2019\n\nWhoah. The direct, relentless clarity of this exchange is \ud83d\udd25\ud83d\udd25\ud83d\udd25.   QT @AnandWrites \ud83d\udea8@rcbregman, my Dutch brother from another mother and the specter that h",
+     "handle": "AOC",
+     "n_match": 288
+    },
+    {
+     "date": "2019-04-05",
+     "text": "Folks talking about my voice can step right off. Women\u2019s March & Kavanaugh speech, same.\n\nAny kid who grew up in a distinct linguistic culture & had to learn to navigate class enviros at school/work knows what\u2019s up.\n\nMy Spanish is the same way.\n\nThese conspiracy mills are \ud83d\udeae.   QT @cmclymer I swear, ",
+     "handle": "AOC",
+     "n_match": 288
+    },
+    {
+     "date": "2019-04-13",
+     "text": "Two years ago, Bodega owners across NYC (& cheered by neighbors)shut their shops citywide to protest Trump\u2019s #MuslimBan.\n\nToday, that same community is banding together to reject sales of the NY Post at bodegas citywide.\n\nThis is what real unity (& NYC solidarity) looks like \u2b07\ufe0f   QT @DebbiAlmontaser",
+     "handle": "AOC",
+     "n_match": 288
+    },
+    {
+     "date": "2019-08-07",
+     "text": "Perhaps more than the obvious last steps of the supremacist,we must examine the nuance of their first steps.\n\nThat is a painful inquiry, bc for many, we may see familiarity in those first steps. And that familiarity is very difficult to see + admit. We\u2019d rather not talk about it.",
+     "handle": "AOC",
+     "n_match": 288
+    },
+    {
+     "date": "2020-04-03",
+     "text": "We need to drop the Medicare eligibility age to 0 right now.   QT @JStein_WaPo 30 million Americans could lose their private health insurance over the next few months, per new HMA report",
+     "handle": "AOC",
+     "n_match": 288
+    },
+    {
+     "date": "2020-04-15",
+     "text": "NUEVO: Si no ha llenado su cuestionario del Censo 2020, el cuestionario fisico llegar\u00e1 pronto a su buz\u00f3n.\n \n#Censo2020 determinar\u00e1 representaci\u00f3n y fondos para su comunidad para la pr\u00f3xima decada. Aprende m\u00e1s\u2b07\ufe0f",
+     "handle": "RepAOC",
+     "n_match": 288
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-02-08",
+     "text": "When your #GreenNewDeal legislation is so strong that the GOP has to resort to circulating false versions, but the real one nets 70 House cosponsors on Day 1 and all Dem presidential candidates sign on anyway   QT @crislopezg look at these morons trying to gorilla channel @aoc's green new deal",
+     "handle": "AOC",
+     "n_match": 34
+    },
+    {
+     "date": "2019-06-20",
+     "text": "I\u2019m curious, @HouseGOP: what would you like people to call these Trump-run human cages?\n\nAccording to you, concentration camp experts + historians are wrong.\n\nSo what do you call it? What term makes you feel better about brutality?\n\n\u201cInternment?\u201d \u201cDetention?\u201d \u201cFreedom Center?\u201d   QT @ECMcLaughlin The",
+     "handle": "AOC",
+     "n_match": 34
+    },
+    {
+     "date": "2019-07-14",
+     "text": "Kids are taken from their families under an American flag.\n\nThey are left to cough in cages, spread lice, & smell of mucus w bald eagle emblems emblazoned around them.\n\nA few years from now, these 1000s of children will grow to tell their story. We owe it to them to change.   QT @RepSpeier The 1st s",
+     "handle": "AOC",
+     "n_match": 34
+    },
+    {
+     "date": "2019-09-16",
+     "text": "Remember when we said climate change would cause mass migration, & the right called us crazy?\n\nWell, it\u2019s happening. And walling ourselves off from the world isn\u2019t a plan for our future.\n\nIt\u2019s time to recognize climate refugees in our immigration policies.",
+     "handle": "AOC",
+     "n_match": 34
+    },
+    {
+     "date": "2020-03-22",
+     "text": "\u201cGOP *refusing to increase $ for hospitals,* but HAVE increased corporate bailout $.\u201d\n\nThe Senate GOP plan is corrupt.  Their greed & incompetence is going to get people killed. Others will be displaced, or unable to eat.\n\nThey\u2018re holding our country hostage for a Wall St payday.   QT @JakeSherman T",
+     "handle": "AOC",
+     "n_match": 34
+    },
+    {
+     "date": "2020-09-30",
+     "text": "Listen to @AyannaPressley.\n\nThe President is many awful things, but when people use diagnoses & treatments such as ADHD as insults, they aren\u2019t insulting 45 as much as they hurt the millions living with these conditions - many of whom you likely know, but may not be aware of. \u2b07\ufe0f   QT @AyannaPressley",
+     "handle": "AOC",
+     "n_match": 34
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2019-12-09",
+     "text": "This is outright and atrocious antisemitism coming from the President, and it is dangerous.   QT @atrupar Trump, speaking to the Israeli American Council: \"You're not nice people at all, but you have to vote for me. You have no choice. You're not going to vote for Pocahontas, I can tell you that. Yo",
+     "handle": "AOC",
+     "n_match": 1
+    }
+   ],
+   "all": [
+    {
+     "date": "2019-02-16",
+     "text": "\ud83e\udd17 x a lot   QT @chrissmithnymag .\u2066@AOC\u2069 may set Bronx hugging record today.",
+     "handle": "AOC",
+     "n_match": 1017
+    },
+    {
+     "date": "2020-01-10",
+     "text": "Trump\u2019s \u201cimminent threat\u201d is the new \u201cWMD\u201d: there\u2019s no evidence given for either.",
+     "handle": "AOC",
+     "n_match": 1017
+    },
+    {
+     "date": "2020-05-13",
+     "text": "*DJ Khaled voice*: Another one   QT @charlescwcooke We have this.",
+     "handle": "AOC",
+     "n_match": 1017
+    },
+    {
+     "date": "2020-06-26",
+     "text": "Thanks, @RepLindaSanchez for tagging me in the #HousePrideChallenge!\n\nAs we celebrate Pride Month, we must remember the Black & Brown Trans Women who led the way and continue to protect our siblings. Our fight is not over.\n\nNext up - @RepJerryNadler!",
+     "handle": "RepAOC",
+     "n_match": 1017
+    },
+    {
+     "date": "2020-09-18",
+     "text": "#2020Census data is critical to helping our communities thrive. It helps us obtain the healthcare, transportation, schools, affordable housing, and higher education that our families need to get a good start & succeed.  Complete yours at   #BeCounted",
+     "handle": "RepAOC",
+     "n_match": 1017
+    },
+    {
+     "date": "2020-12-15",
+     "text": "NY-14, join our town hall on Thursday at 6:30 PM! We'll share the latest on a stimulus package and review the progress we made over our first term.\n \nIf you're a constituent, sign up here:  \n\nIf you don't live in NY-14, watch here:",
+     "handle": "RepAOC",
+     "n_match": 1017
+    }
+   ]
+  },
+  "Bernie Sanders": {
+   "excl": [
+    {
+     "date": "2018-10-15",
+     "text": "Here\u2019s what\u2019s crazy: throwing 32 million Americans off health insurance and cutting Medicare by $500 billion.\n\nThat\u2019s Trump\u2019s plan.\n\nWe have a better idea: Improve Medicare for seniors by providing dental, vision and hearing aids \u2013 and expand it to guarantee health care for all.   QT @realDonaldTrum",
+     "handle": "SenSanders",
+     "n_match": 170
+    },
+    {
+     "date": "2018-10-23",
+     "text": "Thank you Arizona! Now get out and vote for David Garcia for governor.",
+     "handle": "BernieSanders",
+     "n_match": 170
+    },
+    {
+     "date": "2019-04-01",
+     "text": "Medicare for All will end the atrocity of a profit-driven health care system in which thousands die because they can't afford care.\n\nDonald Trump wants to protect insurance company profits over American lives. Mr. Trump, we will defeat you in 2020. We'll make health care a right.   QT @realDonaldTru",
+     "handle": "BernieSanders",
+     "n_match": 170
+    },
+    {
+     "date": "2019-07-18",
+     "text": "Young people like @israhirsi will change the world. Thank you for your leadership!   QT @israhirsi these 2 made my day, year, & life. a possible president and a black icon.",
+     "handle": "BernieSanders",
+     "n_match": 170
+    },
+    {
+     "date": "2020-03-02",
+     "text": "Let's win big tomorrow! Chip in right now at     QT @BernieSanders Every vote matters tomorrow. Find your polling location at   and bring your friends and family with you. Join our rally now from St. Paul with Rep. @IlhanMN and @NRateliff & the Night Sweats.",
+     "handle": "BernieSanders",
+     "n_match": 170
+    },
+    {
+     "date": "2020-03-10",
+     "text": "\u201cBernie has a bold vision. Young people feel that sincerity, and I feel it, too. Bernie has got a vision, he\u2019s got an agenda, and Bernie has the skillset to get things done.\u201d\n\nThank you Rep. @MarkTakano for your support!",
+     "handle": "BernieSanders",
+     "n_match": 170
+    }
+   ],
+   "shout": [
+    {
+     "date": "2018-11-20",
+     "text": "Congratulations to the Toys R Us workers who organized and stood up to Wall Street to fight for the severance pay they deserved. We will continue to fight the greed of Wall Street and private equity, and to expand the collective bargaining rights of all Americans.   QT @riseupretail BREAKING NEWS: W",
+     "handle": "SenSanders",
+     "n_match": 45
+    },
+    {
+     "date": "2019-06-28",
+     "text": "Millions of workers are denied their wages by employers. Now New Jersey will have one of the strongest anti-wage theft laws in the country. We'll ensure these protections happen nationwide! Congratulations @MaketheRoadNJ, @NewLabor, @NJWFA, @LWC_workers, @NelpNews   QT @MaketheRoadNJ BREAKING: landm",
+     "handle": "BernieSanders",
+     "n_match": 45
+    },
+    {
+     "date": "2020-01-30",
+     "text": "I applaud the House of Representatives for passing the Stop War Against Iran Act that I introduced with @RepRoKhanna, and @RepBarbaraLee's repeal of the 2002 Authorization for Use of Military Force.\n\nThe Senate must now take up these vital bills to stop endless war.   QT @RepBarbaraLee \ud83d\udea8\u203c\ufe0f BREAKING:",
+     "handle": "SenSanders",
+     "n_match": 45
+    },
+    {
+     "date": "2020-03-02",
+     "text": "I am honored to have the endorsement of @AFTWA.  Together, we will make transformative investments in our children, our educators, and our schools.   QT @AFTWA The Board of AFT Washington has chosen to make an endorsement in the presidential campaign. You can read our reasoning here:   @BernieSander",
+     "handle": "BernieSanders",
+     "n_match": 45
+    },
+    {
+     "date": "2020-03-06",
+     "text": "The science is clear: toxic PFAS \u201cforever chemicals\u201d are a danger to our health. Congress must pass my PFAS Act to:\n\n\u2713 Hold corporate polluters like DuPont accountable\n\u2713 Fund drinking water cleanup\n\u2713 Ban PFAS in food packaging\n\u2713 Stop PFAS air pollution",
+     "handle": "SenSanders",
+     "n_match": 45
+    },
+    {
+     "date": "2020-07-24",
+     "text": "Thousands of airport workers in New York fought to pass the #HealthyTerminalsAct. Once signed into law, this bill will give frontline airport workers access to affordable health care. Congratulations to @32BJSEIU and workers on this victory!   QT @32BJSEIU VICTORY! The #HealthyTerminalsAct has passe",
+     "handle": "BernieSanders",
+     "n_match": 45
+    }
+   ],
+   "link": [
+    {
+     "date": "2019-06-04",
+     "text": "\u201cYou weren\u2019t really allowed time off or you couldn\u2019t miss too many days even if it was a family emergency.\u201d \u2013Antonio, former Walmart associate\n\nWalmart is not treating its workers with dignity. To #EndWalmartGreed, we demand workers have a seat on the corporate board. @forrespect http://pbs.twimg.co",
+     "handle": "BernieSanders",
+     "n_match": 1819
+    },
+    {
+     "date": "2019-07-06",
+     "text": "Bizarre or an entirely predictable result of decades of tax breaks for the wealthy at the expense of working people? https://twitter.com/axios/status/1146895206806982657 QT @axios A truly bizarre trend is having an impact on the economy: Wealthy people and corporations have so much money they litera",
+     "handle": "BernieSanders",
+     "n_match": 1819
+    },
+    {
+     "date": "2019-08-03",
+     "text": "A society which proclaims freedom as its goal, as the United States does, must work unceasingly to end the disgraceful bigotry and violence against transgender Americans. https://www.usatoday.com/story/news/nation/2019/07/25/transgender-hate-crime-statistics-12-th-black-woman-murdered-2019/182451500",
+     "handle": "SenSanders",
+     "n_match": 1819
+    },
+    {
+     "date": "2020-08-25",
+     "text": "No more tear gas, no more pepper spray, no more rubber bullets on protestors. Ban them all.\nhttps://www.marketwatch.com/story/kenosha-police-fire-tear-gas-to-disperse-crowd-protesting-shooting-2020-08-24",
+     "handle": "BernieSanders",
+     "n_match": 1819
+    },
+    {
+     "date": "2020-09-22",
+     "text": "The stakes of this November\u2019s election could not be higher, and now is a time for us all to get involved and create the nation we can become. Join me now for a live town hall with @JulianCastro and more, presented by @UniNoticias. https://www.pscp.tv/w/cjko1DMyNzU3OTl8MW1ueGVsekRXWnJKWAO4aWU_rKh3ja5",
+     "handle": "BernieSanders",
+     "n_match": 1819
+    },
+    {
+     "date": "2020-10-24",
+     "text": "\u201cWhat we hope is that on November 3rd, that we're not facing just an end, but we're facing a beginning\u2026 because November 3rd is the day that we begin to rebuild this society.\u201d \u2013PA State Rep. @SummerForPA http://pbs.twimg.com/amplify_video_thumb/1320092435733639168/img/sfu40NcjaNw8cdTO.jpg https://vi",
+     "handle": "BernieSanders",
+     "n_match": 1819
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-03-09",
+     "text": "Assault weapons are military weapons designed to kill human beings. They should not be sold in this country.",
+     "handle": "BernieSanders",
+     "n_match": 1056
+    },
+    {
+     "date": "2019-10-22",
+     "text": "I think it is pretty sick to knowingly sell a product that will destroy the planet and our children's futures, but that is the mindset of a fossil fuel billionaire. It's time for a Green New Deal and an end to this disease of lying for profit.",
+     "handle": "SenSanders",
+     "n_match": 1056
+    },
+    {
+     "date": "2019-11-19",
+     "text": "In 1965 the CEO-to-worker pay ratio was 20:1.\n\nLast year, it was 287:1.\n\nWe are going to end this greed and the rigged system that leaves the working class behind.",
+     "handle": "BernieSanders",
+     "n_match": 1056
+    },
+    {
+     "date": "2020-03-06",
+     "text": "Workers should never have to choose between feeding their families and paying for their health insurance. I'm proud to stand with the members of @Teamsters Local 337 who are on strike, and call on Sygma to stop intimidating workers.   QT @repWIR Let\u2019s show our support for @Teamsters337 members on st",
+     "handle": "BernieSanders",
+     "n_match": 1056
+    },
+    {
+     "date": "2020-05-13",
+     "text": "We cannot lose sight of the climate emergency around us. Together, we must do everything we can to address this existential threat. Join our virtual town hall @VarshPrakash, @billmckibben, @JayInslee, and @dwallacewells live now:",
+     "handle": "BernieSanders",
+     "n_match": 1056
+    },
+    {
+     "date": "2020-08-17",
+     "text": "We need an unprecedented response to the crises we face\u2014a movement, like never before, of people who are prepared to stand up and fight for democracy and decency\u2014and against greed, oligarchy, and bigotry. And we need Joe Biden as our next president. #DemConvention",
+     "handle": "BernieSanders",
+     "n_match": 1056
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-03-28",
+     "text": "The way Trump has treated our fellow Americans in Puerto Rico is an international disgrace.   QT @NBCNews On Tuesday, President Trump told Republican legislators that Puerto Rico had gotten too much money to rebuild after Hurricane Maria. The amount \u201cis way out of proportion to what Texas and Florid",
+     "handle": "BernieSanders",
+     "n_match": 144
+    },
+    {
+     "date": "2019-07-18",
+     "text": "Today is historic.\n\nA few years ago, people laughed and called us \"crazy\" when we called to raise the minimum wage to $15 an hour.\n\nToday, the U.S. House is voting on legislation to do just that.\n\nThat is what happens when working people build a movement for change.",
+     "handle": "BernieSanders",
+     "n_match": 144
+    },
+    {
+     "date": "2019-07-26",
+     "text": "You do not have to pull out your credit card when you drop your child off at school or when you call the fire department.\n\nYou shouldn't have to when you are sick and need to see a doctor. That is what Medicare for All will deliver.",
+     "handle": "BernieSanders",
+     "n_match": 144
+    },
+    {
+     "date": "2020-03-14",
+     "text": "Minimum weeks of paid medical leave for workers:\n\n\ud83c\uddf2\ud83c\uddfd 52\n\ud83c\uddee\ud83c\uddea 52\n\ud83c\uddf9\ud83c\uddf7 52\n\ud83c\udde9\ud83c\uddea 52\n\ud83c\uddea\ud83c\uddf8 52\n\ud83c\uddef\ud83c\uddf5 52\n\ud83c\uddec\ud83c\udde7 52\n\ud83c\udde6\ud83c\uddfa 52\n\ud83c\uddf5\ud83c\uddf9 52\n\ud83c\uddf1\ud83c\uddfa 52\n\ud83c\udde8\ud83c\uddff 52\n\ud83c\udde7\ud83c\uddea 52\n\ud83c\uddf3\ud83c\uddf4 52\n\ud83c\uddeb\ud83c\uddf7 52\n\ud83c\uddf8\ud83c\uddee 52\n\ud83c\uddfa\ud83c\uddf8 0\n\nWe must join the rest of the industrialized world and guarantee paid sick leave to every single worker in America.",
+     "handle": "SenSanders",
+     "n_match": 144
+    },
+    {
+     "date": "2020-07-24",
+     "text": "I\u2019m also proud to endorse @kdmcdonald2020 for Oakland County Prosecutor. She will take on a criminal justice system that criminalizes poverty, perpetuates institutionalized racism, and continues a failed war on drugs that has devastated communities of color.",
+     "handle": "BernieSanders",
+     "n_match": 144
+    },
+    {
+     "date": "2020-12-11",
+     "text": "While the pandemic is surging, Senate Republicans want to provide a 100% deduction for rich people to go out for three-martini lunches and 100% legal immunity for corporations. \u201cPathetic\u201d is too mild a word.",
+     "handle": "BernieSanders",
+     "n_match": 144
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2018-10-15",
+     "text": "Here\u2019s what\u2019s crazy: throwing 32 million Americans off health insurance and cutting Medicare by $500 billion.\n\nThat\u2019s Trump\u2019s plan.\n\nWe have a better idea: Improve Medicare for seniors by providing dental, vision and hearing aids \u2013 and expand it to guarantee health care for all.   QT @realDonaldTrum",
+     "handle": "SenSanders",
+     "n_match": 2
+    },
+    {
+     "date": "2019-02-20",
+     "text": "What\u2019s crazy is that we have a president who is a racist, a sexist, a xenophobe and a fraud. We are going to bring people together and not only defeat Trump but transform the economic and political life of this country. Say you're in:     QT @realDonaldTrump Crazy Bernie has just entered the race. I",
+     "handle": "BernieSanders",
+     "n_match": 2
+    }
+   ],
+   "all": [
+    {
+     "date": "2017-07-24",
+     "text": "It is beyond comprehension that we, as a nation, have not focused attention on the fact that millions of young people can't find work.",
+     "handle": "SenSanders",
+     "n_match": 2747
+    },
+    {
+     "date": "2018-01-20",
+     "text": "Here's why Democrats are standing up to Trump and Mitch McConnell:",
+     "handle": "SenSanders",
+     "n_match": 2747
+    },
+    {
+     "date": "2018-02-21",
+     "text": "The findings of Robert Mueller's investigation must be taken seriously at every level of government, and he must be allowed to investigate without any interference from the White House or Congress.",
+     "handle": "BernieSanders",
+     "n_match": 2747
+    },
+    {
+     "date": "2019-05-27",
+     "text": "While we honor those who made the ultimate sacrifice, we must also remember our veterans. As the former Chair of the Veterans Affairs Committee, I believe we must strengthen the VA and guarantee that all veterans receive the quality health care they earned.",
+     "handle": "SenSanders",
+     "n_match": 2747
+    },
+    {
+     "date": "2020-05-29",
+     "text": "Every officer involved in George Floyd's murder must be arrested and held criminally accountable. Going forward, the DOJ must independently investigate every time a person dies in police custody. That includes officers who passively stand by and allow these killings to happen.",
+     "handle": "BernieSanders",
+     "n_match": 2747
+    },
+    {
+     "date": "2020-09-22",
+     "text": "While Trump believes we can't afford to extend $600 a week to 30 million unemployed workers, he had no problem giving a $688 million bailout to defense contractors like Rolls-Royce not to build more masks and more gowns, but to build more warships and more drones. How Pathetic.   QT @commondreams 'C",
+     "handle": "SenSanders",
+     "n_match": 2747
+    }
+   ]
+  },
+  "Chuck Schumer": {
+   "excl": [
+    {
+     "date": "2018-05-12",
+     "text": "Quick lunch stop between graduation ceremonies around Rochester - only @Wegmans will do!",
+     "handle": "SenSchumer",
+     "n_match": 176
+    },
+    {
+     "date": "2018-06-01",
+     "text": "Special Counsel Mueller has indicted or secured guilty pleas from four former Trump advisers, 13 Russian nationals, three Russian companies, one California man, and one London-based lawyer.   QT @realDonaldTrump A.P. has just reported that the Russian Hoax Investigation has now cost our government o",
+     "handle": "SenSchumer",
+     "n_match": 176
+    },
+    {
+     "date": "2018-10-15",
+     "text": "Hispanic Americans have formed the backbone of strong communities in New York and across the country. From serving in our military to shaping the business industry, the contributions of Latino and Hispanic Americans are immeasurable to our nation. Happy #HispanicHeritageMonth!",
+     "handle": "SenSchumer",
+     "n_match": 176
+    },
+    {
+     "date": "2019-06-16",
+     "text": "Happy Father\u2019s Day from me and my grandson Noah!",
+     "handle": "SenSchumer",
+     "n_match": 176
+    },
+    {
+     "date": "2020-06-02",
+     "text": "We just demanded the Senate uphold Americans\u2019 rights and condemn President Trump\u2019s unconstitutional order to have federal officers use gas and rubber bullets on peaceful protesters.\n\nBut Senator Mitch McConnell objected.\n\nWe will not stop pushing for and demanding action!",
+     "handle": "SenSchumer",
+     "n_match": 176
+    },
+    {
+     "date": "2020-06-10",
+     "text": "Americans across the country want bold action now.\n\nTonight, I demanded that the Senate take up the #JusticeInPolicing Act once it passes the House.\n\nBut Senate Republicans objected to even debating it! Unacceptable.",
+     "handle": "SenSchumer",
+     "n_match": 176
+    }
+   ],
+   "shout": [
+    {
+     "date": "2017-10-16",
+     "text": "@POTUS @POTUS44 History shows tax cuts like these benefit the wealthy and the powerful to the exclusion of the middle class.\n3/6",
+     "handle": "SenSchumer",
+     "n_match": 109
+    },
+    {
+     "date": "2018-02-09",
+     "text": ".@SenatorCardin has repeatedly asked: \u201cHow many of Congress\u2019 Russian sanctions has @POTUS enforced? None. Zero. It is the unanimous view of our entire intelligence community that Russia interfered in our elections, and will again. Yet @POTUS chooses to believe Mr. Putin.\u201d",
+     "handle": "SenSchumer",
+     "n_match": 109
+    },
+    {
+     "date": "2018-08-04",
+     "text": "Happy Birthday to the @USCG! A special thanks to all the servicemembers serving with @USCGNortheast and @USCG_Tri_State who keep our country safe. #CG228 #USCoastGuard",
+     "handle": "SenSchumer",
+     "n_match": 109
+    },
+    {
+     "date": "2020-05-01",
+     "text": "It was President Trump and Senator McConnell who raised taxes on the middle class in New York by raising SALT taxes in their tax scam giveaway for corporations and the wealthiest few.\n\nI fought this. I\u2019m still fighting it.\n\nPresident Trump imposed this. More desperate Trump lies.   QT @realDonaldTru",
+     "handle": "SenSchumer",
+     "n_match": 109
+    },
+    {
+     "date": "2020-08-17",
+     "text": "President Trump is undermining the Post Office to hurt our elections in the middle of a pandemic that\u2019s killed more than 170,000 Americans.\n\nWe\u2019re fighting to save the Post Office from him and his cronies.   QT @realDonaldTrump SAVE THE POST OFFICE!",
+     "handle": "SenSchumer",
+     "n_match": 109
+    },
+    {
+     "date": "2020-10-20",
+     "text": "Let me repeat:\n\nAccording to the Washington Post, Sen. McConnell warned the White House against making a deal on a COVID bill before the election\n\nIt's abundantly clear that he's just holding partisan show votes\n\nDemocrats will not stop fighting for the HEROES Act and real relief   QT @costareports ",
+     "handle": "SenSchumer",
+     "n_match": 109
+    }
+   ],
+   "link": [
+    {
+     "date": "2018-01-16",
+     "text": "Working-class Americans &amp; communities of color have been hardest hit by @POTUS\u2019 political games. Read more: http://news.gallup.com/poll/225383/uninsured-rate-steady-fourth-quarter-2017.aspx",
+     "handle": "SenSchumer",
+     "n_match": 999
+    },
+    {
+     "date": "2018-10-11",
+     "text": "I am so proud of our #LGBTQ family, friends, and neighbors across the country sharing their stories to celebrate #NationalComingOutDay.  \n\nSo many have fought so hard for so long to be able to say #LoveIsLove across America. We will keep fighting to protect these hard won rights. http://pbs.twimg.co",
+     "handle": "SenSchumer",
+     "n_match": 999
+    },
+    {
+     "date": "2019-06-20",
+     "text": "Just spoke on the phone with Luis Alvarez\u2014a hero, an NYPD detective, one of the 9/11 first responders\n\nHe told me that he hopes we can pass the bill in his lifetime\n\n@SenateMajLdr McConnell: Will you commit to a Senate vote as soon as it passes the House?\n\nhttps://nypost.com/2019/06/19/9-11-responde",
+     "handle": "SenSchumer",
+     "n_match": 999
+    },
+    {
+     "date": "2019-06-24",
+     "text": "Leader McConnell has got to do the right thing for the 9/11 first responders\n\nHe\u2019s meeting with them tomorrow\n\nHe should promise them, and all of us, that he'll put the victim compensation fund bill on the floor as soon as it passes the House. #Renew911VCF https://twitter.com/i/broadcasts/1OwxWkMEvE",
+     "handle": "SenSchumer",
+     "n_match": 999
+    },
+    {
+     "date": "2019-11-19",
+     "text": "America needs leaders like @JaneFonda in the fight against climate change.\n\nMy new #CleanCars plan.\nPreserving our climate for future generations.\nFighting for action in the Senate.\n\nThank you so much for your leadership and for working with us, Jane Fonda. http://pbs.twimg.com/media/EJx6MiCXUAEbCPz",
+     "handle": "SenSchumer",
+     "n_match": 999
+    },
+    {
+     "date": "2020-05-29",
+     "text": "Sen. McConnell hasn't scheduled any legislative business related to COVID-19 for the next Senate work period\n\nBut the Senate GOP Conspiracy Caucus will hold hearings on baseless conspiracy theories to prop up Pres. Trump\n\nThey need to focus on this health and economic crisis NOW http://pbs.twimg.com",
+     "handle": "SenSchumer",
+     "n_match": 999
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-07-11",
+     "text": "It\u2019s clear President Trump gave away the store to China for nothing, so now it\u2019s entirely up to Congress to right the administration\u2019s wrong.",
+     "handle": "SenSchumer",
+     "n_match": 629
+    },
+    {
+     "date": "2018-12-14",
+     "text": "If this awful ruling is upheld in the higher courts, it will be a disaster for tens of millions of American families, especially for people with pre-existing conditions.",
+     "handle": "SenSchumer",
+     "n_match": 629
+    },
+    {
+     "date": "2019-08-27",
+     "text": "The Trump administration\u2019s plan to divert money away from FEMA at the start of hurricane season to continue its efforts to separate & jail migrant families is backwards & cruel.",
+     "handle": "SenSchumer",
+     "n_match": 629
+    },
+    {
+     "date": "2019-10-30",
+     "text": "Lieutenant Colonel Vindman and whistleblowers like him are standing up for the Constitution they swore an oath to defend.\n\nTheir lives and families must not be put in jeopardy by outrageous attacks or disclosures.",
+     "handle": "SenSchumer",
+     "n_match": 629
+    },
+    {
+     "date": "2020-02-27",
+     "text": "Democrats will work with President Trump to get a handle on the coronavirus.\n \nBut he must stop the name-calling, playing politics, and blaming everyone but himself.\n \nLives are at stake.",
+     "handle": "SenSchumer",
+     "n_match": 629
+    },
+    {
+     "date": "2020-05-01",
+     "text": "It was President Trump and Senator McConnell who raised taxes on the middle class in New York by raising SALT taxes in their tax scam giveaway for corporations and the wealthiest few.\n\nI fought this. I\u2019m still fighting it.\n\nPresident Trump imposed this. More desperate Trump lies.   QT @realDonaldTru",
+     "handle": "SenSchumer",
+     "n_match": 629
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-06-04",
+     "text": "30 years after Tiananmen Square:\n\nToday, China's Communist Party\u2014led by President Xi\u2014is trying to destroy Uighurs & other Muslim minorities by sending them to re-education camps.\n\nWe must expose these camps for the gross human rights abuses they are.",
+     "handle": "SenSchumer",
+     "n_match": 61
+    },
+    {
+     "date": "2019-06-12",
+     "text": "Disgraceful yet sadly par for the course for this president.\n\nWhen the president talks like this, it\u2019s no wonder @SenateMajLdr McConnell is blocking bipartisan efforts to secure our elections from foreign interference.",
+     "handle": "SenSchumer",
+     "n_match": 61
+    },
+    {
+     "date": "2020-04-07",
+     "text": "Pres. Trump\u2019s corrupt action to sideline Acting Inspector General Glenn Fine\u2014who was newly-appointed as chair of the Pandemic Response Accountability Committee\u2014only strengthens our resolve to hold the admin accountable and enforce the strict oversight provisions of the CARES Act.   QT @thehill Trump",
+     "handle": "SenSchumer",
+     "n_match": 61
+    },
+    {
+     "date": "2020-05-01",
+     "text": "Americans deserve to immediately hear from top Trump admin officials on why we don\u2019t have enough tests, why small biz's are having trouble accessing SBA help, why unemployment insurance checks are failing to get to workers, how to protect frontline workers with needed equipment.",
+     "handle": "SenSchumer",
+     "n_match": 61
+    },
+    {
+     "date": "2020-05-01",
+     "text": "It was President Trump and Senator McConnell who raised taxes on the middle class in New York by raising SALT taxes in their tax scam giveaway for corporations and the wealthiest few.\n\nI fought this. I\u2019m still fighting it.\n\nPresident Trump imposed this. More desperate Trump lies.   QT @realDonaldTru",
+     "handle": "SenSchumer",
+     "n_match": 61
+    },
+    {
+     "date": "2020-05-09",
+     "text": "Pres. Trump said testing \u201cisn\u2019t necessary\u201d!?\n\nAmericans are sick and dying and losing jobs\n\nTesting is the best tool we have now to fight this virus, know who is infected or exposed, know when to re-open\n\nHe needs an adequate national testing strategy NOW",
+     "handle": "SenSchumer",
+     "n_match": 61
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2018-07-23",
+     "text": "Mr. President, Paul Manafort\u2019s trial starts on Wednesday. Time to side with the American people and their right to an election without interference from a hostile foreign power.   QT @realDonaldTrump So President Obama knew about Russia before the Election. Why didn\u2019t he do something about it? Why d",
+     "handle": "SenSchumer",
+     "n_match": 2
+    },
+    {
+     "date": "2020-05-01",
+     "text": "It was President Trump and Senator McConnell who raised taxes on the middle class in New York by raising SALT taxes in their tax scam giveaway for corporations and the wealthiest few.\n\nI fought this. I\u2019m still fighting it.\n\nPresident Trump imposed this. More desperate Trump lies.   QT @realDonaldTru",
+     "handle": "SenSchumer",
+     "n_match": 2
+    }
+   ],
+   "all": [
+    {
+     "date": "2017-09-14",
+     "text": "What has transpired with @Equifax over the past several months is one of the most egregious examples of corporate malfeasance since Enron.",
+     "handle": "SenSchumer",
+     "n_match": 1737
+    },
+    {
+     "date": "2018-02-09",
+     "text": "One of my biggest concerns for Puerto Rico has been the damaged power grid, which NYers from @ConEdison have been working to repair. Our bill will bring an addl $2 billion specifically for Puerto Rico & USVI to repair, improve, & strengthen their electric grids.",
+     "handle": "SenSchumer",
+     "n_match": 1737
+    },
+    {
+     "date": "2018-02-09",
+     "text": ".@SenatorTomUdall is exactly right. We should choose county over politics every time. #DefendOurDemocracy   QT @SenatorTomUdall WATCH LIVE: I'm on the Senate floor calling on Congress to #ProtectMueller and Deputy AG Rod Rosenstein and defend the rule of law and the integrity of our elections. \n\nNow",
+     "handle": "SenSchumer",
+     "n_match": 1737
+    },
+    {
+     "date": "2018-03-17",
+     "text": "Throughout @louiseslaughter\u2019s many decades of service in the U.S. Congress, her steadfast focus was to move the whole Greater Rochester area forward, and the new train station was no exception. It is only fitting to now dedicate the station to her.",
+     "handle": "SenSchumer",
+     "n_match": 1737
+    },
+    {
+     "date": "2019-01-19",
+     "text": "Unfortunately, @realDonaldTrump keeps putting forward one-sided and ineffective remedies.\n\nThere\u2019s only way out: open up the government, Mr. President, and then Democrats and Republicans can have a civil discussion and come up with bipartisan solutions.",
+     "handle": "SenSchumer",
+     "n_match": 1737
+    },
+    {
+     "date": "2019-02-24",
+     "text": "After decades of disinvestment in public housing, @NYCHA needs billions to fix things like pipes and boilers, address lead, and more.\n\nPresident @realDonaldTrump: We must invest more money in public housing now.",
+     "handle": "SenSchumer",
+     "n_match": 1737
+    }
+   ]
+  },
+  "Congress baseline (3% sample)": {
+   "excl": [
+    {
+     "date": "2018-09-21",
+     "text": "The Trump Tax Travesty has given a windfall to big corporations and their stockholders\u201435% of whom are foreign investors. Trump promised his tax cuts would bring $5T back to our economy, but so far 97% of that is missing! And taxpayers are now stuck with a $1.8T \u2191 in our debt.   QT @ObsoleteDogma Tr",
+     "handle": "ChrisVanHollen",
+     "n_match": 2842
+    },
+    {
+     "date": "2019-03-20",
+     "text": "A few weeks ago, Keys residents took a stand and banned sunscreens that harm our coral. I\u2019m doing the same thing in Congress. Healthy coral means healthy oceans!",
+     "handle": "RepDMP",
+     "n_match": 2842
+    },
+    {
+     "date": "2019-05-23",
+     "text": "Good news! The Senate just passed the Anti-Robocall TRACED Act. 97-1. House leadership should bring this up for a vote. This is the strongest bill we'll have ever passed to stop #robocalls.   QT @RepChrisStewart Today I cosponsored the TRACED Act. This bill will help put an end to the annoying & inf",
+     "handle": "RepChrisStewart",
+     "n_match": 2842
+    },
+    {
+     "date": "2020-01-10",
+     "text": "As we kick off our Day Of Action in all of Iowa\u2019s 99 Counties tomorrow, we are also kicking off a new ad focused on my work and the people we can help with a new President in the White House!",
+     "handle": "amyklobuchar",
+     "n_match": 2842
+    },
+    {
+     "date": "2020-09-14",
+     "text": "Proud to join my NC @HouseGOP colleagues and so many others to oppose any efforts to defund the police. Our law enforcement officers all across the country do amazing things every day to protect our communities and I'll always have their backs! #BackTheBlue   QT @Heritage_Action Thank you for signin",
+     "handle": "RepRichHudson",
+     "n_match": 2842
+    },
+    {
+     "date": "2020-12-07",
+     "text": "@bsw5020 And to @sethmoulton for writing the bill!",
+     "handle": "RepSwalwell",
+     "n_match": 2842
+    }
+   ],
+   "shout": [
+    {
+     "date": "2018-10-11",
+     "text": "The #ExpandSocialSecurity Caucus fights for Social Security beneficiaries and a stronger COLA to help seniors meet rising costs. Proud to join over 100 colleagues in defending Social Security against constant political attacks.   QT @RepJohnLarson Today\u2019s COLA announcement of 2.8% is good news! But ",
+     "handle": "RepRaskin",
+     "n_match": 932
+    },
+    {
+     "date": "2018-11-20",
+     "text": "And the #BlueWave keeps going! CONGRATS to Congressman-Elect Ben McAdams!   QT @AP_Politics BREAKING: Democrat Ben McAdams wins election to U.S. House in Utah's 4th congressional district. #APracecall at 5:04 p.m. MST. @AP election coverage:   #Election2018 #UTelection",
+     "handle": "JimmyGomezCA",
+     "n_match": 932
+    },
+    {
+     "date": "2019-07-30",
+     "text": "BREAKING: Our LEGION Act is now law!   QT @SenatorSinema The LEGION Act - our first Senate bill - allows more veterans to join the @AmericanLegion. Watch:",
+     "handle": "SenatorSinema",
+     "n_match": 932
+    },
+    {
+     "date": "2020-05-01",
+     "text": "DEADLINE EXTENDED: #WA04 high school students can now submit artwork to the 2020 Congressional Art Competition until June 1. \n\nStudents can submit their artwork via e-mail or by delivering it to one of my district offices. \n\nFind details here:",
+     "handle": "RepNewhouse",
+     "n_match": 932
+    },
+    {
+     "date": "2020-06-30",
+     "text": "8PM TONIGHT: @SenSchumer, @SenatorCardin, @SenatorShaheen, and I will attempt to pass legislation to extend the PPP and continue to provide critical resources to small businesses grappling with the COVID-19 economic crisis. \n\nWatch here:     QT @ChrisCoons Today, June 30, is the last day for busines",
+     "handle": "ChrisCoons",
+     "n_match": 932
+    },
+    {
+     "date": "2020-09-30",
+     "text": "Kudos to California for banning #PFAS in firefighting foam. They join Colorado, New Hampshire, New York, & Washington in taking action on #foreverchemicals.\n\nToo bad @EPA's grade hasn't changed...\n    QT @EPWDems Remember the report card we issued on @EPA\u2019s efforts to protect people from 'forever ch",
+     "handle": "EPWDems",
+     "n_match": 932
+    }
+   ],
+   "link": [
+    {
+     "date": "2017-07-24",
+     "text": "Great to have some young NDans stop by my booth @ndstatefair to meet 'Flat Heidi' &amp; see winners of the Best of ND Photo Contest http://pbs.twimg.com/media/DFg7DwjXkAIERH9.jpg http://pbs.twimg.com/media/DFg7KVvXUAEcwOO.jpg",
+     "handle": "SenatorHeitkamp",
+     "n_match": 11339
+    },
+    {
+     "date": "2017-11-01",
+     "text": "In #MN01 &amp; across the nation, #Medicaid has proven to be an effective means of providing folks with access to quality care they can afford. http://pbs.twimg.com/media/DNkQE-HV4AAiNNi.jpg",
+     "handle": "RepTimWalz",
+     "n_match": 11339
+    },
+    {
+     "date": "2018-04-26",
+     "text": "It is unacceptable that @ENERGY and its private contractor can\u2019t ensure that the Hanford Waste Treatment Plant is safe. https://twitter.com/opb/status/989366460299427841 QT @OPB \u2622\ufe0f Is the Hanford Waste Treatment Plant safe?\n\nThe federal Government Accountability Office says that's hard to prove. htt",
+     "handle": "RonWyden",
+     "n_match": 11339
+    },
+    {
+     "date": "2018-09-13",
+     "text": "For the 20,000 women, men and children who call a domestic violence hotline each day, a phone is more than just a device \u2013 it\u2019s a lifeline to services, assistance, and help. #LifelineforSurvivors https://www.bustle.com/p/how-the-fcc-will-make-it-harder-for-domestic-violence-survivors-to-get-help-930",
+     "handle": "USRepMikeDoyle",
+     "n_match": 11339
+    },
+    {
+     "date": "2019-06-04",
+     "text": "100 years ago today the Senate passed the 19th Amendment to the Constitution, granting women the right to vote.\n\nToday, a bipartisan group of senators join together to celebrate this historic achievement.\n\nWATCH:\n\nhttps://www.periscope.tv/SenateGOP/1jMJgvAYPXbGL",
+     "handle": "SenateGOP",
+     "n_match": 11339
+    },
+    {
+     "date": "2020-01-30",
+     "text": "Jane, it was good to be with you and our Vermont neighbors today. It may well be the best part of another long and difficult day\u2026 @VermontEdition @VPRnet http://pbs.twimg.com/media/EPjAI5WWAAcJ5un.jpg",
+     "handle": "SenatorLeahy",
+     "n_match": 11339
+    }
+   ],
+   "neg": [
+    {
+     "date": "2017-06-22",
+     "text": "The focus to cap & cut Medicaid & cut poor people off insurance will do nothing but exacerbate everyone else\u2019s rates",
+     "handle": "SenatorCantwell",
+     "n_match": 3443
+    },
+    {
+     "date": "2017-09-30",
+     "text": "Just landed in #PuertoRico and meeting with #NYC emergency reporters",
+     "handle": "RepEspaillat",
+     "n_match": 3443
+    },
+    {
+     "date": "2019-05-03",
+     "text": "Republicans in the Wisconsin State Legislature should stop obstructing a federal investment in our BadgerCare program.",
+     "handle": "SenatorBaldwin",
+     "n_match": 3443
+    },
+    {
+     "date": "2019-09-20",
+     "text": "This week I introduced a new bill to combat deepfake technology and my first bill passed the U.S. House of Representatives. This in more in my #WeeklyRundown video here:",
+     "handle": "RepAGonzalez",
+     "n_match": 3443
+    },
+    {
+     "date": "2020-01-10",
+     "text": "Shame on @GovAbbott for turning his back on those who are the most vulnerable. This is not what the state of Texas is about.   QT @AP BREAKING: Gov. Greg Abbott says Texas will reject refugees, making it the first state to decline resettlement under Trump executive order. Governors of 42 states have",
+     "handle": "RepVeasey",
+     "n_match": 3443
+    },
+    {
+     "date": "2020-07-16",
+     "text": "Biden's fracking ban will derail environmental and economic gains",
+     "handle": "JohnCornyn",
+     "n_match": 3443
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2018-05-16",
+     "text": "#EmolumentsClause means what it says, the President can\u2019t profit personally from his elected office...and that\u2019s exactly what\u2019s happening. #disgraceful #lawless #ethicsviolation   QT @tribelaw A violation of the Emoluments Clause can\u2019t be grandfathered. A violation that builds on a deal made before ",
+     "handle": "LacyClayMO1",
+     "n_match": 297
+    },
+    {
+     "date": "2018-08-08",
+     "text": ".@Clairecmc voted for federal subsidies that made her filthy rich. Missourians can do better than this corrupt Washington politician. #MOSen",
+     "handle": "NRSC",
+     "n_match": 297
+    },
+    {
+     "date": "2018-09-25",
+     "text": "Phil Bredesen supported Hillary Clinton, her ideas, and her crooked agenda. Tennesseans rejected this liberal obstruction in 2016 and they will do it again in November.",
+     "handle": "VoteMarsha",
+     "n_match": 297
+    },
+    {
+     "date": "2019-07-14",
+     "text": "The hate and vitriol needs to end. There\u2019s no excuse for such racist and xenophobic comments, especially from the president of the United States.   QT @realDonaldTrump So interesting to see \u201cProgressive\u201d Democrat Congresswomen, who originally came from countries whose governments are a complete and ",
+     "handle": "RepDianaDeGette",
+     "n_match": 297
+    },
+    {
+     "date": "2020-07-04",
+     "text": "Florida is breaking all the wrong records.\n\nThe governor has failed to protect the lives of Floridians.\n\nHe has failed to protect our small businesses.\n\nWe need a statewide mask order and a plan NOW.\n\n@MSNBC @AlexWitt",
+     "handle": "RepDMP",
+     "n_match": 297
+    },
+    {
+     "date": "2020-09-22",
+     "text": "Republicans have failed the American people, plain and simple. They failed to take COVID-19 seriously from the start, and as a result, millions have been sickened and millions more are out of work. The American people are tired of waiting for Republicans to do their job.",
+     "handle": "RepDebDingell",
+     "n_match": 297
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2017-11-09",
+     "text": "Dear AL auditor @jimzeigler: As a Christian, I need to tell you that Mary and Joseph does not justify child sexual abuse. In fact, nothing in the Bible would justify the alleged actions of Roy Moore on a 14 year old girl. You really should resign, partly for being dumb as a rock.   QT @jaketapper Al",
+     "handle": "tedlieu",
+     "n_match": 5
+    },
+    {
+     "date": "2018-02-09",
+     "text": "THIS is your tweet rather than ending the #GOPShutdown? Lame!   QT @realDonaldTrump Wow! -Senator Mark Warner got caught having extensive contact with a lobbyist for a Russian oligarch. Warner did not want a \u201cpaper trail\u201d on a \u201cprivate\u201d meeting (in London) he requested with Steele of fraudulent Doss",
+     "handle": "MarkPocan",
+     "n_match": 5
+    },
+    {
+     "date": "2019-04-09",
+     "text": "Rural communities like those in Pocahontas County, #WV rely on Secure Rural Schools funding to operate their schools. Today @forestservice Chief Vicki Christiansen committed to me that the overdue payments will be distributed by April 15th.",
+     "handle": "Sen_JoeManchin",
+     "n_match": 5
+    },
+    {
+     "date": "2020-06-30",
+     "text": "-Over 128,000 Americans have died from #COVID19 & the virus is surging in many states.\n\n-Multiple press investigations confirm Russia paid Taliban to kill US troops.\n\n-Systemic racism persists.\n\nBut the below is what @realDonaldTrump is focused on. Also, Roger Ailes is dead.   QT @realDonaldTrump Sh",
+     "handle": "tedlieu",
+     "n_match": 5
+    },
+    {
+     "date": "2020-09-30",
+     "text": "Because Minnesotans know a washed-up con man when they see one.     QT @realDonaldTrump Just landed in Minnesota. Hasn\u2019t been won by a Republican since 1972, and we saved Minneapolis. Also opened the massive and beautiful Iron Range, which Obama and Sleepy Joe closed.  Thousands of jobs started back",
+     "handle": "ericswalwell",
+     "n_match": 5
+    }
+   ],
+   "all": [
+    {
+     "date": "2018-09-13",
+     "text": "Tax Reform 2.0 looks to support locking in tax cuts for middle-class families!   QT @WaysandMeansGOP Watch @RepDavid debunk claims that the new tax law helps the wealthy pay a lower share of taxes \u2b07\ufe0f",
+     "handle": "RepDavid",
+     "n_match": 14905
+    },
+    {
+     "date": "2019-06-12",
+     "text": "@RepBillFoster amendment #23 - Recorded Vote Requested\nAt  7:58 pm The House began 10 min debate on @RepAdamSchiff amendment #24",
+     "handle": "DemCloakroom",
+     "n_match": 14905
+    },
+    {
+     "date": "2019-09-04",
+     "text": "@OIGatHHS @HHSGov More and more children suffered as the Trump Admin enforced #FamilySeparation. Thousands of families were torn apart and HHS ORR\u2019s resources were stretched to the breaking point. Often, counselors were caring for up to 25 children at a time, when the maximum should have been 12.",
+     "handle": "HispanicCaucus",
+     "n_match": 14905
+    },
+    {
+     "date": "2020-03-06",
+     "text": "Health care is a human right. Not a privilege.",
+     "handle": "EdMarkey",
+     "n_match": 14905
+    },
+    {
+     "date": "2020-08-13",
+     "text": "@luvmymoose @RepFredUpton @RepMoolenaar @RepHuizenga @RepWalberg @JackBergman_MI1 Do you lay awake at night concocting another idea for impeachment?  Please - just vote in November and take a deep breath. Btw - I support the no- reason absentee voting as implemented for the August primary.",
+     "handle": "RepPaulMitchell",
+     "n_match": 14905
+    },
+    {
+     "date": "2020-10-20",
+     "text": "I\u2019m proud to work with bipartisan groups of my colleagues every day, and I\u2019m honored that I\u2019ve had 24 bills signed into law by the President.\n\nIt doesn\u2019t have to be \u201cus vs them.\u201d I know we can find common ground to get things done for OK, because I\u2019ve done it. \n\n#OK05Debate",
+     "handle": "HornForCongress",
+     "n_match": 14905
+    }
+   ]
+  },
+  "Donald Trump": {
+   "excl": [
+    {
+     "date": "2017-09-26",
+     "text": "Congratulations to Roy Moore on his Republican Primary win in Alabama. Luther Strange started way back &amp, ran a good race. Roy, WIN in Dec!",
+     "handle": "realDonaldTrump",
+     "n_match": 2765
+    },
+    {
+     "date": "2017-11-29",
+     "text": "A vote to CUT TAXES is a vote to PUT AMERICA FIRST. It is time to take care of OUR WORKERS, to protect OUR COMMUNITIES, and to REBUILD OUR GREAT COUNTRY!",
+     "handle": "realDonaldTrump",
+     "n_match": 2765
+    },
+    {
+     "date": "2017-12-07",
+     "text": "National Pearl Harbor Remembrance Day - \u201cA day that will live in infamy!\u201d December 7, 1941",
+     "handle": "realDonaldTrump",
+     "n_match": 2765
+    },
+    {
+     "date": "2018-12-02",
+     "text": "This week, Jews around the world will celebrate the miracles of Hanukkah. @FLOTUS Melania and I send our very best wishes for a blessed and Happy Hanukkah!",
+     "handle": "realDonaldTrump",
+     "n_match": 2765
+    },
+    {
+     "date": "2019-01-19",
+     "text": "The Economy is one of the best in our history, with unemployment at a 50 year low, and the Stock Market ready to again break a record (set by us many times) - &amp, all you heard yesterday, based on a phony story, was Impeachment. You want to see a Stock Market Crash, Impeach Trump!",
+     "handle": "realDonaldTrump",
+     "n_match": 2765
+    },
+    {
+     "date": "2020-10-12",
+     "text": "The FBI and Law Enforcement must focus their energy on ANTIFA and the Radical Left, those who have spent the summer trying to burn down poorly run Democrat Cities throughout the USA!",
+     "handle": "realDonaldTrump",
+     "n_match": 2765
+    }
+   ],
+   "shout": [
+    {
+     "date": "2017-12-07",
+     "text": "Today, our entire nation pauses to REMEMBER PEARL HARBOR\u2014and the brave warriors who on that day stood tall and fought for America. God Bless our HEROES who wear the uniform, and God Bless the United States of America. #PearlHarborRemembranceDay\ud83c\uddfa\ud83c\uddf8",
+     "handle": "realDonaldTrump",
+     "n_match": 565
+    },
+    {
+     "date": "2018-05-16",
+     "text": "Congratulations to Lou Barletta of Pennsylvania. He will be a great Senator and will represent his people well - like they haven\u2019t been represented in many years. Lou is a friend of mine and a special guy, he will very much help MAKE AMERICA GREAT AGAIN!",
+     "handle": "realDonaldTrump",
+     "n_match": 565
+    },
+    {
+     "date": "2019-11-11",
+     "text": "Schiff is giving Republicans NO WITNESSES, NO LAWYER &amp, NO DUE PROCESS! It is a totally one sided Witch Hunt. This can\u2019t be making the Democrats look good. Such a farce!",
+     "handle": "realDonaldTrump",
+     "n_match": 565
+    },
+    {
+     "date": "2020-02-11",
+     "text": "Mini Mike is a short ball (very) hitter. Tiny club head speed. KEEP AMERICA GREAT!",
+     "handle": "realDonaldTrump",
+     "n_match": 565
+    },
+    {
+     "date": "2020-06-18",
+     "text": "...Religious Liberty, among many other things, are OVER and GONE!",
+     "handle": "realDonaldTrump",
+     "n_match": 565
+    },
+    {
+     "date": "2021-01-08",
+     "text": "The 75,000,000 great American Patriots who voted for me, AMERICA FIRST, and MAKE AMERICA GREAT AGAIN, will have a GIANT VOICE long into the future. They will not be disrespected or treated unfairly in any way, shape or form!!!",
+     "handle": "realDonaldTrump",
+     "n_match": 565
+    }
+   ],
+   "link": [
+    {
+     "date": "2019-10-10",
+     "text": "The joint statement released with President Bolsonaro in March makes absolutely clear that I support Brazil beginning the process for full OECD membership. The United States stands by that statement and stands by @jairbolsonaro. This article is FAKE NEWS! https://t.co/Hym9ZATHjt",
+     "handle": "realDonaldTrump",
+     "n_match": 1142
+    },
+    {
+     "date": "2019-11-27",
+     "text": "People now realize it is a Democrat Hoax! https://t.co/6O3lFa2wU7",
+     "handle": "realDonaldTrump",
+     "n_match": 1142
+    },
+    {
+     "date": "2020-05-17",
+     "text": "I think that is a great compliment. Thank you James! https://t.co/8ZfHD4LjT1",
+     "handle": "realDonaldTrump",
+     "n_match": 1142
+    },
+    {
+     "date": "2020-07-04",
+     "text": "Thank you Tammy. You have quickly become a great voice for freedom! https://t.co/5JRqWqFFfm",
+     "handle": "realDonaldTrump",
+     "n_match": 1142
+    },
+    {
+     "date": "2020-08-13",
+     "text": ".@DonYoungAK really produces for Alaska. He is an incredible Congressman who loves his State and works tirelessly for it. Strong on Public Lands, Energy, and our Second Amendment. He will never let you down, and has my Complete and Total Endorsement! https://t.co/cUR3zuUfs6",
+     "handle": "realDonaldTrump",
+     "n_match": 1142
+    },
+    {
+     "date": "2020-09-18",
+     "text": "On my way to the Great State of Minnesota. See you soon! #MAGA https://t.co/VcuGkJRmEH",
+     "handle": "realDonaldTrump",
+     "n_match": 1142
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-12-06",
+     "text": "Arizona, together with our Military and Border Patrol, is bracing for a massive surge at a NON-WALLED area. WE WILL NOT LET THEM THROUGH. Big danger. Nancy and Chuck must approve Boarder Security and the Wall!",
+     "handle": "realDonaldTrump",
+     "n_match": 1145
+    },
+    {
+     "date": "2019-02-16",
+     "text": "The United States is asking Britain, France, Germany and other European allies to take back over 800 ISIS fighters that we captured in Syria and put them on trial. The Caliphate is ready to fall. The alternative is not a good one in that we will be forced to release them........",
+     "handle": "realDonaldTrump",
+     "n_match": 1145
+    },
+    {
+     "date": "2019-06-16",
+     "text": "....misleading in that I personally spent only a small fraction of that time doing interviews. I do have a few other things to do, you know!). Think I will do many more Network Interviews, as I did in 2016, in order to get the word out that no President has done what I have in...",
+     "handle": "realDonaldTrump",
+     "n_match": 1145
+    },
+    {
+     "date": "2019-07-22",
+     "text": "When we rip down and totally replace a badly broken and dilapidated Barrier on the Southern Border, something which cannot do the job, the Fake News Media gives us zero credit for building a new Wall. We have replaced many miles of old Barrier with powerful new Walls!",
+     "handle": "realDonaldTrump",
+     "n_match": 1145
+    },
+    {
+     "date": "2020-01-30",
+     "text": "BIGGEST TRADE DEAL EVER MADE, the USMCA, was signed yesterday and the Fake News Media barely mentioned it. They never thought it could be done. They have zero credibility!",
+     "handle": "realDonaldTrump",
+     "n_match": 1145
+    },
+    {
+     "date": "2020-02-11",
+     "text": "Impeachment King Steyer (how did that work out?) spent 200 Million Dollars and got less than 1% of the vote in Iowa, and only 3% of the Vote in New Hampshire. Could it be that something is just plain missing? Not easy to do what I did, is it?",
+     "handle": "realDonaldTrump",
+     "n_match": 1145
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-09-08",
+     "text": "Looking forward to being in the North Carolina tomorrow night. We\u2019re having a BIG RALLY for a great guy, Dan Bishop. Strong on Crime, Borders, your Military and our Vets, we need Dan Bishop in Washington badly. His opponent is WEAK on Crime, Borders, and against your 2nd A.",
+     "handle": "realDonaldTrump",
+     "n_match": 442
+    },
+    {
+     "date": "2019-10-18",
+     "text": "\u201cBecause the House has already voted against the Impeachment Proceeding, the current inquiry is totally invalid. The current sham of a so-called investigation is nothing more than an unconstitutional power grab. It needs to end.\u201d  @JasonChaffetz  @seanhannity  Corrupt Adam Schiff",
+     "handle": "realDonaldTrump",
+     "n_match": 442
+    },
+    {
+     "date": "2020-04-11",
+     "text": "The Wall Street Journal Editorial Board doesn\u2019t have a clue on how to fight and win. Their views on Tariffs & Trade are losers for the U.S., but winners for other countries, including China. If we followed their standards,  we\u2019d have no Country left. They should love Sleepy Joe!",
+     "handle": "realDonaldTrump",
+     "n_match": 442
+    },
+    {
+     "date": "2020-09-02",
+     "text": "We had FAR more people (many millions) watching us at the RNC than did Sleepy Joe and the DNC, and yet an ad just ran saying the opposite. This is what we\u2019re up against. Lies. But we will WIN!",
+     "handle": "realDonaldTrump",
+     "n_match": 442
+    },
+    {
+     "date": "2020-10-12",
+     "text": "He should have been prosecuted for the threats he made to the Justices. Pathetic!",
+     "handle": "realDonaldTrump",
+     "n_match": 442
+    },
+    {
+     "date": "2020-10-16",
+     "text": "Sleepy Joe Biden had a very bad showing last night, despite the fact that @GStephanopoulos didn\u2019t ask him any questions on his being a \u201ccorrupt politician\u201d. Big Tech & Lamestream Media are working hard to hide this corruption!!!",
+     "handle": "realDonaldTrump",
+     "n_match": 442
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2018-03-17",
+     "text": "The Mueller probe should never have been started in that there was no collusion and there was no crime. It was based on fraudulent activities and a Fake Dossier paid for by Crooked Hillary and the DNC, and improperly used in FISA COURT for surveillance of my campaign. WITCH HUNT!",
+     "handle": "realDonaldTrump",
+     "n_match": 136
+    },
+    {
+     "date": "2018-12-18",
+     "text": "....WILL NEVER BE PROVEN AND ARE LIKELY FALSE.\u201d  Thank you to Michael Isikoff, Yahoo, for honesty. What this means is that the FISA WARRANTS and the whole Russian Witch Hunt is a Fraud and a Hoax which should be ended immediately. Also, it was paid for by Crooked Hillary &amp, DNC!",
+     "handle": "realDonaldTrump",
+     "n_match": 136
+    },
+    {
+     "date": "2019-10-22",
+     "text": "Can\u2019t believe that Nervous Nancy Pelosi isn\u2019t moving faster on USMCA. Her people want it, they don\u2019t know why she isn\u2019t putting it up for a bipartisan vote. Taking too long!",
+     "handle": "realDonaldTrump",
+     "n_match": 136
+    },
+    {
+     "date": "2020-05-01",
+     "text": "Cryin Chuck Schumer, compared to what other Senators have brought home to their states, has brought very little back to N.Y. A totally overrated loser, the one thing he has given them is SALT. He never even called me to stop it. No wonder Cuomo & most others can\u2019t stand him. AOC!",
+     "handle": "realDonaldTrump",
+     "n_match": 136
+    },
+    {
+     "date": "2020-05-25",
+     "text": "....3 months and, if I waited 3 years, they would do their usual \u201chit\u201d pieces anyway. They are sick with hatred and dishonesty. They are truly deranged! They don\u2019t mention Sleepy Joe\u2019s poor work ethic,  or all of the time Obama spent on the golf course, often flying to....",
+     "handle": "realDonaldTrump",
+     "n_match": 136
+    },
+    {
+     "date": "2020-06-30",
+     "text": "I will Veto the Defense Authorization Bill if the Elizabeth \u201cPocahontas\u201d Warren (of all people!) Amendment, which will lead to the renaming (plus other bad things!) of Fort Bragg, Fort Robert E. Lee, and many other Military Bases from which we won Two World Wars, is in the Bill!",
+     "handle": "realDonaldTrump",
+     "n_match": 136
+    }
+   ],
+   "all": [
+    {
+     "date": "2017-11-05",
+     "text": "...Americans do what we do best: we pull together. We join hands. We lock arms and through the tears and the sadness, we stand strong...",
+     "handle": "realDonaldTrump",
+     "n_match": 3581
+    },
+    {
+     "date": "2018-04-18",
+     "text": "Prime Minister @AbeShinzo of Japan and myself this morning building an even deeper and better relationship while playing a quick round of golf at Trump International Golf Club.",
+     "handle": "realDonaldTrump",
+     "n_match": 3581
+    },
+    {
+     "date": "2018-09-01",
+     "text": "\u201cYou have a Fake Dossier, gathered by Steele, paid by the Clinton team to get information on Trump. The Dossier is Fake, nothing in it has been verified. It then filters into our American court system in order to spy on Barrack Obama and Hillary Clinton\u2019s political opponent......",
+     "handle": "realDonaldTrump",
+     "n_match": 3581
+    },
+    {
+     "date": "2020-05-29",
+     "text": "Twitter is doing nothing about all of the lies & propaganda being put out by China or the Radical Left Democrat Party. They have targeted Republicans, Conservatives & the President of the United States. Section 230 should be revoked by Congress. Until then, it will be regulated!",
+     "handle": "realDonaldTrump",
+     "n_match": 3581
+    },
+    {
+     "date": "2020-06-18",
+     "text": "The DACA decision, while a highly political one, and seemingly not based on the law, gives the President of the United States far more power than EVER anticipated. Nevertheless, I will only act in the best interests of the United States of America!",
+     "handle": "realDonaldTrump",
+     "n_match": 3581
+    },
+    {
+     "date": "2020-10-24",
+     "text": "Trump Predicts 35% Growth in Q3 -- \u2018We\u2018re Coming Back Stronger\u2018   via @BreitbartNews Would be biggest ever!",
+     "handle": "realDonaldTrump",
+     "n_match": 3581
+    }
+   ]
+  },
+  "Elizabeth Warren": {
+   "excl": [
+    {
+     "date": "2019-08-15",
+     "text": "Last month, the FTC tweeted and advertised that the nearly 150 million Americans who had their data exposed in the @Equifax breach were eligible for $125 each in compensation.\n\nNow they\u2019re saying, \u201cJust kidding!\u201d I\u2019m demanding answers.",
+     "handle": "ewarren",
+     "n_match": 383
+    },
+    {
+     "date": "2019-10-30",
+     "text": "I agree with @RepDebHaaland: the Chaco region is sacred & must be protected for future generations. I\u2019ve supported legislation in the Senate to do that. The House should pass the Chaco Cultural Heritage Area Protection Act today. #ProtectChaco #ProtectTheSacred   QT @RepDebHaaland TODAY: The House v",
+     "handle": "SenWarren",
+     "n_match": 383
+    },
+    {
+     "date": "2019-12-05",
+     "text": "Dream Big.\nFight Hard.\nAnd together, we can win!",
+     "handle": "ewarren",
+     "n_match": 383
+    },
+    {
+     "date": "2020-01-06",
+     "text": "Thank you, @JulianCastro! You\u2019ve been a powerful voice for bold, progressive change and I\u2019m honored to have your support. Together, we'll fight to make sure every single family in America has a path to opportunity.   QT @JulianCastro Today I'm proud to endorse @ewarren for president.\n\nElizabeth and ",
+     "handle": "ewarren",
+     "n_match": 383
+    },
+    {
+     "date": "2020-02-15",
+     "text": "@SenatorReid @BarackObama This grassroots movement raised more than $1 million in less than 24 hours\u2014so we were able to expand our TV ads in Nevada!\n\nChip in $5 or whatever you can now to help us spread our message in Nevada, South Carolina, and Super Tuesday states:",
+     "handle": "ewarren",
+     "n_match": 383
+    },
+    {
+     "date": "2020-02-19",
+     "text": "It was so great to meet you, @YNB!   QT @YNB This moment captured! \u2764\ufe0f#TeamWarren \ud83d\uddfd \u2066@ewarren\u2069",
+     "handle": "ewarren",
+     "n_match": 383
+    }
+   ],
+   "shout": [
+    {
+     "date": "2017-11-01",
+     "text": "The very same day SCOTUS announced they\u2019d hear Janus v AFSCME, Gorsuch was hobnobbing with anti-union funders at the Trump Hotel.",
+     "handle": "SenWarren",
+     "n_match": 115
+    },
+    {
+     "date": "2018-11-16",
+     "text": "UPDATE: @SenateMajLdr McConnell is making a last-ditch effort to push Thomas Farr's judicial nomination through the Senate. If he's confirmed, you can bet he'll keep working to disenfranchise African Americans and communities of color. We can't let that happen.   QT @SenWarren Thomas Farr, @realdona",
+     "handle": "SenWarren",
+     "n_match": 115
+    },
+    {
+     "date": "2019-06-28",
+     "text": "We need to fight for immigrant families and stop Donald Trump\u2019s racist policies\u2014and we can only do it together.   QT @MoveOn ANNOUNCEMENT: There will be nationwide protests on Tuesday, July 2 demanding the closure of the inhumane immigrant detention centers subjecting children and families to horrif",
+     "handle": "ewarren",
+     "n_match": 115
+    },
+    {
+     "date": "2019-10-10",
+     "text": "The Trump administration has sought to roll back protections for LGBTQ+ people around the world. In my administration, it will end. I'll protect LGBTQ+ asylum seekers and put the full muscle of the State Department behind protecting human rights for LGBTQ+ people globally.",
+     "handle": "ewarren",
+     "n_match": 115
+    },
+    {
+     "date": "2020-06-30",
+     "text": "The recent Supreme Court rulings on DACA, abortion, & the @CFPB are a reminder of the importance of a fair and impartial federal judiciary. I hope you\u2019ll join us tonight for this important conversation.   QT @UltraViolet SCOTUS could do lasting damage to our democracy. Join @SenWarren, @aliciagarza ",
+     "handle": "SenWarren",
+     "n_match": 115
+    },
+    {
+     "date": "2020-07-16",
+     "text": "Next week marks the 10th anniversary of President Obama signing Dodd-Frank \u2013 the Wall Street reform bill that created the @CFPB. I hope you\u2019ll join @RichCordray & me tomorrow for a conversation with @RealBankReform about the future of consumer protection.   QT @RealBankReform On FRIDAY: join @SenWar",
+     "handle": "SenWarren",
+     "n_match": 115
+    }
+   ],
+   "link": [
+    {
+     "date": "2017-07-24",
+     "text": ".@realDonaldTrump\u2019s nominee for Dep Sec of the @Interior, David Bernhardt, is a corporate insider &amp; walking conflict of interest. http://pbs.twimg.com/media/DFhdhj7XYAE0wH3.jpg https://video.twimg.com/amplify_video/889528068049686529/vid/1280x720/obiQezPI7qew2h2z.mp4",
+     "handle": "SenWarren",
+     "n_match": 2173
+    },
+    {
+     "date": "2018-04-18",
+     "text": "Today, @RepCummings and I are introducing the #CAREact. Our bill will provide $100 billion in federal funding over the next decade so we can treat the opioid crisis the same way we tackled the HIV/AIDS epidemic \u2013 like the critical public health emergency it is. http://pbs.twimg.com/media/DbE5EbDU0AA",
+     "handle": "SenWarren",
+     "n_match": 2173
+    },
+    {
+     "date": "2019-02-28",
+     "text": "My friend @AyannaPressley is our first African American congresswoman in Massachusetts. Ayanna has been our champion for women and families here in Boston for years\u2014and now she\u2019s showing the world that #ChangeCantWait. #BlackHistoryMonth https://www.huffingtonpost.com/entry/ayanna-pressley-wins-firs",
+     "handle": "ewarren",
+     "n_match": 2173
+    },
+    {
+     "date": "2019-04-17",
+     "text": "It was an honor to meet you, Dr. Apryl. https://twitter.com/DrAprylA/status/1118342292752830464 QT @DrAprylA @ewarren in Aurora campaigning and discussing bringing back democracy http://pbs.twimg.com/media/D4UmYejVUAAGnOq.jpg",
+     "handle": "ewarren",
+     "n_match": 2173
+    },
+    {
+     "date": "2019-10-10",
+     "text": "In addition to abusing and manipulating our diplomatic relationships for Trump's political gain, we can add corruption and campaign finance violations to the list.\u00a0https://www.thedailybeast.com/giulianis-ukraine-henchmen-lev-parnas-and-igor-fruman-arrested-on-campaign-finance-charge",
+     "handle": "ewarren",
+     "n_match": 2173
+    },
+    {
+     "date": "2020-02-11",
+     "text": "It's no coincidence that this sentencing change follows the president's tweet this morning. Donald Trump's administration is filled with corruption\u2014and we must root it out. https://www.washingtonpost.com/national-security/justice-dept-to-reduce-sentencing-recommendation-for-trump-associate-roger-sto",
+     "handle": "ewarren",
+     "n_match": 2173
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-03-13",
+     "text": "These aren't \u201ccommunity banks\u201d \u2013 these are huge financial institutions that wrecked out economy in 2008 & sucked down about $50 billion in taxpayer bailouts. The #BankLobbyistAct takes them off the watch list & puts us at risk for another financial crisis.",
+     "handle": "SenWarren",
+     "n_match": 1089
+    },
+    {
+     "date": "2019-01-15",
+     "text": "William Barr has already expressed his bias against the Mueller investigation \u2013 that alone should disqualify him from serving as Attorney General. He also wants to gut the ACA, thinks Roe v Wade should be overturned, & has a troubling record on criminal justice. I'll vote no.",
+     "handle": "SenWarren",
+     "n_match": 1089
+    },
+    {
+     "date": "2019-04-29",
+     "text": "She used to lobby for a Ukrainian oligarch. Now the Trump administration wants to give her a plum job at the Treasury Department. Under my plan to #EndCorruptionNow, it\u2019d be illegal for former lobbyists like her to work for our government.",
+     "handle": "ewarren",
+     "n_match": 1089
+    },
+    {
+     "date": "2019-08-03",
+     "text": "The news out of El Paso is devastating. I'm heartbroken for the victims and their families. Far too many communities have suffered through tragedies like this already. We must act now to end our country's gun violence epidemic.",
+     "handle": "ewarren",
+     "n_match": 1089
+    },
+    {
+     "date": "2020-02-19",
+     "text": "I'll fight for your family just as hard as I've fought for my own. #DemDebate",
+     "handle": "ewarren",
+     "n_match": 1089
+    },
+    {
+     "date": "2020-10-28",
+     "text": "The White House put out a political puff piece taking credit for \"ending the COVID-19 pandemic.\u201d Is this a sick joke? The pandemic is getting worse. Americans are dying. And Donald Trump is incapable of leading the country through this crisis.",
+     "handle": "SenWarren",
+     "n_match": 1089
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-06-04",
+     "text": "Even Silicon Valley is cashing in on the Pentagon\u2019s corrupt contracting system. My @DeptofDefense Ethics & Anti-Corruption Act with @RepSpeier would lock the revolving door so that the Pentagon isn't working for the benefit of past-and-future employers.",
+     "handle": "SenWarren",
+     "n_match": 102
+    },
+    {
+     "date": "2019-12-09",
+     "text": "I'm not afraid to stand up to billionaires and corrupt politicians to fight for the big, structural change we need.",
+     "handle": "ewarren",
+     "n_match": 102
+    },
+    {
+     "date": "2020-02-23",
+     "text": "I've got a plan to legalize marijuana, rebuild communities devastated by failed anti-marijuana policies, and ensure that those communities are equally able to participate in the budding cannabis industry. Here\u2019s how we\u2019ll do it.",
+     "handle": "ewarren",
+     "n_match": 102
+    },
+    {
+     "date": "2020-04-03",
+     "text": "The paid sick leave policies @Instacart, @DoorDash, @Grubhub, & @UberEats are touting here are the same ones I wrote to them about. They require medical documentation or only kick in with a confirmed diagnosis. And workers report being denied sick leave even with a doctor's note.",
+     "handle": "SenWarren",
+     "n_match": 102
+    },
+    {
+     "date": "2020-08-25",
+     "text": "Protestors in Belarus are bravely raising their voices to fight for democracy, but Trump\u2019s White House has stayed quiet. Belarus deserves free and fair elections, and a government that works for all its citizens \u2013 not a corrupt dictator.",
+     "handle": "SenWarren",
+     "n_match": 102
+    },
+    {
+     "date": "2020-11-29",
+     "text": "Being a sore loser has real consequences\u2014because presidential transitions affect lives and livelihoods.",
+     "handle": "ewarren",
+     "n_match": 102
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2019-02-28",
+     "text": "Voter suppression is real \u2013 just look at the corruption in Georgia during the 2018 election. We need to overturn every last voter suppression law that keeps people of color from voting, and we need a constitutional amendment guaranteeing the right to vote for everyone.",
+     "handle": "ewarren",
+     "n_match": 3001
+    },
+    {
+     "date": "2019-03-08",
+     "text": "Today was my first pop-up event with grassroots donors\u2014people who\u2019ve chipped in $25 here, or $5 there\u2014in East Harlem. Glad we got a chance to talk about how we\u2019re running a campaign by the people, for the people. Watch your emails and texts for one near you!",
+     "handle": "ewarren",
+     "n_match": 3001
+    },
+    {
+     "date": "2019-11-15",
+     "text": "I'm going to fight my heart out for #MedicareForAll\u2014and here's how I'll get us there in my first term.",
+     "handle": "ewarren",
+     "n_match": 3001
+    },
+    {
+     "date": "2020-05-09",
+     "text": "The White House has let politics get in the way of public health experts\u2019 advice over and over again during this crisis. Enough is enough. President Trump, stop standing in @CDCgov\u2019s way.",
+     "handle": "SenWarren",
+     "n_match": 3001
+    },
+    {
+     "date": "2020-08-25",
+     "text": "I\u2019m excited to endorse @Axne4Congress\u2019s run for reelection. Now more than ever, we need leaders who put people first. Cindy has proven to be a fierce advocate for Iowa families, and we need Cindy's voice in the House. I\u2019m with her in this fight\u2014and the many fights to come.",
+     "handle": "ewarren",
+     "n_match": 3001
+    },
+    {
+     "date": "2020-09-30",
+     "text": "Government should be on the side of the people. But Donald Trump is and always has been incapable of that kind of leadership, because it involves putting the lives of our people first. He simply doesn't know how to do anything that's not all about Donald Trump.",
+     "handle": "ewarren",
+     "n_match": 3001
+    }
+   ]
+  },
+  "Kamala Harris": {
+   "excl": [
+    {
+     "date": "2017-10-20",
+     "text": "\ud83c\udf89\ud83c\udf82 #HappyBirthdayKamala from Team Kamala! \ud83c\udf82\ud83c\udf89\nSign the card we\u2019re giving her:",
+     "handle": "KamalaHarris",
+     "n_match": 160
+    },
+    {
+     "date": "2018-11-16",
+     "text": "I was so incredibly excited to appoint @katieporteroc as my watchdog against the Big Banks. Now I\u2019m even prouder to welcome her to Congress, representing CA-45. I know she\u2019ll ensure that all constituents have a voice in our government again. Congrats Katie!",
+     "handle": "KamalaHarris",
+     "n_match": 160
+    },
+    {
+     "date": "2019-03-20",
+     "text": "Wonderful news for California \u2013 we are drought free for the first time in 7 years! If you\u2019re hoping to visit the \u2018Super Bloom\u2019 region, please first check for warnings and closure notices from local officials. Too many visitors may endanger the area!",
+     "handle": "SenKamalaHarris",
+     "n_match": 160
+    },
+    {
+     "date": "2019-12-09",
+     "text": "This is beautiful! Congratulations, ladies.   QT @Essence In 2019, Miss America, Miss Teen USA, Miss USA, and Miss Universe are all Black women. Excuse  us, we're getting emotional. \ud83d\ude0d\ud83d\ude25(\ud83d\udcf7: Getty/ Miss USA)",
+     "handle": "SenKamalaHarris",
+     "n_match": 160
+    },
+    {
+     "date": "2020-03-02",
+     "text": "For me, Howard is home, the family that you chose. For generations, students at Howard have been supported and inspired to forge the way forward for our country and our world. Happy Charter Day, @HowardU!",
+     "handle": "KamalaHarris",
+     "n_match": 160
+    },
+    {
+     "date": "2020-06-10",
+     "text": "Happy one-year anniversary, @ZoraMag! Your work to center and celebrate women of color is so important, especially during this time. \n\nI was honored to participate in your launch\u2014the fight for equal pay continues.",
+     "handle": "KamalaHarris",
+     "n_match": 160
+    }
+   ],
+   "shout": [
+    {
+     "date": "2017-08-25",
+     "text": "This is wrong. By choosing to pardon Sheriff Joe Arpaio, Trump is siding with discrimination. I stand in solidarity w/ the Latino community.   QT @MSNBC JUST IN: Trump pardons Sheriff Joe Arpaio",
+     "handle": "KamalaHarris",
+     "n_match": 78
+    },
+    {
+     "date": "2018-08-16",
+     "text": "Six years ago this week, DACA went into effect, giving Dreamers the security they needed to continue to live in the only country they\u2019ve ever known. But because of this Administration, hundreds of thousands are still terrified they'll be kicked out of the country they call home.   QT @NBCNightlyNews",
+     "handle": "KamalaHarris",
+     "n_match": 78
+    },
+    {
+     "date": "2019-08-15",
+     "text": "The first DACA applications were accepted 7 yrs ago today; yet too many Dreamers still live their lives in limbo, afraid one day they\u2019ll be kicked out of our country. When I\u2019m president, I\u2019ll take executive action to protect DACA recipients and put them on a path to citizenship.",
+     "handle": "KamalaHarris",
+     "n_match": 78
+    },
+    {
+     "date": "2020-05-17",
+     "text": "They\u2019re trying to dismantle the United States Postal Service and privatize it. We must fight with every breath we have to make sure USPS workers are protected and everyone has access to reliable, affordable mail service. Congress must take immediate action to protect the USPS.",
+     "handle": "KamalaHarris",
+     "n_match": 78
+    },
+    {
+     "date": "2020-06-30",
+     "text": "10 million COVID-19 cases confirmed worldwide\n2.6 million confirmed in the United States\n126,000 American deaths\nNo leadership from the Trump administration\n\nIt's absurd that Senate GOP are holding up additional COVID-19 relief. The House passed a bill on May 15. We need to act.",
+     "handle": "SenKamalaHarris",
+     "n_match": 78
+    },
+    {
+     "date": "2020-10-12",
+     "text": "Congrats @Lakers on your 17th NBA Championship last night. You make California proud.   QT @Lakers JOB'S FINISHED: YOUR LOS ANGELES LAKERS ARE NBA CHAMPIONS",
+     "handle": "KamalaHarris",
+     "n_match": 78
+    }
+   ],
+   "link": [
+    {
+     "date": "2017-07-12",
+     "text": "Proud to join @CoryBooker, @SenWarren, &amp; @SenatorDurbin to work to reform the way women are treated behind bars. http://www.huffingtonpost.com/entry/cory-booker-and-elizabeth-warren-want-to-treat-women-in-prison-like-human-beings_us_5964cce5e4b005b0fdc84b00?mto",
+     "handle": "SenKamalaHarris",
+     "n_match": 1974
+    },
+    {
+     "date": "2018-01-08",
+     "text": "More El Salvadorian TPS recipients call California home than any other state. Turning our back on them is cruel.  \nhttps://twitter.com/nytimes/status/950386634050109440 QT @nytimes Breaking News: Nearly 200,000 Salvadorans allowed to live in the U.S. temporarily after 2 earthquakes in 2001 must leav",
+     "handle": "KamalaHarris",
+     "n_match": 1974
+    },
+    {
+     "date": "2018-01-16",
+     "text": "For the first time since 2008, the number of adults without health insurance increased. Americans are being hurt by the Trump Administration\u2019s efforts to sabotage the Affordable Care Act. \nhttps://twitter.com/latimespolitics/status/953222189238468608 QT @latimespolitics Number of Americans without h",
+     "handle": "KamalaHarris",
+     "n_match": 1974
+    },
+    {
+     "date": "2018-07-23",
+     "text": "Many families are desperately trying to reunite with their kids, but struggling to cover the costs of reunification. That\u2019s why I\u2019m partnering with the #FamiliesBelongTogether coalition to help raise funds for airfare, hotel, and personal items. Chip in:\nhttps://secure.actblue.com/donate/kdh-180723-",
+     "handle": "KamalaHarris",
+     "n_match": 1974
+    },
+    {
+     "date": "2019-02-20",
+     "text": "No parent should have to think about buying their child a bulletproof backpack to keep them safe at school. Let\u2019s be the generation that finally addresses gun violence epidemic. http://pbs.twimg.com/ext_tw_video_thumb/1098348322874707971/pu/img/JCRphSw_KskLcrjh.jpg https://video.twimg.com/ext_tw_vid",
+     "handle": "KamalaHarris",
+     "n_match": 1974
+    },
+    {
+     "date": "2019-10-02",
+     "text": "The cruelty of this Administration knows no bounds. http://pbs.twimg.com/media/EF34af6WoAEpqEk.jpg https://video.twimg.com/amplify_video/1179371293575188481/vid/480x270/ZZy_0ieNboERgY88.mp4?tag=13",
+     "handle": "KamalaHarris",
+     "n_match": 1974
+    }
+   ],
+   "neg": [
+    {
+     "date": "2017-08-13",
+     "text": "Heather Heyer, 32-years-old, was the victim of white supremacist violence yesterday in Charlottesville. \n\nRest In Peace.",
+     "handle": "KamalaHarris",
+     "n_match": 1224
+    },
+    {
+     "date": "2019-07-18",
+     "text": "We know adversaries are intent on interfering in our democracy. But Senate Republicans are still blocking legislation to secure our elections. I\u2019m sick and tired of this. The time to secure our elections is now\u2014while there\u2019s still time.",
+     "handle": "SenKamalaHarris",
+     "n_match": 1224
+    },
+    {
+     "date": "2019-11-03",
+     "text": "Fighting #ForThePeople means fighting for ALL people. \n\nRegardless of their race. \nRegardless of their gender.\nRegardless of their sexual orientation.\nRegardless of their political party. \nRegardless of the language their grandmother speaks. \n\nEveryone.",
+     "handle": "KamalaHarris",
+     "n_match": 1224
+    },
+    {
+     "date": "2020-01-18",
+     "text": "We passed the Equal Pay Act in 1963. It is now 2020. \n\nWomen are still paid on average 80 cents on the dollar.\nBlack women 61 cents.\nNative American women 58 cents. \nLatinas 53 cents. \n\nThis is an injustice and it's got to change.",
+     "handle": "KamalaHarris",
+     "n_match": 1224
+    },
+    {
+     "date": "2020-03-10",
+     "text": "Today, I\u2019m thrilled to lead the introduction of a historic legislative package alongside @RepUnderwood and @RepAdams to address the Black maternal health crisis.",
+     "handle": "SenKamalaHarris",
+     "n_match": 1224
+    },
+    {
+     "date": "2020-10-24",
+     "text": "If you already voted, your job\u2019s not finished yet: with only 10 days until Election Day, we need your help talking to voters in critical battleground states and reminding them to cast their ballots. Sign up to make calls today:",
+     "handle": "KamalaHarris",
+     "n_match": 1224
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2018-08-04",
+     "text": "Our government failed our fellow Americans in Puerto Rico. A few months ago, I introduced a bill to create procedures to ensure an accurate death count. We can\u2019t let this ever happen again.\n  QT @thehill Puerto Rico hurricane death toll 15 to 20 times higher than government estimate: study",
+     "handle": "KamalaHarris",
+     "n_match": 94
+    },
+    {
+     "date": "2019-05-15",
+     "text": "I\u2019m sick and tired of these attacks on women\u2019s rights. We are fighting to raise $80,000 for the organizations on the front lines of this fight. Pitch in today:",
+     "handle": "KamalaHarris",
+     "n_match": 94
+    },
+    {
+     "date": "2019-06-20",
+     "text": "Disgraceful. The Trump administration has been given the go-ahead to prohibit health care providers that participate in Title X from referring patients for abortion services. Women will suffer because the administration is playing politics with health care. I will fight this.   QT @washingtonpost Ni",
+     "handle": "SenKamalaHarris",
+     "n_match": 94
+    },
+    {
+     "date": "2019-09-04",
+     "text": "Mexico isn\u2019t paying for Trump\u2019s stupid border wall \u2014 we are.",
+     "handle": "KamalaHarris",
+     "n_match": 94
+    },
+    {
+     "date": "2019-09-28",
+     "text": "This is outrageous. Former ICE Director Homan must apologize to @RepJayapal for his disgraceful behavior.   QT @andrewkimmel Former \u2066@ICEgov\u2069 Dir. Tom Homan shows no respect to \u2066@RepJayapal\u2069 during a House hearing today after going over his time, shouting out,\n\u201cI'm a taxpayer, you work for me!\u201d",
+     "handle": "SenKamalaHarris",
+     "n_match": 94
+    },
+    {
+     "date": "2020-05-01",
+     "text": "Front line workers at large corporations like Amazon and Instacart deserve PPE. They deserve paid sick leave. They deserve a safe working environment. \n\nBut many don\u2019t have these protections. \n\nI stand with those on strike today for safe working conditions. #MayDay",
+     "handle": "KamalaHarris",
+     "n_match": 94
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2019-03-12",
+     "text": "This is a movement about all of us, not big money. Our campaign doesn\u2019t accept contributions from corporate PACs and federal lobbyists \u2014 instead, we\u2019re putting our campaign in the hands of people like you. Chip in now\u2192",
+     "handle": "KamalaHarris",
+     "n_match": 3368
+    },
+    {
+     "date": "2019-08-15",
+     "text": "Teachers go above and beyond their job for their students \u2014 past and present \u2014 every day. We need to pay them their value.",
+     "handle": "KamalaHarris",
+     "n_match": 3368
+    },
+    {
+     "date": "2019-10-10",
+     "text": "As president, I will appoint LGBTQ+ people\u2014including transgender and gender non-conforming people\u2014to leadership roles throughout my Administration because our government and our courts work best when they reflect the people they serve.",
+     "handle": "KamalaHarris",
+     "n_match": 3368
+    },
+    {
+     "date": "2019-10-10",
+     "text": "If you live in the Bay Area, here\u2019s a helpful website for tracking PG&E\u2019s power shut-offs. None of this is acceptable and PG&E must be held accountable for the lack of maintenance of their power lines. For now, please stay safe and exercise caution.",
+     "handle": "SenKamalaHarris",
+     "n_match": 3368
+    },
+    {
+     "date": "2019-11-03",
+     "text": "We are one year out from the most important election of our lifetime.\n \nWe know justice is on the ballot. We\u2019ve got to organize, mobilize, and fight to ensure we finally say goodbye to the national nightmare we call Donald Trump and elect Democrats up and down the ballot.",
+     "handle": "KamalaHarris",
+     "n_match": 3368
+    },
+    {
+     "date": "2020-05-01",
+     "text": "Millions of voters in Los Angeles County will now automatically receive vote-by-mail ballots. This is huge and I'm proud to see the LA area leading the way.\n\nIt's critical that other jurisdictions move quickly to ensure safe elections in November.",
+     "handle": "SenKamalaHarris",
+     "n_match": 3368
+    }
+   ]
+  },
+  "Kevin McCarthy": {
+   "excl": [
+    {
+     "date": "2019-05-03",
+     "text": "Huge. The lowest unemployment rate in 50 years!   QT @CNBC 263,000 non-farm jobs were created last month, beating expectations. The unemployment rate also dropped to 3.6%, the lowest rate since December 1969.",
+     "handle": "GOPLeader",
+     "n_match": 106
+    },
+    {
+     "date": "2019-11-07",
+     "text": "Speaker Pelosi: \u201cNobody\u2014I doubt anybody in this place comes to Congress to impeach the President of the United States.\u201d\n\nThe new Socialist-Democrats: \u201cWe\u2019re going to go in there, and we\u2019re going to impeach the mother-----*!\u201d",
+     "handle": "GOPLeader",
+     "n_match": 106
+    },
+    {
+     "date": "2019-12-25",
+     "text": "From my family to yours, Merry Christmas! \ud83c\udf84",
+     "handle": "GOPLeader",
+     "n_match": 106
+    },
+    {
+     "date": "2020-01-18",
+     "text": "The Republican Party is more united than I've ever seen it before. We are working as one to move America forward!",
+     "handle": "GOPLeader",
+     "n_match": 106
+    },
+    {
+     "date": "2020-02-27",
+     "text": "Our President understands that all of California is not alike. Thank you, President @realDonaldTrump, for keeping your promises to America\u2019s farmers!",
+     "handle": "GOPLeader",
+     "n_match": 106
+    },
+    {
+     "date": "2020-12-11",
+     "text": "\ud83d\udea8 GREAT NEWS! \ud83d\udea8 A safe and effective vaccine is approved!\n\nPresident Trump is right \u2192 The pandemic may have begun in China, but we are ending it right here in America.   QT @realDonaldTrump",
+     "handle": "GOPLeader",
+     "n_match": 106
+    }
+   ],
+   "shout": [
+    {
+     "date": "2018-03-21",
+     "text": "The Federal Government may be closed but Congress is not. THE HOUSE WILL STILL VOTE TODAY. \ud83d\udc4d\n\nFYI \u2192 Today in Bakersfield (High 65/Low 61)",
+     "handle": "GOPLeader",
+     "n_match": 43
+    },
+    {
+     "date": "2019-09-04",
+     "text": "Kern County is number one in agriculture in the US and @KernCountyFB plays a key role in making our home an agricultural leader to the world. Grateful to have Deputy Secretary Censky of @USDA join me in Bakersfield to discuss trade, water, and the need to pass #USMCA.   QT @almondgirljenny Thanks @G",
+     "handle": "GOPLeader",
+     "n_match": 43
+    },
+    {
+     "date": "2019-10-06",
+     "text": "Reminder \u2192 Democrats have already voted (and failed) THREE TIMES to try to impeach this president\u2014twice before the Mueller Report was even out. \n \nThey don\u2019t care about facts. They just don\u2019t want to face him again in 2020.",
+     "handle": "GOPLeader",
+     "n_match": 43
+    },
+    {
+     "date": "2019-11-19",
+     "text": "WATCH \u2014&gt; Amb. Volker just took apart Democrats\u2019 ENTIRE case. \n\n@RepMikeTurner: Did he ever say to you that he was not going to allow aid with the US to go to Ukraine unless there were investigations into Burisma, the Bidens or the 2016 election?\n\nVOLKER: No he did not.",
+     "handle": "GOPLeader",
+     "n_match": 43
+    },
+    {
+     "date": "2020-07-08",
+     "text": "Finally\u2014The Little Sisters of the Poor have an end to this ordeal. The Supreme Court is right to allow the 1st Amendment principle of religious freedom to prevail over government overreach.   QT @LifeNewsHQ BREAKING NEWS:\n\nSupreme Court Upholds Trump\u2019s Order Protecting Little Sisters From Funding Ab",
+     "handle": "GOPLeader",
+     "n_match": 43
+    },
+    {
+     "date": "2020-08-29",
+     "text": "The Democrats\u2019 only agenda is to dislike our President, defund our police, and raise our taxes.\n \nInstead, Republicans want to\n\u27a1 RENEW the American dream.\n\u27a1 RESTORE our way of life.\n\u27a1 REBUILD the greatest economy in the world.",
+     "handle": "GOPLeader",
+     "n_match": 43
+    }
+   ],
+   "link": [
+    {
+     "date": "2017-11-13",
+     "text": "THIS \u2192 \"Most California voters already want to overturn gas tax increase, poll finds\" http://lat.ms/2zzqcLB http://pbs.twimg.com/media/DOj0mxwXcAAOzLP.jpg",
+     "handle": "GOPLeader",
+     "n_match": 581
+    },
+    {
+     "date": "2018-01-04",
+     "text": "The fight against the Iranian regime is the world\u2019s fight. The long-oppressed Iranian people are right to raise their voices against the regime. We must support their quest to chart their own future and determine their own destiny. https://twitter.com/WhiteHouse/status/949032196962168832 QT @WhiteHo",
+     "handle": "GOPLeader",
+     "n_match": 581
+    },
+    {
+     "date": "2018-07-19",
+     "text": "GREAT NEWS! #ForeverGIBill education benefits will help the world\u2019s greatest fighting force become the world\u2019s greatest workforce. https://www.stripes.com/news/delayed-forever-gi-bill-is-poised-for-august-launch-1.538353",
+     "handle": "GOPLeader",
+     "n_match": 581
+    },
+    {
+     "date": "2019-03-12",
+     "text": "Big tech doesn't need to be replaced by big government. Fair competition, transparency, and accountability drive innovation and user trust. #FreedomNotControl #StopTheBias https://twitter.com/SquawkCNBC/status/1105446742538051584 QT @SquawkCNBC \"I don't believe it has to be broken up. I believe in c",
+     "handle": "GOPLeader",
+     "n_match": 581
+    },
+    {
+     "date": "2019-11-19",
+     "text": "Q: \"Ms. Williams you've never used the word 'bribery' or 'bribe' to explain the president's conduct, correct?\"\n\nA: \"No sir.\"\n\nQ: \"Colonel Vindman, you haven't either?\"\n\nA: \"That is correct.\"\n\n@RepRatcliffe: Bribery never once came up...until Democrats polled it. http://pbs.twimg.com/media/EJwHNlSW4A",
+     "handle": "GOPLeader",
+     "n_match": 581
+    },
+    {
+     "date": "2020-02-27",
+     "text": "Our President understands that all of California is not alike. Thank you, President @realDonaldTrump, for keeping your promises to America\u2019s farmers! http://pbs.twimg.com/media/ERyzu5BWkAo1HoS.jpg https://video.twimg.com/amplify_video/1233057771983118336/vid/480x270/FqeRTi44rA0mVn_L.mp4?tag=13",
+     "handle": "GOPLeader",
+     "n_match": 581
+    }
+   ],
+   "neg": [
+    {
+     "date": "2019-06-20",
+     "text": "It is unacceptable to shoot down an American aircraft in international waters. Period.",
+     "handle": "GOPLeader",
+     "n_match": 213
+    },
+    {
+     "date": "2019-12-09",
+     "text": "Speaker Pelosi has risked everything on impeaching this president\u2014regardless of the facts. This has been the Democrats' game plan for years.",
+     "handle": "GOPLeader",
+     "n_match": 213
+    },
+    {
+     "date": "2020-01-14",
+     "text": "Perhaps Joe Biden should pledge to not campaign while his fellow Democrat candidates like Bernie Sanders, Elizabeth Warren, and Amy Klobuchar are stuck in the Senate dealing with Speaker Pelosi\u2019s delayed impeachment.",
+     "handle": "GOPLeader",
+     "n_match": 213
+    },
+    {
+     "date": "2020-06-30",
+     "text": "Nancy Pelosi just released her radical climate change agenda\u2014written by Democrats and for China.\n\n\u00b7 It punishes the American economy\n\u00b7 Gives China a free pass to pollute\n\u00b7 Wasn\u2019t debated once by Members of Congress",
+     "handle": "GOPLeader",
+     "n_match": 213
+    },
+    {
+     "date": "2020-08-17",
+     "text": "Democrats have no shame. They are pushing conspiracy theories about the USPS to undermine faith in the election and distract from their own failures.\n\nWhether Americans choose to vote in-person or vote absentee, I have full confidence in the integrity of our electoral process.",
+     "handle": "GOPLeader",
+     "n_match": 213
+    },
+    {
+     "date": "2020-11-05",
+     "text": "The pollsters were wrong. Just like they were wrong four years ago.",
+     "handle": "GOPLeader",
+     "n_match": 213
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-07-18",
+     "text": "Day after day, America has been watching as Democrats twist themselves in knots trying to figure out how to impeach our president. They are failing.",
+     "handle": "GOPLeader",
+     "n_match": 27
+    },
+    {
+     "date": "2019-10-06",
+     "text": "Reminder \u2192 Democrats have already voted (and failed) THREE TIMES to try to impeach this president\u2014twice before the Mueller Report was even out. \n \nThey don\u2019t care about facts. They just don\u2019t want to face him again in 2020.",
+     "handle": "GOPLeader",
+     "n_match": 27
+    },
+    {
+     "date": "2019-12-17",
+     "text": "Whoops \u2192 Senator Schumer accidentally admitted that House Democrats have run an unfair process and have failed to prove their impeachment case.",
+     "handle": "GOPLeader",
+     "n_match": 27
+    },
+    {
+     "date": "2019-12-17",
+     "text": "In less than 24 hours, House Democrats will officially push through the most partisan, weak, and unsubstantiated impeachment in American history.\n \n@SteveScalise, @RepLizCheney, and I have a few final thoughts on it. Tune in at 6:30pm ET.",
+     "handle": "GOPLeader",
+     "n_match": 27
+    },
+    {
+     "date": "2020-04-27",
+     "text": "Across the world, people have lost grandparents. Parents. Siblings. Children. All because China lied.\n\nNever again. Communist China must be held accountable.",
+     "handle": "GOPLeader",
+     "n_match": 27
+    },
+    {
+     "date": "2020-08-01",
+     "text": "Instead of taking action to keep Americans safe, Democrats are defending a China that spies on our citizens and tries to steal our vaccine research.\n\nWhat does the Chinese Communist Party have on the Democrats?",
+     "handle": "GOPLeader",
+     "n_match": 27
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2019-05-11",
+     "text": "It doesn\u2019t matter how old you are. Your mother is always there to give you advice. Happy early #MothersDay to moms everywhere!",
+     "handle": "GOPLeader",
+     "n_match": 758
+    },
+    {
+     "date": "2019-06-20",
+     "text": "It is unacceptable to shoot down an American aircraft in international waters. Period.",
+     "handle": "GOPLeader",
+     "n_match": 758
+    },
+    {
+     "date": "2019-11-03",
+     "text": "One year from today, Americans will vote for their choice for the President of the United States. But Democrats don\u2019t want to risk it. \n\nThey\u2019ve admitted that if they don\u2019t impeach President Trump, he will get re-elected.",
+     "handle": "GOPLeader",
+     "n_match": 758
+    },
+    {
+     "date": "2020-03-02",
+     "text": "This may sound obvious, but it needs to be said: Israel has a right to defend itself.\n\u29bf From missiles \n\u29bf And bombs\n\u29bf And tunnels\n\u29bf And knife attacks",
+     "handle": "GOPLeader",
+     "n_match": 758
+    },
+    {
+     "date": "2020-06-06",
+     "text": "America's colleges are where students go to debate big ideas among a diverse community. But a small \u201cwoke\u201d mob just had a meltdown over a planned commencement address from @IvankaTrump.\n \nIt isn't \"social justice\" to silence a woman's voice. It's wrong.",
+     "handle": "GOPLeader",
+     "n_match": 758
+    },
+    {
+     "date": "2020-12-03",
+     "text": "For months, House Democrats have used an unconstitutional scheme to allow members to vote from home. It's called shadow voting. \n\nMaybe if we renamed Congress \"The French Laundry,\" Democrats would show up.",
+     "handle": "GOPLeader",
+     "n_match": 758
+    }
+   ]
+  },
+  "Marco Rubio": {
+   "excl": [
+    {
+     "date": "2018-03-21",
+     "text": "Great news! The #StopSchoolViolenceAct will be included in the upcoming #omnibus spending bill. Lets get it across the finish line tomorrow!",
+     "handle": "marcorubio",
+     "n_match": 288
+    },
+    {
+     "date": "2018-06-05",
+     "text": "@KristiNoem is a great friend in Congress and has always been a strong supporter. I encourage you to vote for her in the Republican primary for Governor of South Dakota today!",
+     "handle": "marcorubio",
+     "n_match": 288
+    },
+    {
+     "date": "2018-06-21",
+     "text": "Great news! The world is waking up to the #China threat. #Britain just held up a China aerospace deal over national security. This is why instead of a trade fight with Europe we should have teamed up with them to confront China together. #TheftTax",
+     "handle": "marcorubio",
+     "n_match": 288
+    },
+    {
+     "date": "2019-01-23",
+     "text": "Congratulations to the 22 new officers sworn in at @MDSPD! Thank you for your commitment to keeping our students and teachers safe. #Sayfie",
+     "handle": "SenRubioPress",
+     "n_match": 288
+    },
+    {
+     "date": "2020-02-11",
+     "text": "Great news for #MexicoBeach! @FEMA has awarded more than $3.5 million in federal funds for emergency protective measures as a result of #HurricaneMichael.",
+     "handle": "SenRubioPress",
+     "n_match": 288
+    },
+    {
+     "date": "2020-02-11",
+     "text": "Great news for #Blountstown! @FEMA has announced nearly $2 million in federal funds for debris removal caused by #HurricaneMichael.",
+     "handle": "SenRubioPress",
+     "n_match": 288
+    }
+   ],
+   "shout": [
+    {
+     "date": "2019-04-05",
+     "text": "The LORD\u2019s face is against evildoers to wipe out their memory from the earth. The righteous cry out,the LORD hears & he rescues them from all their afflictions. The LORD is close to the brokenhearted, saves those whose spirit is crushed.\n\nPsalms 34:17-19",
+     "handle": "marcorubio",
+     "n_match": 213
+    },
+    {
+     "date": "2019-09-16",
+     "text": "@Almagro_OEA2015 El senador Rubio se reuni\u00f3 con el Secretario General @Almagro_OEA2015 para hablar sobre los continuos esfuerzos de la Organizaci\u00f3n en apoyo a la democracia y DD. HH. en #LATAM. Tambi\u00e9n hablaron de la invocaci\u00f3n del #TIAR a ra\u00edz de la crisis desatada por #Maduro.",
+     "handle": "SenRubioPress",
+     "n_match": 213
+    },
+    {
+     "date": "2020-01-30",
+     "text": "Important initiative from @USAID with the assistance of @OIMBrasil in support of #Venezuelan nationals who have fled the #Maduro regime. Venezuelans in #Brazil will greatly benefit from this program, which will provide access to sustainable livelihoods & employment opportunities.   QT @USAID NEWS: U",
+     "handle": "SenRubioPress",
+     "n_match": 213
+    },
+    {
+     "date": "2020-02-03",
+     "text": "El amedrentamiento contra los diputados de la @AsambleaVE por parte de la narco dictadura de #Maduro continua. El acoso del FAES/DGIM/SEBIN contra los diputados electos democr\u00e1ticamente, no ser\u00e1 suficiente para callar las voces del pueblo venezolano que clama por su libertad.   QT @NTN24 El parlamen",
+     "handle": "SenRubioPress",
+     "n_match": 213
+    },
+    {
+     "date": "2020-04-03",
+     "text": "\ud83d\udcfaSOON\ud83d\udcfa Sen. Rubio joins @SRuhle on @MSNBC to talk about the #PaycheckProtectionProgram that starts today!",
+     "handle": "SenRubioPress",
+     "n_match": 213
+    },
+    {
+     "date": "2020-06-02",
+     "text": "A criminal walked up behind a police officer involved with another criminal & shot him in the head. That officer is now reportedly in critical condition.   QT @orko_manna #BREAKING UPDATE: Metro Police sources tell @8NewsNow that a suspect has been taken into custody, regarding the @LVMPD officer wh",
+     "handle": "marcorubio",
+     "n_match": 213
+    }
+   ],
+   "link": [
+    {
+     "date": "2018-04-02",
+     "text": "Potential \u201cnew economy\u201d monopolies will require close monitoring. From retail to entertainment @Amazon growth has meant lower prices &amp; more convenience. But long term could mean less competition. That said, #AppleTV needs to step it up versus #Firestick  https://www.wsj.com/articles/why-a-trump-",
+     "handle": "marcorubio",
+     "n_match": 2232
+    },
+    {
+     "date": "2018-07-23",
+     "text": "I applaud today\u2019s confirmation of Robert Wilkie to serve as Secretary of the Department of Veterans Affairs. I look forward to working with him to ensure we are fulfilling our duty to provide our veterans with the care and opportunities they deserve. https://www.rubio.senate.gov/public/index.cfm?p=P",
+     "handle": "SenRubioPress",
+     "n_match": 2232
+    },
+    {
+     "date": "2019-08-27",
+     "text": "Una vez m\u00e1s, el r\u00e9gimen cubano arrest\u00f3 al l\u00edder pro-democr\u00e1tico y l\u00edder de la UNPACU @jdanielferrer. Esta nueva ola de represi\u00f3n contra Jos\u00e9 Daniel no debe pasar desapercibida, la comunidad internacional debe condenar de inmediato este ataque de @DiazCanelB y sus secuaces. https://twitter.com/RosaMa",
+     "handle": "SenRubioPress",
+     "n_match": 2232
+    },
+    {
+     "date": "2019-10-10",
+     "text": "Senator Rubio's message to #Northwest #Florida on the one year anniversary of #HurricaneMichael's devastating landfall: \n\n\"We\u2019re working hard, have worked hard, and will continue to work hard so that Northwest Florida is back and stronger than ever.\" http://pbs.twimg.com/amplify_video_thumb/11823080",
+     "handle": "SenRubioPress",
+     "n_match": 2232
+    },
+    {
+     "date": "2020-04-19",
+     "text": "Senator Rubio joined @SenateForeign Chairman @SenatorRisch, @SenCoryGardner, @SenMarkey, and @SenatorCardin in releasing a statement in response to reports that Hong Kong police have arrested at least 15 pro-democracy leaders.\n\nRead more  \u2b07\ufe0f\nhttps://www.rubio.senate.gov/public/index.cfm?p=Press-Rele",
+     "handle": "SenRubioPress",
+     "n_match": 2232
+    },
+    {
+     "date": "2020-05-29",
+     "text": "\"As our nation struggles with and learns more about the coronavirus pandemic, one element that is clear is that our African-American communities have been among the hardest hit.\"\n\nSen Rubio calls for structural changes to assist minority communities \u2b07\ufe0f\nhttps://medium.com/@SenatorMarcoRubio/deindustr",
+     "handle": "SenRubioPress",
+     "n_match": 2232
+    }
+   ],
+   "neg": [
+    {
+     "date": "2017-08-09",
+     "text": "Personal harm to U.S. officials shows the extent the Castro regime will go and clearly violates international norms.",
+     "handle": "SenRubioPress",
+     "n_match": 998
+    },
+    {
+     "date": "2018-11-12",
+     "text": "Wrong. It is the #BrowardCounty canvassing board that claims her vote is illegal, not me. \n\nIf what your reporting found is accurate, then you have confirmed what I have been saying, that we have ample reason to carefully scrutinize the actions of the BrowardElection supervisor.   QT @pemalevy I spo",
+     "handle": "marcorubio",
+     "n_match": 998
+    },
+    {
+     "date": "2018-12-10",
+     "text": ".@Reuters journalists Wa Lone and Kyaw Soe Oo are unjustly imprisoned by the Burmese government for reporting the truth of the #Rohingya atrocities:\n  QT @SenRubioPress Today @SenJeffMerkley and I urged @SecPompeo to secure the release of @Reuters journalists Wa Lone & Kyaw Soe Oo, who were wrongful",
+     "handle": "SenRubioPress",
+     "n_match": 998
+    },
+    {
+     "date": "2019-03-08",
+     "text": "El r\u00e9gimen cubano exili\u00f3 a Eliecer G\u00f3ngora Izaguirre en Guayana. G\u00f3ngora, l\u00edder de #UNPACU en huelga de hambre en #Cuba, fue violentamente agredido por fuerzas policiales y llevado al aeropuerto. La tiran\u00eda de D\u00edaz-Canel sin escr\u00fapulos sigue violando los DD. HH. de la oposici\u00f3n.",
+     "handle": "SenRubioPress",
+     "n_match": 998
+    },
+    {
+     "date": "2019-06-28",
+     "text": "If America becomes a country that no longer can manufacture,then we will always be at risk of getting cut off by the countries that still make things. \n\nWatch video excerpts from my speech yesterday here:",
+     "handle": "marcorubio",
+     "n_match": 998
+    },
+    {
+     "date": "2019-11-15",
+     "text": "U.S. resident Pastor John Cao was given a 7yr sentence by the Chinese govt for his humanitarian & missionary work w/ethnic groups living in #Burma & #China. The UN concluded his detention violated int\u2019l law. He SHOULD be released & reunited w/ his family. #ExpressionNOTOppression",
+     "handle": "SenRubioPress",
+     "n_match": 998
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-02-08",
+     "text": ".@RadioFreeAsia reports PRC secretly moving large numbers of #Uyghurs & other Muslims to prisons outside Xinjiang. After two years of revelations on mass internments in Xinjiang, why hasn\u2019t USG sanctioned any Chinese Govt or Communist Party officials",
+     "handle": "SenRubioPress",
+     "n_match": 83
+    },
+    {
+     "date": "2019-06-28",
+     "text": "Yesterday the Trump Administration imposed new sanctions targeting two corrupt thugs linked to the Maduro regime and are directly responsible for the ongoing countrywide electrical blackouts in #Venezuela. \ud83d\udd26\n\nRead my statement here:",
+     "handle": "SenRubioPress",
+     "n_match": 83
+    },
+    {
+     "date": "2019-07-02",
+     "text": "New @IRIglobal report exposes how the Chinese government & Communist Party undermines democracies worldwide through its malign influence and its use of \u201cdebt-trap\u201d diplomacy.\n\nRead it here --&gt;",
+     "handle": "SenRubioPress",
+     "n_match": 83
+    },
+    {
+     "date": "2019-10-10",
+     "text": "On the @dpshow Charles Barkley rips those criticizing the @NBA over #China as hypocrites who didn\u2019t defend Kaepernick\u2019s right to free speech. \n\nBut in fact one of those people actually did. \n\n  via @TMZ   QT @TMZ Charles Barkley Rips 'Idiots' For Criticizing NBA Over China, 'Jackasses!'",
+     "handle": "marcorubio",
+     "n_match": 83
+    },
+    {
+     "date": "2020-03-30",
+     "text": "#China\u2019s communist party doesn\u2019t even have to pay for these. They get it for free!",
+     "handle": "marcorubio",
+     "n_match": 83
+    },
+    {
+     "date": "2020-07-20",
+     "text": "Ambassador for #China\u2019s Communist Party is asked to explain  footage from #Xinjiang of handcuffed & blindfolded detained people being loaded on trains. This is happening in the 21st Century.",
+     "handle": "marcorubio",
+     "n_match": 83
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2018-08-08",
+     "text": "You shall again plant vineyards on the mountains of Samaria;those who plant them shall enjoy their fruits. Yes, a day will come when the watchmen call out on Mount Ephraim: \u201cCome, let us go up to Zion,to the LORD, our God.\u201d  Jeremiah 31:5-6",
+     "handle": "marcorubio",
+     "n_match": 3434
+    },
+    {
+     "date": "2018-08-08",
+     "text": "Congrats to Kevin Dimaculangan from @DunbarHighFL. He won the 2018 Microsoft @Office World Championship for Excel 2016 in #Orlando via @TheNewsPress  #sayfie",
+     "handle": "SenRubioPress",
+     "n_match": 3434
+    },
+    {
+     "date": "2019-02-20",
+     "text": "Drug trafficker @dcabellor has spent the last two days telling people not to believe \u201crumors\u201d & issuing warnings to those thinking of committing \u201ctreason\u201d or who are having \u201cdoubts\u201d.\n\nHe is worried about something........   QT @ConElMazoDando .@dcabellor: El que piensa en traicionar a este pueblo no",
+     "handle": "marcorubio",
+     "n_match": 3434
+    },
+    {
+     "date": "2019-05-31",
+     "text": "Welcome home to Army Specialist Nick Trilla! Nick served at @USOHumphreys in South Korea for one year after graduating high school. Thank you for your service! #sayfie #flapol",
+     "handle": "SenRubioPress",
+     "n_match": 3434
+    },
+    {
+     "date": "2019-11-15",
+     "text": "This is how #China spreads its surveillance state & collects data in countries around the world \n  \n\nThis now includes @GoDomRep which was given this surveillance equipment by the Chinese as part of the compensation for switching recognition from #Taiwan.",
+     "handle": "marcorubio",
+     "n_match": 3434
+    },
+    {
+     "date": "2020-07-16",
+     "text": "Last night #Florida remaining hospital capacity was 20.72% & ICU was 15%(not counting additional beds that can be converted).\n\nBut these numbers will get much worse if discharges slow down due to not enough doses of Remdesivir.\n\nWe can\u2019t wait until July 27th for next allocation.",
+     "handle": "marcorubio",
+     "n_match": 3434
+    }
+   ]
+  },
+  "Matt Gaetz": {
+   "excl": [
+    {
+     "date": "2018-10-27",
+     "text": "Our 2018 Congressional App Challenge winners from Niceville High School Sam Cota, Josh Delamater and Ethan Shelstad the creators of Vanguard Volunteering! #congressionalappchallenge",
+     "handle": "RepMattGaetz",
+     "n_match": 482
+    },
+    {
+     "date": "2019-02-28",
+     "text": "Florida is lucky to have such strong, diverse women leading the way!   QT @nikkifried Scoot \ud83d\udc4f\ud83c\udffb over. \ud83d\udc8b\ud83d\udc60 \ud83d\udcaa\ud83c\udffb",
+     "handle": "mattgaetz",
+     "n_match": 482
+    },
+    {
+     "date": "2019-03-24",
+     "text": "Are you serious?! Mr. Chairman, you owe @realDonaldTrump & our country an apology for spreading the #RussiaHoax   QT @RepJerryNadler The Department of Justice \u201cdetermined not to make a traditional prosecutorial judgement.\u201d",
+     "handle": "mattgaetz",
+     "n_match": 482
+    },
+    {
+     "date": "2019-12-21",
+     "text": "Happy 101st birthday today to an incredibly special constituent - Lieutenant Colonel John Beard! \n\nThank you sir for your lifetime of service and sacrifice to our country. You represent the best of Northwest Florida and the nation. You are a national treasure.",
+     "handle": "RepMattGaetz",
+     "n_match": 482
+    },
+    {
+     "date": "2020-02-11",
+     "text": "TONIGHT: I'll be on @seanhannity to discuss President @realDonaldTrump's accomplishments and the blue-collar boom in America. TUNE IN to @FoxNews at 9:15pm ET/8:15pm CT!",
+     "handle": "RepMattGaetz",
+     "n_match": 482
+    },
+    {
+     "date": "2020-07-04",
+     "text": "We should never apologize for the fact that America is the best, strongest country that has ever existed. \n\nWe must love her, support her, and defend her with all we have. \n\nHappy Fourth of July!",
+     "handle": "RepMattGaetz",
+     "n_match": 482
+    }
+   ],
+   "shout": [
+    {
+     "date": "2019-04-09",
+     "text": "THIS MORNING: Join me on @MorningsMaria with @MariaBartiromo at 8:00 AM ET/7:00 AM CT to discuss tariffs on the EU, AG Barr's testimony, the Mueller Report, and more. Tune in to @FoxBusiness!",
+     "handle": "RepMattGaetz",
+     "n_match": 222
+    },
+    {
+     "date": "2019-07-22",
+     "text": "MS-13 isn\u2019t going to transition from murder to...organic gardening.\n \nSmugglers aren\u2019t going to give up millions for... @AndrewYang's universal basic income.\n \nThis is why WE are committed to ending illegal immigration. Instituting e-verify. And of course, BUILDING THE WALL.",
+     "handle": "RepMattGaetz",
+     "n_match": 222
+    },
+    {
+     "date": "2019-09-16",
+     "text": "MUST-READ by @SaraCarterDC: \n\n\"Gaetz on McCabe: 'The Swamp Creatures Chewing on Each Other for Once'\"",
+     "handle": "RepMattGaetz",
+     "n_match": 222
+    },
+    {
+     "date": "2019-10-30",
+     "text": "TONIGHT: I'll be on @seanhannity to discuss my ethics complaint against @RepAdamSchiff today for his handling of the impeachment inquiry. TUNE IN to @FoxNews at 9:10pm ET/8:10pm CT!",
+     "handle": "RepMattGaetz",
+     "n_match": 222
+    },
+    {
+     "date": "2020-02-27",
+     "text": "COMING UP: Making a major political announcement at CPAC at 2:35pm ET. WATCH LIVE \u2b07\ufe0f",
+     "handle": "mattgaetz",
+     "n_match": 222
+    },
+    {
+     "date": "2020-08-29",
+     "text": "TONIGHT: I'll be on Justice with @JudgeJeanine to talk about the unhinged mobs threatening our safety and how they attacked RNC attendees and members of Congress as they left the White House this week. TUNE IN to @FoxNews at 9:25pm ET/8:25pm CT",
+     "handle": "RepMattGaetz",
+     "n_match": 222
+    }
+   ],
+   "link": [
+    {
+     "date": "2017-12-07",
+     "text": "Donald Trump Pensacola rally: Matt Gaetz to travel with president, speak at event http://www.pnj.com/story/news/politics/2017/12/06/donald-trump-pensacola-rally-matt-gaetz-travel-president-speak-event/928169001/ via @",
+     "handle": "RepMattGaetz",
+     "n_match": 1540
+    },
+    {
+     "date": "2018-03-21",
+     "text": "Daily read: Questions Still Surround Robert Mueller\u2019s Boston Past\nhttps://saraacarter.com/questions-still-surround-robert-muellers-boston-past/",
+     "handle": "RepMattGaetz",
+     "n_match": 1540
+    },
+    {
+     "date": "2018-07-07",
+     "text": "Great support from our veteran community at the Gator Cafe in Baker. Now on to Uncle Bills in Crestview! #OpenGaetz http://pbs.twimg.com/media/DhheoynWAAAVdha.jpg",
+     "handle": "mattgaetz",
+     "n_match": 1540
+    },
+    {
+     "date": "2018-12-02",
+     "text": "If a member of Congress is going to become a coyote, she should be charged with illegally aiding the unlawful entry of illegal aliens. #SecureTheBorder #BuildTheWallNow  https://www.politico.com/story/2018/12/01/pramila-jayapal-joins-migrant-caravan-1037134 http://pbs.twimg.com/media/DtbIP0_WwAU58Zp",
+     "handle": "mattgaetz",
+     "n_match": 1540
+    },
+    {
+     "date": "2020-06-18",
+     "text": "@Bakari_Sellers My non-white son &amp; our rescue dog Stella. \n\nI have empathy for those raising non-white adolescents.  Thx for asking. http://pbs.twimg.com/media/Eaz2CwFWoAA50SE.jpg",
+     "handle": "mattgaetz",
+     "n_match": 1540
+    },
+    {
+     "date": "2020-08-21",
+     "text": "America wants to stay safe. When the radical left attacks law enforcement, it's not appealing to Americans who value their security and prosperity. \n\nhttps://podcasts.apple.com/us/podcast/episode-73-move-over-gavin-newsom-theres-new-darling/id1512848110?i=1000488815809 http://pbs.twimg.com/media/Ef-",
+     "handle": "RepMattGaetz",
+     "n_match": 1540
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-06-13",
+     "text": "\"From refusing to produce documents, to improperly redacting documents, to threatening our staff, it is clear Rod Rosenstein will use every tool at his disposal to frustrate congressional oversight.\"",
+     "handle": "RepMattGaetz",
+     "n_match": 563
+    },
+    {
+     "date": "2018-07-19",
+     "text": "The @EPA wasteful spending on misleading and bizarre animal testing is out of control. The American people\u2019s #taxdollars should not be spent on torturing animals: forcing them to eat lard, electro-shocking them, and pumping truck exhaust into their noses.",
+     "handle": "RepMattGaetz",
+     "n_match": 563
+    },
+    {
+     "date": "2018-12-06",
+     "text": "Im proud of @JaredEMoskowitz 4 joining the #DesantisNu\u00f1ez administration. In times of crisis we R not Republicans or Democrats - we are Floridians.  Jared has been GC 4 one of the largest disaster response firms in the world. He is beyond qualified & serving 4 the right reasons!",
+     "handle": "mattgaetz",
+     "n_match": 563
+    },
+    {
+     "date": "2019-06-24",
+     "text": ".@POTUS has been measured, mindful & effective dealing w Iran.\n\nThe Khanna-Gaetz Amdmt affirms what President Trump knows & believes.\n\nUnfocused, unconstitutional, unending wars in the Middle East make America weaker not stronger.\n\nTrump puts #AMERICAFirst",
+     "handle": "RepMattGaetz",
+     "n_match": 563
+    },
+    {
+     "date": "2019-09-28",
+     "text": "Boring?   QT @eye_gordon @mattgaetz I've never seen an decent or logical tweet from #mattgaetz \nThey are all boring and crazy.",
+     "handle": "mattgaetz",
+     "n_match": 563
+    },
+    {
+     "date": "2020-04-15",
+     "text": "Officially, unofficially or otherwise - @SenatorBurr should not be leading the Intelligence Committee while being investigated by the intelligence community.\n\nHow is this not obvious?   QT @MurphinDC Gaetz, a Republican from Florida, tweeted this but not from his official Rep. account. He's been con",
+     "handle": "RepMattGaetz",
+     "n_match": 563
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-01-11",
+     "text": "Rep. Drake serves portions of Okaloosa County, where today the Superintendent of Schools was suspended for failing to protect children from abuse. #sayfie #flpol @GovRonDeSantis   QT @braddrake5 I am liking this Ron DeSantis guy. A. LOT.  #GreatOutTheGate \ud83d\udc0e #FLORIDAGovernor",
+     "handle": "mattgaetz",
+     "n_match": 71
+    },
+    {
+     "date": "2019-08-23",
+     "text": "It's not every day @CNN can hire someone with \"failed coup attempt\" on their resume...   QT @oliverdarcy Some news: CNN announces Andrew McCabe has been signed as a contributor.",
+     "handle": "RepMattGaetz",
+     "n_match": 71
+    },
+    {
+     "date": "2019-12-17",
+     "text": "This impeachment is over. \n\nDemocrats failed to deliver on their promises to produce direct evidence and to have a groundswell of bipartisan support.",
+     "handle": "RepMattGaetz",
+     "n_match": 71
+    },
+    {
+     "date": "2019-12-21",
+     "text": "Weird, Senator.\n\n@ericswalwell said it was a \u201ccrime spree in progress\u201d\n\n@JerryNadler said \u201cnothing could be more urgent\u201d\n\nNow you admit impeachment was all about agitating @realDonaldTrump & Republicans. \n\nYou people are sick to put our country through this for petty politics.   QT @SenWhitehouse Wh",
+     "handle": "mattgaetz",
+     "n_match": 71
+    },
+    {
+     "date": "2020-01-22",
+     "text": "MUST-READ: \"Matt Gaetz Scolds \u2018Weak-Kneed\u2019 GOP Opponents of DeSantis E-Verify Plan\"\n\n(via @JxhnBinder, @BreitbartNews)",
+     "handle": "RepMattGaetz",
+     "n_match": 71
+    },
+    {
+     "date": "2020-12-15",
+     "text": "Democrats impeached President @realDonaldTrump over a perfect phone call...but they won't take any action against a colleague for a rather imperfect relationship with a Chinese Communist Party intelligence operative.",
+     "handle": "RepMattGaetz",
+     "n_match": 71
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2018-02-09",
+     "text": "MUST-READ: \"Right On, Matt Gaetz! Pencil Neck Should Step Aside\" via @rushlimbaugh",
+     "handle": "RepMattGaetz",
+     "n_match": 3
+    },
+    {
+     "date": "2018-02-09",
+     "text": "Right On, Matt Gaetz! Pencil Neck Should Step Aside\n@rushlimbaugh \nREAD/WATCH:",
+     "handle": "RepMattGaetz",
+     "n_match": 3
+    },
+    {
+     "date": "2019-10-14",
+     "text": "Judiciary Chairman @JerryNadler claimed to have begun the impeachment inquiry weeks ago. Now, his own Judiciary members aren\u2019t even allowed to participate in it.\n\nAnd yes - my constituents want me actively involved in stopping the #KangarooCourtCoup run by Shifty Schiff.   QT @SRuhle How is this hel",
+     "handle": "mattgaetz",
+     "n_match": 3
+    }
+   ],
+   "all": [
+    {
+     "date": "2017-10-20",
+     "text": "Seasoned Nurse and Cancer Survivor Advocates for Quality Cancer In Our Nation   via @OncNursingNews",
+     "handle": "RepMattGaetz",
+     "n_match": 2060
+    },
+    {
+     "date": "2017-11-13",
+     "text": "COMING UP NEXT: @Jim_Jordan and I will be speaking with @FoxNews Laura Ingraham on the @IngrahamAngle. Tune in now!",
+     "handle": "RepMattGaetz",
+     "n_match": 2060
+    },
+    {
+     "date": "2018-06-01",
+     "text": "Stephanie doesn\u2019t play Dem v. GOP on defense issues. Neither do I. Neither do most HASC members in both parties. Many of us wish we could get the rest of congress to take care of our military/defense first - then deal w/ the other important issues.   QT @reporterjoe HASC Republican from Florida stic",
+     "handle": "mattgaetz",
+     "n_match": 2060
+    },
+    {
+     "date": "2018-09-05",
+     "text": "Your plan calls for a 40% tax increase.  People will leave Florida and the sick will be worse off.  If you don\u2019t believe me, check Detroit. #sayfie   QT @AndrewGillum I'm the only candidate in this race who has a plan to protect coverage for people with pre-existing conditions. As your next Governor",
+     "handle": "mattgaetz",
+     "n_match": 2060
+    },
+    {
+     "date": "2019-09-12",
+     "text": "I would hope that these proceedings are not more about the Chairman\u2019s upcoming primary challenge than about the important work of the committee and the country. \n\nWe have circumstances here where Democrats can\u2019t move the country \u2013 they have no support for impeachment.",
+     "handle": "RepMattGaetz",
+     "n_match": 2060
+    },
+    {
+     "date": "2020-03-26",
+     "text": "Get well soon @RandPaul   QT @realDonaldTrump 96-0 in the United States Senate. Congratulations AMERICA!",
+     "handle": "mattgaetz",
+     "n_match": 2060
+    }
+   ]
+  },
+  "Mitch McConnell": {
+   "excl": [
+    {
+     "date": "2017-07-20",
+     "text": ".@SenJohnMcCain you've never shied away from a fight before. You'll confront this with the same courage that has characterized your life.   QT @SenJohnMcCain I greatly appreciate the outpouring of support - unfortunately for my sparring partners in Congress, I'll be back soon, so stand-by!",
+     "handle": "SenateMajLdr",
+     "n_match": 7
+    },
+    {
+     "date": "2017-10-20",
+     "text": "The #Senate is ready to provide tax relief and help bring jobs back to America. It\u2019s time to pass #taxreform.   QT @realDonaldTrump Great news on the 2018 budget @SenateMajLdr McConnell - first step toward delivering MASSIVE tax cuts for the American people! #TaxReform",
+     "handle": "SenateMajLdr",
+     "n_match": 7
+    },
+    {
+     "date": "2018-12-10",
+     "text": "Making it official with my hemp pen!\ud83d\udd8b\ufe0f Proud to have served as conferee on #FarmBill & to fight for #Kentucky priorities. With today's signature, my provision to legalize industrial #hemp is 1 step closer to reality. Looking forward to voting YES on this bill & sending to @POTUS",
+     "handle": "senatemajldr",
+     "n_match": 7
+    },
+    {
+     "date": "2020-07-04",
+     "text": "Happy Fourth of July!\n \nLet\u2019s celebrate the high virtues of our nation. Let\u2019s honor the leaders who made our country great and the sacrifices of those who defend her. And let\u2019s never forget how incredibly proud we are to be Americans.",
+     "handle": "senatemajldr",
+     "n_match": 7
+    },
+    {
+     "date": "2020-08-13",
+     "text": "No family in middle America is saying: \"Thank goodness the Democrats are blocking cash payments to me, money for my kids\u2019 schools, and money for vaccines until Manhattan millionaires get a tax cut!\"\n\nWhat American families everywhere want is an outcome.",
+     "handle": "senatemajldr",
+     "n_match": 7
+    }
+   ],
+   "shout": [
+    {
+     "date": "2017-12-19",
+     "text": "We are now one step closer to passing #TaxReform for the American people. I urge all members of the #Senate to join me in voting to approve the conference report and complete this victory for the American people.   QT @SpeakerRyan BREAKING NEWS\u2192 the House just passed the Tax Cuts and Jobs Act, cutti",
+     "handle": "SenateMajLdr",
+     "n_match": 15
+    },
+    {
+     "date": "2017-12-19",
+     "text": "TONIGHT \u2192 I will be joining @BretBaier on @SpecialReport to discuss the importance of #TaxReform for the American people and how the #Senate has confirmed more circuit court judges in @POTUS' first year than any President in history.\n6:00 PM Eastern",
+     "handle": "SenateMajLdr",
+     "n_match": 15
+    },
+    {
+     "date": "2018-03-09",
+     "text": ".@VP is right, #TaxReform is working for the American people.   QT @VP Just over 2 months ago, @POTUS signed the largest TAX CUTS in American history. When I visit Cleveland today, I'll see firsthand that our tax cuts are working & they're making a remarkable difference in the Buckeye State. Read my",
+     "handle": "SenateMajLdr",
+     "n_match": 15
+    },
+    {
+     "date": "2018-05-08",
+     "text": "The JCPOA was a flawed agreement which @POTUS determined is not in America's nat'l security interests. I share his commitment that Iran must never acquire/develop a nuclear weapon. My statement --&gt;",
+     "handle": "SenateMajLdr",
+     "n_match": 15
+    },
+    {
+     "date": "2018-07-19",
+     "text": "This week, even more of our colleagues have come away impressed after meeting with @POTUS\u2019 #SCOTUS nominee, Judge Kavanaugh. But far-left special interests continue grasping at straws and trying to smear this nominee any way they can.",
+     "handle": "SenateMajLdr",
+     "n_match": 15
+    },
+    {
+     "date": "2020-08-13",
+     "text": "Democrats\u2019 latest spin: They\u2019ve moved from a $3.5 trillion, far-left, non-COVID-related wish list to a $2.5 trillion, far-left, non-COVID-related wish list and insist the White House meet them there.\n\nThat\u2019s not a reality-based negotiation. It\u2019s throwing spaghetti at the wall.",
+     "handle": "senatemajldr",
+     "n_match": 15
+    }
+   ],
+   "link": [
+    {
+     "date": "2017-11-29",
+     "text": "Tonight I'll be joining the @IngrahamAngle to discuss the importance of #TaxReform for the American people.\n\n\ud83d\udcfa Tune in to @FoxNews at 10:00 Eastern / 9:00 Central \ud83d\udcfa http://pbs.twimg.com/media/DP1xzrdXUAAw3Cn.jpg",
+     "handle": "SenateMajLdr",
+     "n_match": 304
+    },
+    {
+     "date": "2017-12-19",
+     "text": "Democrats have long called for #TaxReform, but have suddenly changed their mind. Does a new @POTUS mean they are ok with slow growth and an underperforming #economy? \n\n@BretBaier @SpecialReport @FoxNews http://pbs.twimg.com/media/DRdJn_fXUAIUU9_.jpg https://video.twimg.com/amplify_video/943302733502",
+     "handle": "SenateMajLdr",
+     "n_match": 304
+    },
+    {
+     "date": "2018-01-16",
+     "text": ".@Humana &amp; @RamTrucks will join a growing list of more than 150 companies that have announced plans to distribute significant bonuses, permanent pay raises, more generous retirement contributions, or other benefits to their employees because of #TaxReform. https://twitter.com/McConnellPress/stat",
+     "handle": "SenateMajLdr",
+     "n_match": 304
+    },
+    {
+     "date": "2018-06-05",
+     "text": "My statement on cancelling the August recess: http://pbs.twimg.com/media/De8a8TqX4AEwDK5.jpg",
+     "handle": "SenateMajLdr",
+     "n_match": 304
+    },
+    {
+     "date": "2020-03-18",
+     "text": "The Senate is going to vote on the House\u2019s proposal. I will support it. But it does not help enough Americans and, crucially, it adds even more uncertainty for small businesses. It will make it all the more urgent for the Senate to pass bold legislation to help small businesses. http://pbs.twimg.com",
+     "handle": "senatemajldr",
+     "n_match": 304
+    },
+    {
+     "date": "2020-06-18",
+     "text": "The Senate just confirmed @POTUS's exceptional choice to sit on the second-most-important federal bench. We Kentuckians are sorry to lose Judge Justin Walker, but we're very proud this brilliant and fair jurist will be serving our nation on the D.C. Circuit. http://pbs.twimg.com/media/Ea0HVgAXQAA9lT",
+     "handle": "senatemajldr",
+     "n_match": 304
+    }
+   ],
+   "neg": [
+    {
+     "date": "2017-07-24",
+     "text": "Tomorrow, the #Senate will vote to start robust debate on how to fix America's #healthcare problem, and move away from #Obamacare's failures",
+     "handle": "SenateMajLdr",
+     "n_match": 153
+    },
+    {
+     "date": "2018-11-28",
+     "text": "With needless delays- & a record-breaking number of cloture votes on nominations, my Democratic colleagues have made this body drag its feet along the way. But the Senate will press on this week to put to rest more of the people\u2019s business before the close of the 115th Congress.",
+     "handle": "senatemajldr",
+     "n_match": 153
+    },
+    {
+     "date": "2019-06-28",
+     "text": "In modern warfare, time is of the essence. Senate Democrats are proposing a dangerous amendment that would hamstring the executive branch from reacting quickly in a crisis and prevent the U.S. from taking decisive action.",
+     "handle": "senatemajldr",
+     "n_match": 153
+    },
+    {
+     "date": "2020-01-06",
+     "text": "The Senate\u2019s unanimous bipartisan precedent from 1999 left witnesses & other mid-trial questions to the middle of the trial. House Democrats may have scrapped their own precedents to hurt President Trump but they do not call the shots in the Senate.",
+     "handle": "senatemajldr",
+     "n_match": 153
+    },
+    {
+     "date": "2020-04-27",
+     "text": "TUNE IN: I will be joining the @GuyBensonShow\n at ~3:30 PM ET to discuss the Senate reconvening and Senate Republicans' plan to strengthen our response to the coronavirus crisis.",
+     "handle": "senatemajldr",
+     "n_match": 153
+    },
+    {
+     "date": "2020-06-10",
+     "text": "Our republic can survive a pandemic. It can survive civil unrest. But ideas and deliberation are our foundation. America cannot be America if civil disagreement becomes a contradiction in terms. Anti-speech silencing tactics are a cancer in a free and open society.",
+     "handle": "senatemajldr",
+     "n_match": 153
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2019-01-15",
+     "text": "We Republicans are hardly strangers to the need for strong policies concerning Russia. We have long seen Vladimir Putin for the KGB thug he is. Just ask Senator @MittRomney, who only six years ago was mocked by the other side for advocating tough policies against the Kremlin.",
+     "handle": "senatemajldr",
+     "n_match": 8
+    },
+    {
+     "date": "2019-07-10",
+     "text": "Vladimir Putin\u2019s efforts to interfere in our 2016 elections were completely unacceptable. And they did not come out of nowhere. They were preceded by eight years of growing Russian assertiveness in foreign meddling while the Obama administration failed to confront it.",
+     "handle": "senatemajldr",
+     "n_match": 8
+    },
+    {
+     "date": "2019-07-18",
+     "text": "But some communities are still struggling to dig out from the damage of the Obama years. Republicans are focused on helping them. But prominent Democrats want to return to failed policies like the war on fossil fuels that would harm these communities even further.",
+     "handle": "senatemajldr",
+     "n_match": 8
+    },
+    {
+     "date": "2019-12-17",
+     "text": "Even Senate Democrats seem to be recognizing that the House\u2019s slapdash inquiry has failed to come anywhere near the bar for impeaching a duly-elected president, let alone removing him for the first time in American history.",
+     "handle": "senatemajldr",
+     "n_match": 8
+    },
+    {
+     "date": "2020-01-14",
+     "text": "We\u2019ve reached a simple contradiction. The House case cannot be so robust that it was enough to rush into impeachment, and enough for Senate Democrats to start pre-judging guilt, but also so weak that they need the Senate to go fishing. These two stories cannot both be true.",
+     "handle": "senatemajldr",
+     "n_match": 8
+    },
+    {
+     "date": "2020-03-30",
+     "text": "Today is #NationalDoctorsDay. Thank you to our American heroes who wear scrubs and masks. Who rush toward the sick, wash their hands until they bleed, and work around the clock to heal our loved ones. We salute doctors along with nurses and all of our healthcare professionals.",
+     "handle": "senatemajldr",
+     "n_match": 8
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2018-10-11",
+     "text": "Nearly one out of every six circuit court of appeals judges has been appointed by @POTUS and confirmed by this Republican Senate",
+     "handle": "senatemajldr",
+     "n_match": 586
+    },
+    {
+     "date": "2019-07-18",
+     "text": "I\u2019ve made the fight to save lives from the horrors of #opioid & substance abuse a top priority. We've still got work to do, but results of our work at the federal & state level w/many local partners on the front lines are evident in today\u2019s announcement.",
+     "handle": "senatemajldr",
+     "n_match": 586
+    },
+    {
+     "date": "2019-10-22",
+     "text": "Some of the Democrats criticizing the administration today wanted to withdraw from Syria and Afghanistan just a few months ago. They can\u2019t have this both ways. We need clarity: Which Senators support American leadership in the fight against terrorism and which do not?",
+     "handle": "senatemajldr",
+     "n_match": 586
+    },
+    {
+     "date": "2019-10-30",
+     "text": "House Democrats\u2019 impeachment resolution would just codify their unfair process. Here\u2019s what it contemplates:\n\n1. No due process now\n2. Maybe some later\n3. But only if they feel like it\n\nNo American, the president or anyone else, should be subjected to this kind of unfairness.",
+     "handle": "senatemajldr",
+     "n_match": 586
+    },
+    {
+     "date": "2020-09-26",
+     "text": "Judge Amy Coney Barrett is an exceptionally impressive jurist and an exceedingly well-qualified nominee to the Supreme Court.\n\u00a0\nA brilliant scholar. An exemplary judge. President Trump could not have made a better decision.",
+     "handle": "senatemajldr",
+     "n_match": 586
+    },
+    {
+     "date": "2020-10-16",
+     "text": "Judge Barrett exhibited every bit of the intellectual brilliance, legal expertise, and open-minded judicial temperament that we need on the Supreme Court. I will proudly vote to confirm her. The Senate will take up her nomination as soon as it comes out of Committee.",
+     "handle": "senatemajldr",
+     "n_match": 586
+    }
+   ]
+  },
+  "Nancy Pelosi": {
+   "excl": [
+    {
+     "date": "2018-07-11",
+     "text": "This is what Paul Ryan means when he talks about those who are #BetterOffNow! \ud83d\udc47",
+     "handle": "TeamPelosi",
+     "n_match": 221
+    },
+    {
+     "date": "2019-03-20",
+     "text": "When immigrants come to this country with their hopes, dreams, aspirations, and determination, they make America more American. It was true when the first Italian Americans arrived, and it is true today. It\u2019s time to #ProtectTheDream & pass #HR6!",
+     "handle": "SpeakerPelosi",
+     "n_match": 221
+    },
+    {
+     "date": "2019-06-20",
+     "text": "It is always a pleasure to visit with you, @JustinTrudeau \u2013 I hope you enjoy your basket of California\u2019s finest. Looking forward to continuing to build on the strong friendship between our two countries!",
+     "handle": "SpeakerPelosi",
+     "n_match": 221
+    },
+    {
+     "date": "2019-06-20",
+     "text": "It\u2019s been 114 days since the House passed the Bipartisan Background Checks Act of 2019 \u2014 and still @SenateMajLdr refuses to allow a vote on this life-saving legislation. Every day without a vote, 100 people are killed by gun violence. The Senate must pass #BackgroundChecksNow!",
+     "handle": "SpeakerPelosi",
+     "n_match": 221
+    },
+    {
+     "date": "2019-09-16",
+     "text": "Born in The Bronx, NYC to Puerto Rican parents, Justice Sotomayor decided to become a lawyer while watching \u201cPerry Mason\u201d at age 10. And we couldn\u2019t be more thankful that she did. She is truly an inspiration \u2014 and an invaluable voice on the court! #HispanicHeritageMonth",
+     "handle": "SpeakerPelosi",
+     "n_match": 221
+    },
+    {
+     "date": "2019-12-17",
+     "text": "It\u2019s beyond alarming that more than 200,000 registered Wisconsin voters will be prohibited from voting. \n\nLess than a year from the election, we must ensure @WisDems have the resources to respond with a massive voter registration effort. \n\nDon\u2019t agonize. Organize! \ud83d\udc47   QT @benwikler Our plan to deal ",
+     "handle": "TeamPelosi",
+     "n_match": 221
+    }
+   ],
+   "shout": [
+    {
+     "date": "2018-08-08",
+     "text": "\ud83d\udcfd LIVE NOW -&gt; Leader #NancyPelosi and Texas #FamiliesBelongTogether advocates demand to know #WhereAreTheChildren the Trump administration savagely ripped from their mothers? WATCH:",
+     "handle": "TeamPelosi",
+     "n_match": 37
+    },
+    {
+     "date": "2019-02-20",
+     "text": "Michael Cohen will come before the @OversightDems & @HouseIntel Committees next week. Congress has an independent duty under the Constitution to conduct oversight of the Executive Branch, and any efforts to intimidate family members or pressure witnesses will not be tolerated.   QT @OversightDems BR",
+     "handle": "SpeakerPelosi",
+     "n_match": 37
+    },
+    {
+     "date": "2019-04-09",
+     "text": "BIG NEWS: Chairwoman @CheriBustos announces @DCCC:Texas Headquarters, harnessing the grassroots energy fueling momentum on the ground! #MarchForward \ud83c\udfa5\ud83d\udc4f\u2705",
+     "handle": "TeamPelosi",
+     "n_match": 37
+    },
+    {
+     "date": "2019-06-28",
+     "text": "And off to the semifinals we go! Another masterful display of grit and determination by the @USWNT. #FRAUSA #FIFAWWC",
+     "handle": "SpeakerPelosi",
+     "n_match": 37
+    },
+    {
+     "date": "2019-10-18",
+     "text": "This photo says it all. TRUMP IS SCARED. \n\nHe\u2019s terrified of Nancy\u2019s decades of experience ending abuses of power & battling corruption in Washington. That\u2019s why he\u2019s going *all in* attacking Nancy. \n\nChip in now & show Trump his attacks won\u2019t work \u2192",
+     "handle": "TeamPelosi",
+     "n_match": 37
+    },
+    {
+     "date": "2020-08-17",
+     "text": "JOIN US TODAY at 3:30pm ET for @lpackard\u2019s #DemConvention panel with Sec. @Sebelius & CA Attorney General @XavierBecerra to discuss our fight to #ProtectOurCare in the courts and at the ballot box from this Administration\u2019s constant attacks. \n\nWatch here:",
+     "handle": "TeamPelosi",
+     "n_match": 37
+    }
+   ],
+   "link": [
+    {
+     "date": "2019-01-03",
+     "text": "I have invited @realDonaldTrump to deliver his State of the Union address before a Joint Session Congress on Tuesday, January 29, 2019. https://www.speaker.gov/newsroom/1318-3/ http://pbs.twimg.com/media/DwBqwBBXQAALr-d.jpg",
+     "handle": "SpeakerPelosi",
+     "n_match": 1076
+    },
+    {
+     "date": "2019-09-28",
+     "text": "Speaker Nancy Pelosi Was Made for This Moment https://www.kqed.org/news/11776832/speaker-nancy-pelosi-was-made-for-this-moment",
+     "handle": "TeamPelosi",
+     "n_match": 1076
+    },
+    {
+     "date": "2019-09-28",
+     "text": "The current occupant of the White House used taxpayer money to shake down a foreign leader for his own political gain. \n\nTrump has clearly underestimated the core decency of the American people. http://pbs.twimg.com/ext_tw_video_thumb/1178121171973353472/pu/img/s-YIgJzQBhaL-Ruk.jpg https://video.twi",
+     "handle": "TeamPelosi",
+     "n_match": 1076
+    },
+    {
+     "date": "2020-08-17",
+     "text": "The President says he wants to save the post office, now. We have to #SaveThePostOffice from the President! http://pbs.twimg.com/ext_tw_video_thumb/1295510625578344452/pu/img/rOmmFLF5DsOmY68t.jpg https://video.twimg.com/ext_tw_video/1295510625578344452/pu/vid/480x270/MEEsmd8gQWvOMt4a.mp4?tag=10",
+     "handle": "TeamPelosi",
+     "n_match": 1076
+    },
+    {
+     "date": "2020-08-21",
+     "text": ".@RepMaloney is leading the charge to end the Trump Administration\u2019s attack on the Postal Service. Tomorrow, the House will pass her legislation protecting this critical lifeline for Americans nationwide. #DontMessWithUSPS http://pbs.twimg.com/amplify_video_thumb/1296927815095521280/img/qoL9UTAgyv0j",
+     "handle": "SpeakerPelosi",
+     "n_match": 1076
+    },
+    {
+     "date": "2020-08-29",
+     "text": "The American people have both the right and the need to know that another nation, Russia, is trying to help decide who their president should be.\n\nRead my statement with @RepAdamSchiff: https://www.speaker.gov/newsroom/82920",
+     "handle": "SpeakerPelosi",
+     "n_match": 1076
+    }
+   ],
+   "neg": [
+    {
+     "date": "2019-01-27",
+     "text": "Whether they were Jewish, Roma, LGBTQ or one of the many other communities targeted, our duty to remember every soul lost to the Holocaust doesn\u2019t wither with time. We must do all we can to stand up to genocide, hatred & bigotry in the world. #HolocaustMemorialDay #WeRemember",
+     "handle": "SpeakerPelosi",
+     "n_match": 402
+    },
+    {
+     "date": "2019-03-28",
+     "text": ".@realDonaldTrump & the @HouseGOP\u2019s attacks on @RepAdamSchiff raise the question: what are they afraid of? #IStandWithSchiff",
+     "handle": "SpeakerPelosi",
+     "n_match": 402
+    },
+    {
+     "date": "2019-08-15",
+     "text": "Every day without universal background checks for gun sales and other common sense measures to #EndGunViolence means more lives lost. \n\nOur communities need more than thoughts and prayers. They need action. Enough. #GiveUsAVote",
+     "handle": "TeamPelosi",
+     "n_match": 402
+    },
+    {
+     "date": "2020-04-11",
+     "text": "On a bipartisan basis, governors are crying out for help and Congress must act. Democrats will continue to push for urgently needed funds for state and local governments in the interim emergency bill and #CARES2. #FamiliesFirst",
+     "handle": "SpeakerPelosi",
+     "n_match": 402
+    },
+    {
+     "date": "2020-05-29",
+     "text": "If President Trump is serious about confronting China\u2019s human rights abuses, he must work with Congress to craft an effective, robust strategy. His vague suggestions for confronting China\u2019s actions are nothing new & do not articulate a real or serious strategy.",
+     "handle": "SpeakerPelosi",
+     "n_match": 402
+    },
+    {
+     "date": "2020-08-13",
+     "text": "The differences between Democrats\u2019 plan to combat the coronavirus & the meager proposals presented by the Trump Administration and Republicans in Congress could not be more stark. #FamiliesFirst",
+     "handle": "SpeakerPelosi",
+     "n_match": 402
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2018-01-08",
+     "text": "Unclear what Trump has to brag about with our farmers. Between the #GOPTaxScam and his proposed budget, Trump has failed rural America and the farm economy.",
+     "handle": "TeamPelosi",
+     "n_match": 44
+    },
+    {
+     "date": "2020-01-18",
+     "text": "The facts were overwhelming. He gave us no choice. That is why the current occupant of the White House is impeached forever. \n\nAnd with each passing day, we learn of his corrupt mission to cheat in the 2020 election. -NP",
+     "handle": "TeamPelosi",
+     "n_match": 44
+    },
+    {
+     "date": "2020-03-14",
+     "text": "Large employers and corporations must step up to the plate and offer paid sick leave and paid family & medical leave to their workers. Both now as we fight the #coronavirus and in the years to come. #COVID\u30fc19",
+     "handle": "SpeakerPelosi",
+     "n_match": 44
+    },
+    {
+     "date": "2020-04-15",
+     "text": "A weak person and a poor leader takes no responsibility and blames others. This illegal decision is especially dangerous in the middle of a pandemic. It will not stand.   QT @ABC NEW: Speaker Nancy Pelosi on Pres. Trump's decision to halt WHO funding: \"This is another case, as I have said, of the Pr",
+     "handle": "TeamPelosi",
+     "n_match": 44
+    },
+    {
+     "date": "2020-04-19",
+     "text": "Testing is the key to opening our economy. The truth is the Administration has failed on testing. We need to acknowledge that fact and move forward. #FamiliesFirst @ThisWeekABC",
+     "handle": "SpeakerPelosi",
+     "n_match": 44
+    },
+    {
+     "date": "2021-01-08",
+     "text": "He\u2019s deranged, unhinged and dangerous. He must go.   QT @kylegriffin1 Speaker Pelosi to '60 Minutes': \"Sadly, the person that's running the Executive Branch is a deranged, unhinged, dangerous president of the United States ... He has done something so serious that there should be prosecution against",
+     "handle": "TeamPelosi",
+     "n_match": 44
+    }
+   ],
+   "L:Nickname": [
+    {
+     "date": "2018-03-17",
+     "text": "What is it that you\u2019re hiding in your taxes from America that you continuously undermine the Mueller probe\u2019s ability to rightfully #FollowTheFacts? What must the Russians have on you personally, politically and financially?   QT @realDonaldTrump The Mueller probe should never have been started in th",
+     "handle": "TeamPelosi",
+     "n_match": 1
+    }
+   ],
+   "all": [
+    {
+     "date": "2018-01-20",
+     "text": "It\u2019s clear that negligence and incompetence are in the Republican DNA. This is the first time I can ever recall a party with control of the White House and BOTH chambers of Congress causing a government shutdown. #TrumpShutdown",
+     "handle": "TeamPelosi",
+     "n_match": 1354
+    },
+    {
+     "date": "2018-02-17",
+     "text": "Nancy takes her #GOPTaxScam tour to Houston -- raising awareness about the fact that: 1) Republicans exploded the debt by possibly $2.3 trillion; and 2) Republicans plan to use the debt to justify nearly $2 trillion in cuts to Medicare, Medicaid & more. We won't stop fighting!",
+     "handle": "TeamPelosi",
+     "n_match": 1354
+    },
+    {
+     "date": "2019-06-20",
+     "text": "It\u2019s been 114 days since the House passed the Bipartisan Background Checks Act of 2019 \u2014 and still @SenateMajLdr refuses to allow a vote on this life-saving legislation. Every day without a vote, 100 people are killed by gun violence. The Senate must pass #BackgroundChecksNow!",
+     "handle": "SpeakerPelosi",
+     "n_match": 1354
+    },
+    {
+     "date": "2020-01-14",
+     "text": "No, Trump didn\u2019t save preexisting conditions \ud83d\udc47\ud83d\udc47\n\n\"People with preexisting medical problems have health insurance protections because of President Barack Obama\u2019s health care law, which Trump is trying to dismantle.\"",
+     "handle": "TeamPelosi",
+     "n_match": 1354
+    },
+    {
+     "date": "2020-03-26",
+     "text": "I\u2019m speaking with reporters live at the U.S. Capitol.\n\nTune in here:",
+     "handle": "SpeakerPelosi",
+     "n_match": 1354
+    },
+    {
+     "date": "2020-09-22",
+     "text": "We continue to pray for the families who have lost loved ones & those whose ongoing health has been jeopardized by the coronavirus.",
+     "handle": "SpeakerPelosi",
+     "n_match": 1354
+    }
+   ]
+  },
+  "Rand Paul": {
+   "excl": [
+    {
+     "date": "2017-06-26",
+     "text": "Great tour of Siemens in Louisville, KY today! Also enjoyed meeting staff and discussing how less regulation would help them grow.",
+     "handle": "RandPaul",
+     "n_match": 135
+    },
+    {
+     "date": "2017-10-12",
+     "text": "Joining @jaketapper on @CNN in a few minutes to discuss expanded AHPs. Tune in!",
+     "handle": "RandPaul",
+     "n_match": 135
+    },
+    {
+     "date": "2017-12-23",
+     "text": "@SenatorReid HOW IS IT YOU NEVER TOLD ME ABOUT THE ALIENS, HARRY??!!",
+     "handle": "RandPaul",
+     "n_match": 135
+    },
+    {
+     "date": "2018-03-25",
+     "text": "This was a shameful piece of legislation! Congratulations to the Democrats (and many Republicans) on preserving and expanding Obama\u2019s spending legacy! #Fail",
+     "handle": "RandPaul",
+     "n_match": 135
+    },
+    {
+     "date": "2019-01-15",
+     "text": "Had a great time visiting @Ford truck plant in Louisville, KY yesterday. They employ over 800 veterans at this plant and I was excited to meet many of them during my stop there!",
+     "handle": "RandPaul",
+     "n_match": 135
+    },
+    {
+     "date": "2019-09-12",
+     "text": "The deadline for my Washington, D.C. Spring 2020 internship is October 10th. Don't miss out on a chance to work and learn in our nation's capital! Please visit my website for more information and the semester application.",
+     "handle": "RandPaul",
+     "n_match": 135
+    }
+   ],
+   "shout": [
+    {
+     "date": "2018-01-08",
+     "text": "ICYMI: I joined @FaceTheNation to discuss FISA reform. I will do whatever it takes, including filibuster, to prevent any reauthorization without new constitutional controls on this program.",
+     "handle": "RandPaul",
+     "n_match": 23
+    },
+    {
+     "date": "2019-03-08",
+     "text": "This morning @KelleyAshbyPaul and I visited Brighton Recovery Center in Florence, KY. Part of their program includes job skills training for the women through their catering business CENTER TABLE. Thank you for having me, and thanks to all who shared their stories!",
+     "handle": "RandPaul",
+     "n_match": 23
+    },
+    {
+     "date": "2020-03-10",
+     "text": "The \u2018Deal' on FISA is weak sauce diluted & made impotent by A.G. Barr.  None of the reforms prevent secret FISA court from abusing the rights of Americans.  None of the reforms prevent a President of either party from a politically motivated investigation.  Big Disappointment!",
+     "handle": "RandPaul",
+     "n_match": 23
+    },
+    {
+     "date": "2020-03-22",
+     "text": "We want to be clear, Senator Paul left the Senate IMMEDIATELY upon learning of his diagnosis. He had zero contact with anyone & went into quarantine. Insinuations such as those below that he went to the gym after learning of his results are just completely false & irresponsible!   QT @seungminkim Du",
+     "handle": "RandPaul",
+     "n_match": 23
+    },
+    {
+     "date": "2020-07-24",
+     "text": "The PRIME Act will make it easier for farmers to sell and consumers to buy locally produced meat. It\u2019s absolutely necessary for congress to pass the PRIME Act to help American families.",
+     "handle": "RandPaul",
+     "n_match": 23
+    },
+    {
+     "date": "2020-12-23",
+     "text": "OH WAIT I FOUND IT. We are going to promote Democracy in America with $132 million in \u201cassistance for GEORGIA.\u201d  No, wait, that\u2019s the former Soviet Republic, never mind.",
+     "handle": "RandPaul",
+     "n_match": 23
+    }
+   ],
+   "link": [
+    {
+     "date": "2018-03-29",
+     "text": "Hearing from Scottsville, KY business and community leaders about the issues in Allen County, and asking for suggestions of how I can help! Biggest problem seems to be a lack of workers for businesses. http://pbs.twimg.com/media/DZd-gAAV4AMDJEP.jpg",
+     "handle": "RandPaul",
+     "n_match": 385
+    },
+    {
+     "date": "2019-01-07",
+     "text": "\u201cThe Saudis are good friends to those who benefit from their lobbying largesse and military contracts. But they\u2019re not so good for the rest of us who have to pay the human, social, and financial costs, and suffer under a corrupted political process.\u201d https://www.theamericanconservative.com/articles/",
+     "handle": "RandPaul",
+     "n_match": 385
+    },
+    {
+     "date": "2019-09-12",
+     "text": "When @realdonaldtrump questioned NATO, once again @Liz_Cheney came out swinging, calling the president Wrong. #WarmongerCheneys #NeverTrumpCheneys https://trib.com/news/national/cheney-says-trump-is-wrong-on-nato/article_5766e1e8-3da5-57de-825f-33ac96c2688f.html",
+     "handle": "RandPaul",
+     "n_match": 385
+    },
+    {
+     "date": "2020-05-13",
+     "text": "Yesterday I wrote to DNI @RichardGrenell requesting the names of those who were involved in Gen Flynn\u2019s unmasking. Today I received the shocking reply that @JoeBiden and many others knew! What did President Obama know? I am inviting DNI Grenell to testify next week in the Senate http://pbs.twimg.com",
+     "handle": "RandPaul",
+     "n_match": 385
+    },
+    {
+     "date": "2020-05-17",
+     "text": "Paging Dr. Fauci:  scientific evidence shows mortality rate for coronavirus approximates the annual flu for people under 60\n#freeourpeople #openeconomynow\n\nHorowitz: One chart exposes the lie behind universal lockdowns - Conservative Review https://www.conservativereview.com/news/horowitz-one-chart-",
+     "handle": "RandPaul",
+     "n_match": 385
+    },
+    {
+     "date": "2020-10-20",
+     "text": "Happy 30th anniversary to the love of my life, \u2066@KelleyAshbyPaul\u2069 http://pbs.twimg.com/media/Ekx1540XUAAltV3.jpg",
+     "handle": "RandPaul",
+     "n_match": 385
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-02-09",
+     "text": "Tonight, you could feel the frustration and embarrassment growing in Congress as we exposed the hypocrisy of Republicans who are joining in an unholy alliance and spending free-for-all with Democrats at the expense of the American people and our party\u2019s supposed principles.",
+     "handle": "RandPaul",
+     "n_match": 240
+    },
+    {
+     "date": "2018-03-05",
+     "text": "Via @nbcnews: The FBI's secret warrant against Carter Page should scare us",
+     "handle": "RandPaul",
+     "n_match": 240
+    },
+    {
+     "date": "2018-06-05",
+     "text": "Bill Clinton epitomizes the aggressor, not the victim. You can\u2019t have an appropriate or consensual relationship with an intern. That is the definition of sexual harassment. #GiveMeABreak",
+     "handle": "RandPaul",
+     "n_match": 240
+    },
+    {
+     "date": "2018-10-03",
+     "text": "A letter from my wife, @KelleyAshbyPaul \u201cMy husband, Rand Paul, and our family have suffered intimidation and threats...@CNN",
+     "handle": "RandPaul",
+     "n_match": 240
+    },
+    {
+     "date": "2020-03-18",
+     "text": "We should never forget fiscal responsibility, even in a crisis. My amendment sought to offset the new spending by making numerous cuts. Read more here:",
+     "handle": "RandPaul",
+     "n_match": 240
+    },
+    {
+     "date": "2020-12-23",
+     "text": "Those are just a FEW of the worst. There are many many more.  And of course Congress ADDED dozens more examples in just one hellish Bill this week.",
+     "handle": "RandPaul",
+     "n_match": 240
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2018-07-15",
+     "text": "Russia shouldn\u2019t meddle in our elections. There\u2019s no excuse - which i said on TV this morning, though many in the media failed to note that part. U.S. shouldn\u2019t do it either. We also should remain rational and not risk war by yelling war crime. -",
+     "handle": "RandPaul",
+     "n_match": 15
+    },
+    {
+     "date": "2018-07-27",
+     "text": "Government doesn\u2019t have to be dysfunctional and incompetent. Pay attention to who is running in your local and state elections \u2014 especially in the primaries. (And consider moving away from states like California.)",
+     "handle": "RandPaul",
+     "n_match": 15
+    },
+    {
+     "date": "2019-09-12",
+     "text": "Hey \u2066@Liz_Cheney\u2069 I feel like you might just be mad still about when Candidate Trump shredded your Dad\u2019s failed foreign policy and endless wars.",
+     "handle": "RandPaul",
+     "n_match": 15
+    },
+    {
+     "date": "2019-12-17",
+     "text": "What happened in the last election should never happen again! We must reform the surveillance apparatus in the new year!   QT @Surabees The surveillance state/Patriot Act exist bc of people like your former boss & historic 2016 Pres loser Hillary Clinton. Believing the surveillance state inherently ",
+     "handle": "RandPaul",
+     "n_match": 15
+    },
+    {
+     "date": "2020-02-19",
+     "text": "He also lied to Congress! He\u2019ll go down in history as one of the biggest liars in history! He\u2019s never faced justice...   QT @vermontgmg Reminder: Jim Clapper spent 50 years in intelligence, headed two agencies, and served as the Under Sec of intel at the Pentagon before becoming DNI. Ric Grenell was",
+     "handle": "RandPaul",
+     "n_match": 15
+    },
+    {
+     "date": "2020-12-23",
+     "text": "Mike Lee was only one of 6 of us in the Senate to oppose this abomination. You should pay attention to who stood up agains this mess and who didn\u2019t. Air your grievances too #Festivus   QT @SenMikeLee 1/4 For almost a year, Utahns have been fighting through terrible conditions to work, to find work, ",
+     "handle": "RandPaul",
+     "n_match": 15
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2018-07-15",
+     "text": "US has intervened in foreign elections for decades, including leaking stolen documents. . .  nations regularly try to influence elections and this is nothing new for the United States, either as the culprit or as the target of such efforts.\u201dJonathan Turley",
+     "handle": "RandPaul",
+     "n_match": 655
+    },
+    {
+     "date": "2018-07-23",
+     "text": "Just got out of WH meeting with @realDonaldTrump. I restated to him what I have said in public: John Brennan and others partisans should have their security clearances revoked.",
+     "handle": "RandPaul",
+     "n_match": 655
+    },
+    {
+     "date": "2018-08-16",
+     "text": "Looking forward to joining @SeanHannity on his radio program at 5pm ET to discuss my trip to Russia!\n\nFind your local station here:",
+     "handle": "RandPaul",
+     "n_match": 655
+    },
+    {
+     "date": "2019-11-11",
+     "text": "So, I ask you to simply take pause and reflect on this, and to be the best American you can be.  Embrace the principles and values which our veterans defended.  Be engaged citizens.  Be the best teacher, mechanics, bankers, lawyers, or doctors that you can.",
+     "handle": "RandPaul",
+     "n_match": 655
+    },
+    {
+     "date": "2019-11-11",
+     "text": "Attempt to understand that when a young man or woman is forced to come of age under fire, that this is something they will never get back.  Through that I ask that we be  thoughtful and deliberate before we ask them to fight on foreign soil.  Let us live by their example.",
+     "handle": "RandPaul",
+     "n_match": 655
+    },
+    {
+     "date": "2020-10-20",
+     "text": "I\u2019m hosting interns in DC this spring and those interested should apply by October 30 for priority consideration!",
+     "handle": "RandPaul",
+     "n_match": 655
+    }
+   ]
+  },
+  "Ted Cruz": {
+   "excl": [
+    {
+     "date": "2017-11-05",
+     "text": "Great time visiting with friends today at @TXMotorSpeedway!",
+     "handle": "tedcruz",
+     "n_match": 534
+    },
+    {
+     "date": "2018-05-24",
+     "text": "Tune in now to hear my LIVE interview with @MichaelBerrySho!--&gt;",
+     "handle": "SenTedCruz",
+     "n_match": 534
+    },
+    {
+     "date": "2018-07-11",
+     "text": "Limousine liberal @StephenKing  preaching socialism (but not his millions!) to Texas is pretty scary, kinda like Carrie riding Cujo, chopping through a door with an ax and saying \u201cheeeeeeeeere\u2019s........Johnny!\u201d   QT @StephenKing Hey, Texas! I suppose you're going to re-elect Ted Cruz, but I hope you",
+     "handle": "tedcruz",
+     "n_match": 534
+    },
+    {
+     "date": "2018-10-31",
+     "text": "Lubbock, we need y'all to get out and vote to #KeepTexasRed!",
+     "handle": "tedcruz",
+     "n_match": 534
+    },
+    {
+     "date": "2018-12-22",
+     "text": "Heidi and the girls made waffles for me for my birthday breakfast!  Precious family \u2014 nothing more joyful.",
+     "handle": "tedcruz",
+     "n_match": 534
+    },
+    {
+     "date": "2020-05-05",
+     "text": "Ok, this may be the coolest video ever. Murder hornets defeated!   QT @TheBrandonMorse The way Japanese bees deal with murder hornets is just brutal but satisfying.",
+     "handle": "tedcruz",
+     "n_match": 534
+    }
+   ],
+   "shout": [
+    {
+     "date": "2018-03-21",
+     "text": "What an inspirational story from a fellow Texan! #WDSD2018   QT @LilaGraceRose Meet Blake, the youngest business owner in Texas with Down syndrome. Blake has inspired and touched millions of people. Watch his story this World Down Syndrome Day. #WDSD2018 #downssyndrome\n\nSee the full video here \u27a1\ufe0f",
+     "handle": "tedcruz",
+     "n_match": 252
+    },
+    {
+     "date": "2019-10-22",
+     "text": "Exactly right. Cuomo\u2019s decision will hurt working men & women, deny New Yorkers jobs, increase energy costs, make New England more dependent on foreign energy, enrich Russia & pollute the environment even more.  It\u2019s LOSE-LOSE. But, on the upside, it appeases left-wing activists!   QT @dcexaminer .@",
+     "handle": "tedcruz",
+     "n_match": 252
+    },
+    {
+     "date": "2020-02-07",
+     "text": "RELEASE: Cruz calls on #ICAO to include #Taiwan in international response to #coronavirus",
+     "handle": "SenTedCruz",
+     "n_match": 252
+    },
+    {
+     "date": "2020-03-02",
+     "text": "Interesting that @CaptMarkKelly doesn\u2019t want the votes of AZ #BernieBros   QT @brahmresnik BREAKING Arizona Democratic Senate candidate @CaptMarkKelly endorses @JoeBiden. #AZSEN #12News",
+     "handle": "tedcruz",
+     "n_match": 252
+    },
+    {
+     "date": "2020-05-29",
+     "text": "2/x You say it \u201cisn\u2019t true\u201d that Congress did that bc they were neutral. Here\u2019s some of the statutory text:\n\n\u201cThe Internet...offer[s] a forum for a TRUE DIVERSITY of political discourse, unique opportunities for cultural development, and myriad avenues for intellectual activity.\u201d   QT @charlescwcook",
+     "handle": "tedcruz",
+     "n_match": 252
+    },
+    {
+     "date": "2020-07-16",
+     "text": "Great move by POTUS to improve America\u2019s infrastructure & create more jobs. It\u2019s time for Congress to take up & pass my 2 bills with @SenTomCotton, @SenatorLankford, & @JohnCornyn to reform NEPA & get the boot of big government off the backs of businesses.",
+     "handle": "SenTedCruz",
+     "n_match": 252
+    }
+   ],
+   "link": [
+    {
+     "date": "2018-03-25",
+     "text": "Have a blessed #PalmSunday! https://twitter.com/GovAbbott/status/977883542272315394 QT @GovAbbott Wishing all a blessed Palm Sunday. http://pbs.twimg.com/media/DZIj4sHU0AA7bWH.jpg",
+     "handle": "tedcruz",
+     "n_match": 2710
+    },
+    {
+     "date": "2018-04-18",
+     "text": "Tune in ~10:15am CT to my Facebook page to watch my live remarks with @DavidBartonWB &amp; Wallbuilders members on the fight for religious liberty in our country. Watch here --&gt;http://facebook.com/SenatorTedCruz/",
+     "handle": "SenTedCruz",
+     "n_match": 2710
+    },
+    {
+     "date": "2019-06-12",
+     "text": "Livestream of my remarks at this morning's event will be available via my Facebook page at ~9:05am CT --&gt; https://www.facebook.com/SenatorTedCruz",
+     "handle": "SenTedCruz",
+     "n_match": 2710
+    },
+    {
+     "date": "2019-10-22",
+     "text": "Ted Cruz: Political Posturing Killed Kate Steinle, And Sanctuary Cities Will Kill More Americans https://townhall.com/tipsheet/timothymeads/2019/10/22/ted-cruz-to-dems-quit-the-political-posturing-on-sanctuary-cities-youre-n2555161?2215",
+     "handle": "SenTedCruz",
+     "n_match": 2710
+    },
+    {
+     "date": "2020-04-07",
+     "text": "Immoral. https://twitter.com/kattimpf/status/1246953731427622913 QT @KatTimpf It is absurd and draconian for a government to tell a dying person that they cannot take their chances with an experimental drug",
+     "handle": "tedcruz",
+     "n_match": 2710
+    },
+    {
+     "date": "2020-07-28",
+     "text": "Gig \u2018em! https://twitter.com/dallasnews/status/1288067177015382017 QT @dallasnews Federal government chooses A&amp;M to help produce coronavirus vaccine https://www.dallasnews.com/news/public-health/2020/07/27/federal-government-chooses-am-to-help-produce-coronavirus-vaccine/?utm_content=buffer60a9b",
+     "handle": "tedcruz",
+     "n_match": 2710
+    }
+   ],
+   "neg": [
+    {
+     "date": "2018-09-13",
+     "text": "We've been told that Hollywood is afraid of being outdone by New York after last night's fundraiser, so now they're pulling out all the stops... #TXSen #DontCaliforniaOurTexas",
+     "handle": "tedcruz",
+     "n_match": 864
+    },
+    {
+     "date": "2018-09-21",
+     "text": "My views on immigration are simple: Legal, good. Illegal, bad. \n\nI think most Texans agree with me. #TXSenateDebate",
+     "handle": "tedcruz",
+     "n_match": 864
+    },
+    {
+     "date": "2020-07-12",
+     "text": "James Madison was the Father of our Constitution. The Lunatic Left wants to expunge his memory.",
+     "handle": "tedcruz",
+     "n_match": 864
+    },
+    {
+     "date": "2020-07-28",
+     "text": "Democrats have cynically decided to let radicals burn their cities and pull back law enforcement protection. That\u2019s wrong, and why I introduced the RECLAIM Act. It\u2019s time to hold local officials accountable for abdicating their legal duty to protect the public.",
+     "handle": "SenTedCruz",
+     "n_match": 864
+    },
+    {
+     "date": "2020-10-12",
+     "text": "\ud83d\udd25\ud83d\udd25\ud83d\udd25   QT @Taniel A major red flag for Democrats: NYT/Siena has Senator Gary Peters leading GOP challenger John James by just 1% (43/42), even as Biden leads 48/40 in the same sample. \n\n \n\nGOP is pouring money here, & YouGov found a gap too \n (+3% for Peters +6% for Biden).",
+     "handle": "tedcruz",
+     "n_match": 864
+    },
+    {
+     "date": "2020-11-17",
+     "text": ".@townhallcom: Cruz Calls Out Democrats for 'Totalitarian Instincts\u2019 on Censorship",
+     "handle": "SenTedCruz",
+     "n_match": 864
+    }
+   ],
+   "L:Attack / insult": [
+    {
+     "date": "2018-05-24",
+     "text": "Communist China continues their campaign to isolate Taiwan. This time it\u2019s Burkina Faso. It won\u2019t work. The United States will always stand with our friend and ally in Taipei. --&gt;",
+     "handle": "SenTedCruz",
+     "n_match": 137
+    },
+    {
+     "date": "2019-03-24",
+     "text": ".@AOC response to the Senate\u2019s voting on her extreme \u201cGreen New Deal\u201d plan:      QT @realDailyWire 'A DISGRACE': Ocasio-Cortez Angered After McConnell Allows Vote On Green New Deal",
+     "handle": "tedcruz",
+     "n_match": 137
+    },
+    {
+     "date": "2019-07-02",
+     "text": "2/2...police protection to further your political agenda. When ANTIFA terrorists threatened ICE in Portland, you ORDERED police not to protect federal agents. Here\u2019s a US Senate resolution (which I joined) condemning your partisan civil rights violations:      QT @tedcruz Ok, Mr. Mayor. You want tal",
+     "handle": "tedcruz",
+     "n_match": 137
+    },
+    {
+     "date": "2020-06-22",
+     "text": "Today\u2019s @FCC decision sends a clear message that the US will not allow China to spread propaganda over US airwaves, and it takes a critical step in countering the Chinese Communist Party\u2019s efforts to control what Americans see, hear, and ultimately think.",
+     "handle": "SenTedCruz",
+     "n_match": 137
+    },
+    {
+     "date": "2020-07-04",
+     "text": "This is the modern Left.\n\nThey hate America. \n\nOf course the author is a college professor. These Marxist America-haters\u2014safely ensconced w/ 6-figure salaries\u2014teach revisionist history to our kids and ignore America\u2019s extraordinary legacy fighting for freedom & equality for all.",
+     "handle": "tedcruz",
+     "n_match": 137
+    },
+    {
+     "date": "2020-09-06",
+     "text": "9/x So, no, I don\u2019t want to \u201ccancel\u201d the NYT. I want y\u2019all to stop behaving like Marxist propagandists, stop peddling falsehoods to children, and behave instead like real journalists.",
+     "handle": "tedcruz",
+     "n_match": 137
+    }
+   ],
+   "L:Nickname": [],
+   "all": [
+    {
+     "date": "2019-09-04",
+     "text": "Important victory. A testament to the power of the People, standing together for Liberty. #FreeHongKong",
+     "handle": "tedcruz",
+     "n_match": 3334
+    },
+    {
+     "date": "2020-06-02",
+     "text": "What happened to #GeorgeFloyd was horrific. It was police brutality. \n\nWe're united in believing the officers involved should face criminal prosecution. \n\nYet we see antifa terrorists deciding to take advantage of this crisis to wrongly paint peaceful protestors as being violent.",
+     "handle": "tedcruz",
+     "n_match": 3334
+    },
+    {
+     "date": "2020-06-26",
+     "text": "The Obama administration weaponized the FBI against its political opponents. It\u2019s about time someone looked into their corruption.",
+     "handle": "SenTedCruz",
+     "n_match": 3334
+    },
+    {
+     "date": "2020-07-20",
+     "text": "Encouraging.   QT @business JUST IN: A coronavirus vaccine the University of Oxford is developing with AstraZeneca Plc showed promising results in early human testing, a sign of progress in the high-stakes pursuit of a shot to defeat the pathogen",
+     "handle": "tedcruz",
+     "n_match": 3334
+    },
+    {
+     "date": "2020-07-20",
+     "text": "Thank you to @BishopJDixon of @TheCOFchurch ministries for an incredible visit and tour of the King\u2019s Dome sanctuary in North #Houston. #OneFamilyOneFuture",
+     "handle": "SenTedCruz",
+     "n_match": 3334
+    },
+    {
+     "date": "2020-10-28",
+     "text": "What @jack told the Senate, under oath, is false. I just tried to tweet the @nypost story alleging Biden\u2019s CCP corruption. \n\nStill blocked.\n\n18 USC 1621 makes it a felony to lie under oath to the Senate.   QT @abigailmarone Jack Dorsey of Twitter just told Senator Cruz that anyone could now share th",
+     "handle": "tedcruz",
+     "n_match": 3334
+    }
+   ]
+  }
+ },
+ "window": "2017-06-22 to 2021-01-08",
+ "sampled_days": 325,
+ "source": "https://github.com/alexlitel/congresstweets",
+ "people": [
+  {
+   "who": "AOC",
+   "party": "D",
+   "posts": 1593,
+   "per_day": 4.9,
+   "rt_share": 0.358,
+   "n_own": 1017,
+   "words": 46.0,
+   "caps": 0.057,
+   "shout": 0.076,
+   "excl": 0.191,
+   "sent": 0.251,
+   "neg": 0.283,
+   "anger": 1.81,
+   "fear": 2.23,
+   "link": 0.644,
+   "labels": {
+    "Elections": 0.145,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.029,
+    "Media": 0.055,
+    "Economy & trade": 0.112,
+    "Immigration & border": 0.082,
+    "Foreign policy": 0.036,
+    "Military & veterans": 0.014,
+    "Crime & law and order": 0.039,
+    "Health & COVID": 0.129,
+    "Culture & identity": 0.009,
+    "Religion": 0.019,
+    "Personal & brand": 0.013,
+    "Energy & climate": 0.065,
+    "Attack / insult": 0.033,
+    "Nickname": 0.001,
+    "Boast / superlative": 0.023,
+    "Praise / gratitude": 0.088,
+    "Call to action": 0.116,
+    "Grievance / victimhood": 0.017,
+    "Threat / warning": 0.009,
+    "Nationalism / patriotism": 0.022,
+    "Us vs them": 0.037,
+    "Fear / danger": 0.043,
+    "Specifics / numbers": 0.085
+   }
+  },
+  {
+   "who": "Bernie Sanders",
+   "party": "D",
+   "posts": 3511,
+   "per_day": 10.8,
+   "rt_share": 0.217,
+   "n_own": 2747,
+   "words": 38.0,
+   "caps": 0.038,
+   "shout": 0.016,
+   "excl": 0.062,
+   "sent": 0.106,
+   "neg": 0.384,
+   "anger": 2.47,
+   "fear": 3.03,
+   "link": 0.662,
+   "labels": {
+    "Elections": 0.182,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.031,
+    "Media": 0.029,
+    "Economy & trade": 0.223,
+    "Immigration & border": 0.03,
+    "Foreign policy": 0.062,
+    "Military & veterans": 0.037,
+    "Crime & law and order": 0.036,
+    "Health & COVID": 0.216,
+    "Culture & identity": 0.004,
+    "Religion": 0.007,
+    "Personal & brand": 0.019,
+    "Energy & climate": 0.063,
+    "Attack / insult": 0.052,
+    "Nickname": 0.001,
+    "Boast / superlative": 0.028,
+    "Praise / gratitude": 0.053,
+    "Call to action": 0.17,
+    "Grievance / victimhood": 0.023,
+    "Threat / warning": 0.008,
+    "Nationalism / patriotism": 0.06,
+    "Us vs them": 0.024,
+    "Fear / danger": 0.062,
+    "Specifics / numbers": 0.195
+   }
+  },
+  {
+   "who": "Chuck Schumer",
+   "party": "D",
+   "posts": 2156,
+   "per_day": 6.6,
+   "rt_share": 0.194,
+   "n_own": 1737,
+   "words": 39.0,
+   "caps": 0.057,
+   "shout": 0.063,
+   "excl": 0.101,
+   "sent": 0.139,
+   "neg": 0.362,
+   "anger": 2.31,
+   "fear": 2.54,
+   "link": 0.575,
+   "labels": {
+    "Elections": 0.162,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.127,
+    "Media": 0.024,
+    "Economy & trade": 0.121,
+    "Immigration & border": 0.029,
+    "Foreign policy": 0.108,
+    "Military & veterans": 0.044,
+    "Crime & law and order": 0.026,
+    "Health & COVID": 0.164,
+    "Culture & identity": 0.006,
+    "Religion": 0.022,
+    "Personal & brand": 0.012,
+    "Energy & climate": 0.028,
+    "Attack / insult": 0.035,
+    "Nickname": 0.001,
+    "Boast / superlative": 0.025,
+    "Praise / gratitude": 0.058,
+    "Call to action": 0.092,
+    "Grievance / victimhood": 0.02,
+    "Threat / warning": 0.012,
+    "Nationalism / patriotism": 0.07,
+    "Us vs them": 0.099,
+    "Fear / danger": 0.042,
+    "Specifics / numbers": 0.058
+   }
+  },
+  {
+   "who": "Congress baseline (3% sample)",
+   "party": "\u2014",
+   "posts": 21087,
+   "per_day": 64.9,
+   "rt_share": 0.29,
+   "n_own": 14905,
+   "words": 33.0,
+   "caps": 0.061,
+   "shout": 0.063,
+   "excl": 0.191,
+   "sent": 0.294,
+   "neg": 0.231,
+   "anger": 1.71,
+   "fear": 2.29,
+   "link": 0.761,
+   "labels": {
+    "Elections": 0.109,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.045,
+    "Media": 0.025,
+    "Economy & trade": 0.105,
+    "Immigration & border": 0.034,
+    "Foreign policy": 0.057,
+    "Military & veterans": 0.054,
+    "Crime & law and order": 0.022,
+    "Health & COVID": 0.123,
+    "Culture & identity": 0.009,
+    "Religion": 0.022,
+    "Personal & brand": 0.027,
+    "Energy & climate": 0.026,
+    "Attack / insult": 0.02,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.023,
+    "Praise / gratitude": 0.113,
+    "Call to action": 0.116,
+    "Grievance / victimhood": 0.01,
+    "Threat / warning": 0.007,
+    "Nationalism / patriotism": 0.06,
+    "Us vs them": 0.039,
+    "Fear / danger": 0.032,
+    "Specifics / numbers": 0.055
+   }
+  },
+  {
+   "who": "Donald Trump",
+   "party": "R",
+   "posts": 6149,
+   "per_day": 18.9,
+   "rt_share": 0.359,
+   "n_own": 3581,
+   "words": 29.0,
+   "caps": 0.083,
+   "shout": 0.158,
+   "excl": 0.772,
+   "sent": 0.189,
+   "neg": 0.32,
+   "anger": 2.45,
+   "fear": 2.47,
+   "link": 0.319,
+   "labels": {
+    "Elections": 0.158,
+    "Endorsements": 0.025,
+    "Legal & investigations": 0.102,
+    "Media": 0.148,
+    "Economy & trade": 0.144,
+    "Immigration & border": 0.061,
+    "Foreign policy": 0.127,
+    "Military & veterans": 0.058,
+    "Crime & law and order": 0.061,
+    "Health & COVID": 0.04,
+    "Culture & identity": 0.008,
+    "Religion": 0.018,
+    "Personal & brand": 0.028,
+    "Energy & climate": 0.016,
+    "Attack / insult": 0.123,
+    "Nickname": 0.038,
+    "Boast / superlative": 0.058,
+    "Praise / gratitude": 0.152,
+    "Call to action": 0.067,
+    "Grievance / victimhood": 0.064,
+    "Threat / warning": 0.005,
+    "Nationalism / patriotism": 0.145,
+    "Us vs them": 0.132,
+    "Fear / danger": 0.037,
+    "Specifics / numbers": 0.059
+   }
+  },
+  {
+   "who": "Elizabeth Warren",
+   "party": "D",
+   "posts": 3424,
+   "per_day": 10.5,
+   "rt_share": 0.124,
+   "n_own": 3001,
+   "words": 40.0,
+   "caps": 0.046,
+   "shout": 0.038,
+   "excl": 0.128,
+   "sent": 0.144,
+   "neg": 0.363,
+   "anger": 2.52,
+   "fear": 3.18,
+   "link": 0.724,
+   "labels": {
+    "Elections": 0.137,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.055,
+    "Media": 0.017,
+    "Economy & trade": 0.157,
+    "Immigration & border": 0.029,
+    "Foreign policy": 0.037,
+    "Military & veterans": 0.036,
+    "Crime & law and order": 0.029,
+    "Health & COVID": 0.136,
+    "Culture & identity": 0.011,
+    "Religion": 0.008,
+    "Personal & brand": 0.023,
+    "Energy & climate": 0.043,
+    "Attack / insult": 0.034,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.016,
+    "Praise / gratitude": 0.07,
+    "Call to action": 0.105,
+    "Grievance / victimhood": 0.015,
+    "Threat / warning": 0.012,
+    "Nationalism / patriotism": 0.048,
+    "Us vs them": 0.022,
+    "Fear / danger": 0.047,
+    "Specifics / numbers": 0.093
+   }
+  },
+  {
+   "who": "Kamala Harris",
+   "party": "D",
+   "posts": 3680,
+   "per_day": 11.3,
+   "rt_share": 0.085,
+   "n_own": 3368,
+   "words": 36.0,
+   "caps": 0.041,
+   "shout": 0.023,
+   "excl": 0.048,
+   "sent": 0.121,
+   "neg": 0.363,
+   "anger": 2.69,
+   "fear": 3.07,
+   "link": 0.586,
+   "labels": {
+    "Elections": 0.137,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.08,
+    "Media": 0.029,
+    "Economy & trade": 0.081,
+    "Immigration & border": 0.054,
+    "Foreign policy": 0.031,
+    "Military & veterans": 0.022,
+    "Crime & law and order": 0.031,
+    "Health & COVID": 0.156,
+    "Culture & identity": 0.02,
+    "Religion": 0.014,
+    "Personal & brand": 0.025,
+    "Energy & climate": 0.037,
+    "Attack / insult": 0.028,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.024,
+    "Praise / gratitude": 0.053,
+    "Call to action": 0.119,
+    "Grievance / victimhood": 0.011,
+    "Threat / warning": 0.014,
+    "Nationalism / patriotism": 0.096,
+    "Us vs them": 0.01,
+    "Fear / danger": 0.049,
+    "Specifics / numbers": 0.072
+   }
+  },
+  {
+   "who": "Kevin McCarthy",
+   "party": "R",
+   "posts": 1718,
+   "per_day": 5.3,
+   "rt_share": 0.559,
+   "n_own": 758,
+   "words": 30.0,
+   "caps": 0.057,
+   "shout": 0.057,
+   "excl": 0.14,
+   "sent": 0.212,
+   "neg": 0.281,
+   "anger": 2.0,
+   "fear": 2.31,
+   "link": 0.766,
+   "labels": {
+    "Elections": 0.125,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.119,
+    "Media": 0.038,
+    "Economy & trade": 0.128,
+    "Immigration & border": 0.047,
+    "Foreign policy": 0.107,
+    "Military & veterans": 0.049,
+    "Crime & law and order": 0.03,
+    "Health & COVID": 0.08,
+    "Culture & identity": 0.017,
+    "Religion": 0.042,
+    "Personal & brand": 0.029,
+    "Energy & climate": 0.012,
+    "Attack / insult": 0.036,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.024,
+    "Praise / gratitude": 0.059,
+    "Call to action": 0.104,
+    "Grievance / victimhood": 0.015,
+    "Threat / warning": 0.013,
+    "Nationalism / patriotism": 0.09,
+    "Us vs them": 0.263,
+    "Fear / danger": 0.036,
+    "Specifics / numbers": 0.042
+   }
+  },
+  {
+   "who": "Marco Rubio",
+   "party": "R",
+   "posts": 3891,
+   "per_day": 12.0,
+   "rt_share": 0.114,
+   "n_own": 3434,
+   "words": 33.0,
+   "caps": 0.057,
+   "shout": 0.062,
+   "excl": 0.084,
+   "sent": 0.167,
+   "neg": 0.291,
+   "anger": 1.72,
+   "fear": 2.75,
+   "link": 0.65,
+   "labels": {
+    "Elections": 0.067,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.026,
+    "Media": 0.052,
+    "Economy & trade": 0.064,
+    "Immigration & border": 0.014,
+    "Foreign policy": 0.296,
+    "Military & veterans": 0.044,
+    "Crime & law and order": 0.041,
+    "Health & COVID": 0.051,
+    "Culture & identity": 0.007,
+    "Religion": 0.049,
+    "Personal & brand": 0.013,
+    "Energy & climate": 0.008,
+    "Attack / insult": 0.024,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.017,
+    "Praise / gratitude": 0.057,
+    "Call to action": 0.079,
+    "Grievance / victimhood": 0.016,
+    "Threat / warning": 0.012,
+    "Nationalism / patriotism": 0.019,
+    "Us vs them": 0.029,
+    "Fear / danger": 0.05,
+    "Specifics / numbers": 0.075
+   }
+  },
+  {
+   "who": "Matt Gaetz",
+   "party": "R",
+   "posts": 3769,
+   "per_day": 11.6,
+   "rt_share": 0.447,
+   "n_own": 2060,
+   "words": 27.0,
+   "caps": 0.071,
+   "shout": 0.108,
+   "excl": 0.234,
+   "sent": 0.193,
+   "neg": 0.273,
+   "anger": 1.96,
+   "fear": 2.46,
+   "link": 0.748,
+   "labels": {
+    "Elections": 0.117,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.135,
+    "Media": 0.093,
+    "Economy & trade": 0.055,
+    "Immigration & border": 0.039,
+    "Foreign policy": 0.103,
+    "Military & veterans": 0.052,
+    "Crime & law and order": 0.039,
+    "Health & COVID": 0.05,
+    "Culture & identity": 0.012,
+    "Religion": 0.02,
+    "Personal & brand": 0.071,
+    "Energy & climate": 0.013,
+    "Attack / insult": 0.034,
+    "Nickname": 0.001,
+    "Boast / superlative": 0.015,
+    "Praise / gratitude": 0.063,
+    "Call to action": 0.118,
+    "Grievance / victimhood": 0.029,
+    "Threat / warning": 0.011,
+    "Nationalism / patriotism": 0.098,
+    "Us vs them": 0.111,
+    "Fear / danger": 0.02,
+    "Specifics / numbers": 0.03
+   }
+  },
+  {
+   "who": "Mitch McConnell",
+   "party": "R",
+   "posts": 617,
+   "per_day": 1.9,
+   "rt_share": 0.045,
+   "n_own": 586,
+   "words": 34.0,
+   "caps": 0.045,
+   "shout": 0.026,
+   "excl": 0.012,
+   "sent": 0.257,
+   "neg": 0.261,
+   "anger": 1.79,
+   "fear": 2.18,
+   "link": 0.519,
+   "labels": {
+    "Elections": 0.121,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.125,
+    "Media": 0.024,
+    "Economy & trade": 0.145,
+    "Immigration & border": 0.043,
+    "Foreign policy": 0.065,
+    "Military & veterans": 0.058,
+    "Crime & law and order": 0.022,
+    "Health & COVID": 0.099,
+    "Culture & identity": 0.005,
+    "Religion": 0.029,
+    "Personal & brand": 0.02,
+    "Energy & climate": 0.02,
+    "Attack / insult": 0.014,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.046,
+    "Praise / gratitude": 0.085,
+    "Call to action": 0.099,
+    "Grievance / victimhood": 0.019,
+    "Threat / warning": 0.009,
+    "Nationalism / patriotism": 0.14,
+    "Us vs them": 0.186,
+    "Fear / danger": 0.019,
+    "Specifics / numbers": 0.032
+   }
+  },
+  {
+   "who": "Nancy Pelosi",
+   "party": "D",
+   "posts": 2426,
+   "per_day": 7.5,
+   "rt_share": 0.441,
+   "n_own": 1354,
+   "words": 33.0,
+   "caps": 0.06,
+   "shout": 0.027,
+   "excl": 0.163,
+   "sent": 0.207,
+   "neg": 0.297,
+   "anger": 2.06,
+   "fear": 2.22,
+   "link": 0.795,
+   "labels": {
+    "Elections": 0.15,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.049,
+    "Media": 0.034,
+    "Economy & trade": 0.112,
+    "Immigration & border": 0.024,
+    "Foreign policy": 0.051,
+    "Military & veterans": 0.036,
+    "Crime & law and order": 0.011,
+    "Health & COVID": 0.187,
+    "Culture & identity": 0.006,
+    "Religion": 0.021,
+    "Personal & brand": 0.058,
+    "Energy & climate": 0.012,
+    "Attack / insult": 0.032,
+    "Nickname": 0.001,
+    "Boast / superlative": 0.032,
+    "Praise / gratitude": 0.093,
+    "Call to action": 0.153,
+    "Grievance / victimhood": 0.011,
+    "Threat / warning": 0.01,
+    "Nationalism / patriotism": 0.102,
+    "Us vs them": 0.068,
+    "Fear / danger": 0.044,
+    "Specifics / numbers": 0.067
+   }
+  },
+  {
+   "who": "Rand Paul",
+   "party": "R",
+   "posts": 931,
+   "per_day": 2.9,
+   "rt_share": 0.295,
+   "n_own": 655,
+   "words": 27.0,
+   "caps": 0.05,
+   "shout": 0.035,
+   "excl": 0.206,
+   "sent": 0.082,
+   "neg": 0.366,
+   "anger": 1.85,
+   "fear": 2.81,
+   "link": 0.588,
+   "labels": {
+    "Elections": 0.078,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.055,
+    "Media": 0.06,
+    "Economy & trade": 0.092,
+    "Immigration & border": 0.009,
+    "Foreign policy": 0.168,
+    "Military & veterans": 0.067,
+    "Crime & law and order": 0.023,
+    "Health & COVID": 0.095,
+    "Culture & identity": 0.012,
+    "Religion": 0.032,
+    "Personal & brand": 0.035,
+    "Energy & climate": 0.003,
+    "Attack / insult": 0.023,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.014,
+    "Praise / gratitude": 0.044,
+    "Call to action": 0.122,
+    "Grievance / victimhood": 0.009,
+    "Threat / warning": 0.006,
+    "Nationalism / patriotism": 0.043,
+    "Us vs them": 0.032,
+    "Fear / danger": 0.018,
+    "Specifics / numbers": 0.082
+   }
+  },
+  {
+   "who": "Ted Cruz",
+   "party": "R",
+   "posts": 5698,
+   "per_day": 17.5,
+   "rt_share": 0.413,
+   "n_own": 3334,
+   "words": 31.0,
+   "caps": 0.073,
+   "shout": 0.076,
+   "excl": 0.16,
+   "sent": 0.251,
+   "neg": 0.259,
+   "anger": 2.09,
+   "fear": 2.97,
+   "link": 0.813,
+   "labels": {
+    "Elections": 0.107,
+    "Endorsements": 0.0,
+    "Legal & investigations": 0.073,
+    "Media": 0.065,
+    "Economy & trade": 0.08,
+    "Immigration & border": 0.025,
+    "Foreign policy": 0.142,
+    "Military & veterans": 0.03,
+    "Crime & law and order": 0.063,
+    "Health & COVID": 0.068,
+    "Culture & identity": 0.033,
+    "Religion": 0.06,
+    "Personal & brand": 0.048,
+    "Energy & climate": 0.026,
+    "Attack / insult": 0.041,
+    "Nickname": 0.0,
+    "Boast / superlative": 0.02,
+    "Praise / gratitude": 0.068,
+    "Call to action": 0.152,
+    "Grievance / victimhood": 0.018,
+    "Threat / warning": 0.015,
+    "Nationalism / patriotism": 0.06,
+    "Us vs them": 0.101,
+    "Fear / danger": 0.045,
+    "Specifics / numbers": 0.033
+   }
+  }
+ ],
+ "note": "Systematic sample of every 4th day. Archive covers official and campaign accounts of sitting members of Congress; Biden and Obama were not in Congress in this window and are not covered. The archive has no likes or retweet counts, so this benchmark compares style, topics and volume, not engagement."
+}

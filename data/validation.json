@@ -1,0 +1,127 @@
+{
+ "lexicon_vs_supplied": [
+  {
+   "topic": "Elections",
+   "supplied": "Elections",
+   "n_supplied": 3970,
+   "n_lexicon": 4024,
+   "both": 2257,
+   "lexicon_recall": 0.569,
+   "lexicon_precision": 0.561,
+   "kappa": 0.409
+  },
+  {
+   "topic": "Legal & investigations",
+   "supplied": "Legal",
+   "n_supplied": 3248,
+   "n_lexicon": 2633,
+   "both": 2087,
+   "lexicon_recall": 0.643,
+   "lexicon_precision": 0.793,
+   "kappa": 0.641
+  },
+  {
+   "topic": "Media",
+   "supplied": "Media",
+   "n_supplied": 1070,
+   "n_lexicon": 1359,
+   "both": 597,
+   "lexicon_recall": 0.558,
+   "lexicon_precision": 0.439,
+   "kappa": 0.448
+  },
+  {
+   "topic": "Economy & trade",
+   "supplied": "Economy",
+   "n_supplied": 1400,
+   "n_lexicon": 1910,
+   "both": 853,
+   "lexicon_recall": 0.609,
+   "lexicon_precision": 0.447,
+   "kappa": 0.458
+  },
+  {
+   "topic": "Foreign policy",
+   "supplied": "Foreign Policy",
+   "n_supplied": 1189,
+   "n_lexicon": 1641,
+   "both": 831,
+   "lexicon_recall": 0.699,
+   "lexicon_precision": 0.506,
+   "kappa": 0.546
+  },
+  {
+   "topic": "Immigration & border",
+   "supplied": "Immigration",
+   "n_supplied": 668,
+   "n_lexicon": 1374,
+   "both": 549,
+   "lexicon_recall": 0.822,
+   "lexicon_precision": 0.4,
+   "kappa": 0.509
+  },
+  {
+   "topic": "Military & veterans",
+   "supplied": "Military",
+   "n_supplied": 285,
+   "n_lexicon": 974,
+   "both": 171,
+   "lexicon_recall": 0.6,
+   "lexicon_precision": 0.176,
+   "kappa": 0.25
+  },
+  {
+   "topic": "Religion",
+   "supplied": "Religion",
+   "n_supplied": 125,
+   "n_lexicon": 320,
+   "both": 70,
+   "lexicon_recall": 0.56,
+   "lexicon_precision": 0.219,
+   "kappa": 0.306
+  },
+  {
+   "topic": "Personal & brand",
+   "supplied": "Personal",
+   "n_supplied": 989,
+   "n_lexicon": 549,
+   "both": 144,
+   "lexicon_recall": 0.146,
+   "lexicon_precision": 0.262,
+   "kappa": 0.148
+  }
+ ],
+ "supplied_other_by_kind": [
+  {
+   "kind": "link_only",
+   "n": 5705,
+   "share_other": 0.195
+  },
+  {
+   "kind": "media_only",
+   "n": 5935,
+   "share_other": 0.997
+  },
+  {
+   "kind": "original",
+   "n": 14161,
+   "share_other": 0.142
+  },
+  {
+   "kind": "quote",
+   "n": 1020,
+   "share_other": 0.425
+  },
+  {
+   "kind": "repost",
+   "n": 5933,
+   "share_other": 0.387
+  }
+ ],
+ "own_other_n": 2436,
+ "own_other_lexicon_found": 0.268,
+ "unclassified_2015plus": {
+  "Truth Social": 0.332,
+  "Twitter": 0.404
+ }
+}
