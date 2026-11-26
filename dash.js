@@ -115,7 +115,9 @@ function home() {
     ["compare", "Q4", "How does he compare with other politicians?", `<b>${pc(bm["Donald Trump"].excl)}</b> use "!" vs ≤${pc(Math.max(...others.map(p => p.excl)))}`],
     ["change", "+", "How has it changed since 2009?", `Typical likes <b>${k(tw20.med_likes)}</b> → <b>${k(ts25.med_likes)}</b>`],
     ["explore", "+", "Explore the posts yourself", "Search 59k posts · ask the AI", "dark"]];
-  $("qs").innerHTML = QS.map(([id, n, q, s, c]) => `<button class="q ${c || ""}" data-go="${id}"><span class="n">${n}<span class="go">→</span></span><span class="tq">${q}</span><span class="st">${s}</span></button>`).join("");
+  const ICON_R = `<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2"><path d="M21 12a8 8 0 0 1-11.6 7.1L4 20l1-4.6A8 8 0 1 1 21 12z"/></svg>`;
+  const card = ([id, n, q, s, c]) => `<button class="q ${c || ""}" data-go="${id}"><span class="qh"><i class="av">${n === "+" ? "+" : n}</i><span><b>${n === "+" ? (id === "explore" ? "Try it" : "Bonus") : "Question " + n.slice(1)}</b> · Knox insight</span><span class="go">→</span></span><span class="tq">${q}</span><span class="st">${s}</span><span class="qf"><span>${ICON_R}Tap to open</span></span></button>`;
+  $("qsL").innerHTML = [QS[0], QS[2], QS[4]].map(card).join(""); $("qsR").innerHTML = [QS[1], QS[3], QS[5]].map(card).join("");
   const star = (x, y, s, c) => `<path transform="translate(${x} ${y}) scale(${s})" d="M0-14 4-4 14-4 6 2 9 13 0 6-9 13-6 2-14-4-4-4z" fill="${c}"/>`;
   const pills = [[`${ICON.bolt} Attacks ${lift(att.lift)}`, 17, 30, "why"], [`${ICON.mic} Own words ×${(f.original.med_rp / f.link_only.med_rp).toFixed(1)} vs link-only posts`, 82, 20, "works"], [`${ICON.caps} ALL CAPS ${sgn(reg("Truth Social", "caps_ratio").pct)}`, 13, 60, "why"], [`${ICON.down} Copy-paste posts ${lift(end.lift)}`, 85, 58, "works"], [`${ICON.star} Faith ${lift(dna("Truth Social", "Religion").lift)}`, 80, 84, "works"]];
   $("heroVis").innerHTML = `<svg viewBox="0 0 600 600" preserveAspectRatio="xMidYMax meet" aria-hidden="true">
@@ -133,9 +135,7 @@ function home() {
     <p id="phText"></p>
     <div class="ph-meta"><span><svg viewBox="0 0 24 24" class="ico" fill="#b31942"><path d="M12 21s-8-5.3-8-11a4.5 4.5 0 0 1 8-2.8A4.5 4.5 0 0 1 20 10c0 5.7-8 11-8 11z"/></svg><b id="phLikes"></b></span><span><svg viewBox="0 0 24 24" class="ico" fill="none" stroke="currentColor" stroke-width="2.4"><path d="M17 2l4 4-4 4M3 11V9a3 3 0 0 1 3-3h15M7 22l-4-4 4-4M21 13v2a3 3 0 0 1-3 3H3"/></svg><b id="phShares"></b></span></div>
     <div class="ph-dots" id="phDots"></div></div></div>
-  ${pills.map(([t, x, y, g], i) => `<button class="tag float" data-go="${g}" style="left:${x}%;top:${y}%;animation-delay:${i * .7}s">${t}</button>`).join("")}
-  <div class="big" style="right:0;top:36%"><b id="cnt">0</b><span>posts analysed<br>2009–2026</span></div>
-  <div class="qt" style="left:0;top:2%"><span style="color:var(--ink);font-weight:800">His most-liked posts</span><br>cycling on the phone. Tap a pill to jump to the evidence.</div>`;
+  `;
   // rotating real posts
   const feed = [];
   for (let i = 0; i < 4; i++) ["Twitter", "Truth Social"].forEach(era => { const p = R.autopsy[era].top_absolute[i]; if (p) feed.push({ ...p, era }); });
@@ -148,10 +148,6 @@ function home() {
   showPost(); clearInterval(phTimer);
   if (!matchMedia("(prefers-reduced-motion: reduce)").matches) phTimer = setInterval(() => { if (cur === "home") { ix++; showPost(); } }, 4200);
   $("phone").onclick = () => { ix++; showPost(); };
-  // count-up
-  const target = T.posts, t0 = performance.now();
-  const tick = t => { const p = Math.min(1, (t - t0) / 1400); $("cnt").textContent = nf.format(Math.round(target * (1 - Math.pow(1 - p, 3)))); if (p < 1) requestAnimationFrame(tick); };
-  matchMedia("(prefers-reduced-motion: reduce)").matches ? $("cnt").textContent = nf.format(target) : requestAnimationFrame(tick);
 }
 
 
@@ -403,7 +399,7 @@ function view() {
     card.innerHTML = `<form class="srch" id="sF"><input id="sQ" placeholder="Search an idea, e.g. border security and national identity" aria-label="Search"><select id="sP" aria-label="Platform"><option value="">Both platforms</option><option value="T">Twitter</option><option value="S">Truth Social</option></select><select id="sL" aria-label="Label"><option value="">Any topic</option>${labels.map(l => `<option>${esc(l)}</option>`).join("")}</select><select id="sR" aria-label="Performance"><option value="">Any result</option><option value="2">Beat his usual 2×+</option><option value="-0.5">Under half his usual</option></select><button class="btn">Search</button></form>
       <div class="pills" id="sX" style="margin-top:8px">${["rigged election ballots", "attacking judges and prosecutors", "prayer faith God bless", "jobs record stock market", "trade deal China tariffs"].map(x => `<button type="button">${x}</button>`).join("")}</div><div class="res" id="sRes"></div><div class="pager" id="sPg"></div>`;
     const run = () => { const f = { platform: PL[$("sP").value], label: $("sL").value || undefined }; if ($("sR").value === "2") f.min_rp = 2; if ($("sR").value === "-0.5") f.max_rp = .5; const q = $("sQ").value.trim(); last = search(q, f, q ? "similarity" : "rp_desc", 60); page = 0; show(); };
-    const show = () => { const per = innerHeight < 800 ? 2 : innerHeight < 1000 ? 3 : 4, rows = last.rows.slice(page * per, page * per + per);
+    const show = () => { const per = innerHeight < 660 && innerWidth < 1200 ? 1 : innerHeight < 800 ? 2 : innerHeight < 1000 ? 3 : 4, rows = last.rows.slice(page * per, page * per + per);
       $("sRes").innerHTML = rows.map(r => socialCard(r)).join("") || '<div class="empty">Nothing matches. Remove a filter.</div>';
       $("sPg").innerHTML = `<span>${nf.format(last.total)} posts match · ranked by ${last.used_embedding ? "meaning" : "performance"}</span><span style="flex:1"></span><button id="pp" ${page ? "" : "disabled"}>←</button><span>${page + 1}/${Math.max(1, Math.ceil(Math.min(60, last.rows.length) / per))}</span><button id="pn" ${(page + 1) * per < last.rows.length ? "" : "disabled"}>→</button>`;
       $("pp").onclick = () => { page--; show(); }; $("pn").onclick = () => { page++; show(); }; };
@@ -411,7 +407,7 @@ function view() {
     $("sQ").value = "border security and national identity"; run();
   } else {
     if (!sample && !GEM) { card.innerHTML = `<div class="empty"><h3 style="color:var(--ink)">Ask the AI runs on the live site</h3>It uses Google Gemini (free tier) and is switched on in the published Netlify version. Search still works here.</div>`; return; }
-    card.innerHTML = `<div class="caution"><b>⚠ AI can make mistakes.</b> Answers are written by ${esc(GEM.provider)} (${esc(GEM.model)}, free tier). The numbers come from calculations run in your browser, but always check the evidence listed under each answer.
+    card.innerHTML = `<div class="caution"><b>⚠ AI can make mistakes.</b> Answers are written by ${esc(GEM.provider)} on its <b>free tier</b>. The numbers come from calculations run in your browser, but always check the evidence listed under each answer.
   <details><summary>Read all cautions</summary><ul>
   <li><b>Wording vs numbers:</b> the AI only chooses which calculations to run and writes the summary. It can still misread a result or overstate it.</li>
   <li><b>Labels are automatic:</b> topics and techniques are tagged by keyword rules and a classifier (accuracy about 0.69 F1; a hand check of 100 test posts agreed with 90%). Sarcasm and context can be missed.</li>
@@ -419,7 +415,7 @@ function view() {
   <li><b>"His usual"</b> means his typical likes over the previous 30 days on that platform. Twitter posts before Oct 2015 are less reliable (likes were collected years later).</li>
   <li><b>Associations, not causes:</b> a pattern doesn't prove that a topic or style caused more likes.</li>
   <li><b>Privacy:</b> your question and the post snippets needed to answer it are sent to Google (Gemini free tier, which may use them to improve its products). Don't type personal information.</li>
-  <li><b>Availability:</b> free tier: answers can be slow or rate-limited at busy times.</li>
+  <li><b>Free tier:</b> at busy times Google may reply "high demand" or limit requests. That is normal for the free tier, not a site error. The site automatically tries backup Gemini models; if all are busy, wait a minute.</li>
   <li><b>Neutral research tool:</b> it describes patterns and doesn't endorse any candidate or message.</li></ul></details></div><div class="pills" id="aX">${["Which techniques do best on Truth Social?", "Find immigration posts that beat his usual", "Compare Android and iPhone posts in 2016", "Do China posts beat media posts?"].map(x => `<button type="button">${x}</button>`).join("")}</div><div class="chat" id="chat"></div><form class="srch" id="aF" style="margin-top:8px"><input id="aQ" placeholder="Ask about the posts" aria-label="Question"><button class="btn" id="aS">Ask</button></form>`;
     $("aX").onclick = e => { const b = e.target.closest("button"); if (b) { $("aQ").value = b.textContent; ask(labels); } }; $("aF").onsubmit = e => { e.preventDefault(); ask(labels); };
   }
@@ -428,9 +424,14 @@ const FS = { type: "object", properties: { platform: { type: "string", enum: ["T
 async function runGemini(h, sys, tools) {
   const decl = tools.map(t => ({ name: t.name, description: t.description, parameters: t.inputSchema }));
   const contents = h.map(m_ => ({ role: m_.role === "assistant" ? "model" : "user", parts: [{ text: m_.content }] }));
+  let model = null;
+  const call = async () => { const r = await fetch("api/ask", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ model, contents, tools: [{ functionDeclarations: decl }], systemInstruction: { parts: [{ text: sys }] } }) });
+    let j = {}; try { j = await r.json(); } catch { j = {}; } return { r, j }; };
   for (let round = 0; round < 6; round++) {
-    const r = await fetch("api/ask", { method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify({ contents, tools: [{ functionDeclarations: decl }], systemInstruction: { parts: [{ text: sys }] } }) });
-    let j = {}; try { j = await r.json(); } catch { j = { error: "The AI service didn't respond (HTTP " + r.status + ")" }; } if (!r.ok) { const e = new Error(j.error?.message || j.error || ("HTTP " + r.status)); e.code = r.status === 429 ? "rate_limited" : "api"; throw e; }
+    let { r, j } = await call();
+    if ([429, 500, 502, 503, 504].includes(r.status)) { await new Promise(s => setTimeout(s, 2500)); ({ r, j } = await call()); }
+    if (!r.ok) { const e = new Error(j.error?.message || j.error || ("HTTP " + r.status)); e.code = [429, 500, 502, 503, 504].includes(r.status) ? "busy" : "api"; throw e; }
+    model = r.headers.get("x-gemini-model") || model; GEM.used = model;
     const c = j.candidates?.[0]?.content; if (!c) throw new Error("No answer returned");
     contents.push(c); const calls = (c.parts || []).filter(p => p.functionCall);
     if (!calls.length) return { text: (c.parts || []).map(p => p.text || "").join("").trim() || "(no answer)" };
@@ -448,8 +449,8 @@ async function ask(labels) {
   const sys = `You are the research assistant in a public dashboard on Donald Trump's posts (Twitter 2009–Jan 2021, Truth Social Feb 2022–Apr 2026). Every number must come from a tool result; never estimate. RP = likes ÷ his median likes over the previous 30 days on the same platform (not an engagement rate). Cite posts by date and platform with short quotes. Never infer who engaged or claim persuasion or votes; say plainly when the data can't answer. Stay neutral. Labels: ${labels.join(", ")}. Answer in under 120 words, then a short "Evidence" list.`;
   hist.push({ role: "user", content: q }); const h = hist.slice(-7); while (h.length && h[0].role !== "user") h.shift();
   try { const res = await runGemini(h, sys, tools); box.textContent = res.text; hist.push({ role: "assistant", content: res.text }); }
-  catch (e) { box.textContent = e && e.code === "rate_limited" ? "The free Gemini tier is busy (rate limit). Wait a minute and try again." : "Couldn't answer: " + (e && e.message || e); hist.pop(); }
-  if (trace.length) { const t = document.createElement("div"); t.className = "trace"; t.textContent = "Computed in your browser: " + trace.join(" · "); box.appendChild(t); }
+  catch (e) { box.textContent = e && e.code === "busy" ? "Google's free Gemini tier is busy right now. This is normal on the free tier, not a problem with the site; the site already tried several backup models. Please try again in a minute, or use Search, which always works." : "Couldn't answer: " + (e && e.message || e); hist.pop(); }
+  if (trace.length) { const t = document.createElement("div"); t.className = "trace"; t.textContent = (GEM && GEM.used ? `Answered by ${GEM.used} · ` : "") + "Computed in your browser: " + trace.join(" · "); box.appendChild(t); }
   $("aS").disabled = false; chat.scrollTop = chat.scrollHeight;
 }
 

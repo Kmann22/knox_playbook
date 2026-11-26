@@ -3,6 +3,8 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="color-scheme" content="only light">
+<meta name="theme-color" content="#f7f5f0">
 <title>Why Trump Wins Online</title>
 <link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3CclipPath id='c'%3E%3Ccircle cx='32' cy='32' r='30'/%3E%3C/clipPath%3E%3Cg clip-path='url(%23c)'%3E%3Crect width='64' height='64' fill='%23fff'/%3E%3Cg fill='%23b31942'%3E%3Crect y='2' width='64' height='6'/%3E%3Crect y='14' width='64' height='6'/%3E%3Crect y='26' width='64' height='6'/%3E%3Crect y='38' width='64' height='6'/%3E%3Crect y='50' width='64' height='6'/%3E%3Crect y='62' width='64' height='6'/%3E%3C/g%3E%3Crect width='30' height='32' fill='%230a3161'/%3E%3Cpath d='M15 8l2.4 5 5.4.6-4 3.7 1.1 5.3L15 20l-4.9 2.6 1.1-5.3-4-3.7 5.4-.6z' fill='%23fff'/%3E%3C/g%3E%3Ccircle cx='32' cy='32' r='30' fill='none' stroke='%230a3161' stroke-width='3'/%3E%3C/svg%3E">
 <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -13,10 +15,10 @@
    PICTURE: a flag-striped sun with a phone rising out of it, a post on screen, black stat pills orbiting: the feed as a stage.
    COLOUR and TYPE: flag white #f7f5f0, Old Glory navy #0a3161 (ink, pills), Old Glory red #b31942 (works), slate blue #8797b3 (flops), with platform blue and indigo for Twitter and Truth Social. Urbanist throughout.
    LAYOUT: fixed 100dvh stage; top nav pills; each page = question chip, one headline answer, one visual, three big numbers, one takeaway. Nothing scrolls on desktop. */
-:root{color-scheme:light dark;
+:root{color-scheme:only light;
 --bg:light-dark(#f7f5f0,#10141c);--card:light-dark(#ffffff,#1e1e1e);--ink:light-dark(#0f1a2e,#f2efe9);--mut:light-dark(#6b6862,#a8a49c);--line:light-dark(#e3dfd6,#2c2c2c);
 --or:light-dark(#b31942,#e0475f);--or2:light-dark(#e8a0ad,#7a1f30);--sl:light-dark(#8797b3,#7f8fab);--tw:light-dark(#79a7dc,#6f9fd8);--ts:light-dark(#0a3161,#cdd9f2);--twt:light-dark(#3f73b5,#8fb6e8);--pill:light-dark(#0a3161,#dfe6f3);--pillt:light-dark(#ffffff,#0a3161);--navy:#0a3161}
-:root[data-theme=light]{color-scheme:light}:root[data-theme=dark]{color-scheme:dark}
+
 *{box-sizing:border-box;min-width:0}
 html,body{height:100%}
 body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.45 Urbanist,system-ui,sans-serif;overflow:hidden;
@@ -207,7 +209,7 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
 @media (prefers-reduced-motion:reduce){.modal,.mbox{animation:none}body.mopen .app{transition:none}}
 .fun{display:grid;gap:3px;font-size:clamp(11.5px,1.6vh,13.5px);line-height:1.25}.fun div{display:grid;grid-template-columns:62px 1fr;gap:8px;align-items:baseline;border-bottom:1px solid var(--line);padding:2px 0}.fun b{text-align:right;font-weight:800;font-size:1.05em}.fun span{color:var(--mut)}.fun .hi b,.fun .hi span{color:var(--or);font-weight:800}
 /* responsive: on small screens allow the page itself to scroll */
-@media (max-width:900px),(max-height:600px){
+@media (max-width:900px),(max-height:479px){
   body{overflow:auto}.app{height:auto;min-height:100dvh}.stage{overflow:visible}
   .page{position:relative;inset:auto;display:none;transform:none}.page.on{display:grid}
   .body,.body.wk,.homegrid{grid-template-columns:minmax(0,1fr)}.vis{height:62vw;min-height:280px}
@@ -282,6 +284,83 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
 #mGrid .mfun .fun{font-size:clamp(13.5px,2vh,17px);gap:6px;margin-top:6px}#mGrid .mfun .fun div{grid-template-columns:84px 1fr;padding:6px 0}
 #mGrid .lcard p{font-size:clamp(14px,2.1vh,18px)}
 @media (max-width:900px){#mGrid{grid-template-columns:minmax(0,1fr)!important;grid-template-rows:auto}#mGrid .mfun{grid-row:auto}}
+
+/* ---- home v2: phone centre, question tweets either side ---- */
+.home{grid-template-rows:auto minmax(0,1fr)!important}
+.hhead{text-align:center}.hhead .chip{margin-bottom:4px}
+.hhead h1{font-size:clamp(30px,6vh,64px)!important}
+.hhead .sub{max-width:860px;margin:6px auto 0!important;font-size:clamp(14px,1.9vh,18px)!important}
+.hstage{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,1.1fr) minmax(0,1fr);gap:clamp(12px,2.2vw,36px);min-height:0;align-items:stretch}
+.cloud{display:flex;flex-direction:column;justify-content:center;gap:clamp(10px,2.2vh,24px);min-height:0;padding:6px 0}
+.cloud .q{--r:0deg;--x:0px;transform:translateX(var(--x)) rotate(var(--r));animation:qbob 6s ease-in-out infinite;box-shadow:0 10px 28px rgba(10,49,97,.10);border-radius:18px;max-width:440px;width:100%}
+.cloud.l{align-items:flex-end}.cloud.r{align-items:flex-start}
+.cloud.l .q:nth-child(1){--r:-2deg;--x:-14px}.cloud.l .q:nth-child(2){--r:1.5deg;--x:10px;animation-delay:-2s}.cloud.l .q:nth-child(3){--r:-1deg;--x:-22px;animation-delay:-4s}
+.cloud.r .q:nth-child(1){--r:2deg;--x:14px;animation-delay:-1s}.cloud.r .q:nth-child(2){--r:-1.5deg;--x:-10px;animation-delay:-3s}.cloud.r .q:nth-child(3){--r:1deg;--x:22px;animation-delay:-5s}
+@keyframes qbob{0%,100%{transform:translateX(var(--x)) translateY(0) rotate(var(--r))}50%{transform:translateX(var(--x)) translateY(-5px) rotate(var(--r))}}
+.cloud .q:hover{animation-play-state:paused;transform:translateX(var(--x)) translateY(-6px) rotate(0deg);border-color:var(--ink)}
+.qh{display:flex;align-items:center;gap:8px;font-size:13px;color:var(--mut)}
+.qh .av{width:30px;height:30px;border-radius:50%;flex:none;background:linear-gradient(#0a3161 0 50%,#b31942 50%);display:grid;place-items:center;color:#fff;font-weight:900;font-size:11px;font-style:normal}
+.qh b{color:var(--ink);font-size:14px}.qh .go{margin-left:auto;color:var(--or);font-size:18px;opacity:.75}
+.q.dark .qh,.q.dark .qh b{color:#fff}.q.dark .qh .av{background:#b31942}
+.qf{display:flex;gap:18px;font-size:12px;color:var(--mut);margin-top:2px}.qf span{display:flex;gap:5px;align-items:center}.qf svg{width:14px;height:14px}
+.q.dark .qf{color:#bdbab3}
+.hstage .vis .phone{height:84%;max-width:54%;bottom:3%}
+.hstage .vis>svg{left:-30%;width:160%}.cloud{position:relative;z-index:2}.hstage .vis{z-index:1}
+.scr{justify-content:safe center}
+.scr{padding-top:26px;padding-bottom:30px;gap:10px}
+.scr .ph-badge{margin-top:0}
+.scr p{flex:none!important;font-size:clamp(13px,2.25vh,23px)!important;display:-webkit-box;-webkit-line-clamp:11;-webkit-box-orient:vertical}
+.ph-dots{position:absolute;bottom:12px;left:0;right:0}
+@media (prefers-reduced-motion:reduce){.cloud .q{animation:none}}
+@media (min-width:901px) and (max-height:640px){.cloud .q{padding:7px 12px;gap:2px}.cloud .qf{display:none}.cloud{gap:10px}.hhead h1{font-size:clamp(28px,7vh,44px)!important}.hhead .sub{font-size:13px!important;margin-top:2px!important}.hhead .chip{display:none}}
+@media (max-width:900px){
+  .hstage{grid-template-columns:minmax(0,1fr) minmax(0,1fr);grid-template-areas:"v v" "l r"}
+  .hstage .vis{grid-area:v;height:min(118vw,580px)}.hstage .vis .phone{height:90%;max-width:72%}.scr p{font-size:clamp(13px,3.7vw,18px)!important;-webkit-line-clamp:9}.hstage .vis>svg{left:-10%;width:120%}.cloud.l{grid-area:l}.cloud.r{grid-area:r}
+  .cloud .q{--r:0deg!important;--x:0px!important;animation:none;max-width:none}.cloud.l,.cloud.r{align-items:stretch;justify-content:flex-start}
+}
+@media (max-width:560px){.hstage{grid-template-columns:minmax(0,1fr);grid-template-areas:"v" "l" "r"}.qf{display:none}}
+
+/* ---- short desktop screens: everything fits, no scrolling ---- */
+.bars{align-content:safe center}
+@media (min-width:901px) and (max-width:1180px) and (max-height:820px){#whyPost .tg span:nth-child(n+3){display:none}#whyPost .tv{font-size:28px!important}}
+@media (min-width:901px){.head{flex-wrap:nowrap}.head>:first-child{flex:1 1 auto;min-width:0}.head>:not(:first-child){flex:none}}
+@media (min-width:901px) and (max-height:940px){#p-works .hdesc{display:-webkit-box;-webkit-line-clamp:1;-webkit-box-orient:vertical;overflow:hidden}#wkUp .dp .tr{height:clamp(15px,2.1vh,22px)!important}#wkUp.bars{gap:clamp(2px,.6vh,6px)}}
+@media (min-width:901px) and (max-height:760px){
+  .hdesc{display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  #whyPost .tg span:nth-child(3),#whyPost .tg span:nth-child(4){display:none}
+  #wkSide .tp{-webkit-line-clamp:2}#wkSide .tg span:nth-child(4){display:none}#wkSide .post p{-webkit-line-clamp:2}
+}
+@media (min-width:901px) and (max-height:660px){
+  .scr p{font-size:clamp(12px,2.1vh,14px)!important;-webkit-line-clamp:8}.ph-top b{font-size:12px}.ph-top small{font-size:10px}.ph-badge{font-size:10px}
+  .hdesc{-webkit-line-clamp:1}
+  #whyPost .tg span:nth-child(5){display:none}#whyPost .tv,#wkSide .tv{font-size:24px!important;line-height:1.1}#whyPost .tt,#wkSide .tt{font-size:17px!important}
+  #whyPost .tbs,#wkSide .tbs{gap:4px!important}#whyPost .th,#wkSide .th{font-size:11.5px}
+  #wkSide .tp{-webkit-line-clamp:1}#wkSide .tg span:nth-child(3),#wkSide .tg span:nth-child(5){display:none}#wkSide .tdesc{display:none}
+  #wkSide .post{display:none}#wkSide .kpi .v{font-size:26px!important}#wkUp.bars,#whyBars.bars{gap:2px}#wkUp .dp .tr,#whyBars .dp .tr{height:16px!important}#wkUp .dp .lb,#whyBars .dp .lb{font-size:13.5px}
+  #wkUp .dp,#whyBars .dp{padding:0 6px}.card{padding:10px 14px!important}.card h3{margin-bottom:2px}
+  #cmpBars{gap:1px!important}#cmpBars .bar{padding-top:0;padding-bottom:0;font-size:13px;line-height:1.15;min-height:0}#chgEra .tag:nth-of-type(3){display:none}
+  #p-works .hdesc{display:none}.bars{align-content:safe center}#chgEra .tag{padding:1px 6px!important}#whyPost .k{display:none}
+  .lcard p{font-size:12.5px!important;line-height:1.3}.lcard .num{font-size:clamp(24px,5vh,34px)!important}.lcard h3{font-size:15px}
+  .kpi .l{font-size:12px}.take{font-size:13px;padding-top:6px;padding-bottom:6px}
+}
+@media (min-width:901px) and (max-width:1180px) and (max-height:660px){.page .chip{display:none}h2{font-size:26px!important}#whyPost .tg span:nth-child(2){display:none}#wkUp .dp .tr{height:14px!important}#wkUp .dp .lb,#wkUp .dp .vals{font-size:12.5px}}
+@media (min-width:901px) and (max-height:560px){
+  .hstage .vis .phone{height:94%}.scr p{-webkit-line-clamp:8}.scr{padding-top:18px;padding-bottom:22px;gap:6px}
+  .chip{display:none}h2{font-size:24px!important}.top{padding-top:4px;padding-bottom:4px}
+}
+
+/* ---- speech-bubble tails: questions come out of the phone ---- */
+@media (min-width:901px){
+  .cloud.l{margin-right:calc(-1 * clamp(40px,5vw,90px))}.cloud.r{margin-left:calc(-1 * clamp(40px,5vw,90px))}
+  .cloud .q{position:relative;border-color:transparent;box-shadow:none;filter:drop-shadow(0 8px 16px rgba(10,49,97,.16))}
+  .cloud .q:hover{border-color:transparent;filter:drop-shadow(0 12px 22px rgba(10,49,97,.26))}
+  .cloud .q::after{content:"";position:absolute;top:var(--ty0,30%);width:var(--tl,clamp(40px,calc(16.4vw - 20vh),170px));height:var(--th,38%);background:inherit;pointer-events:none}
+  .cloud.l .q::after{left:calc(100% - 2px);clip-path:polygon(0 0,100% var(--ay,50%),0 100%)}
+  .cloud.r .q::after{right:calc(100% - 2px);clip-path:polygon(100% 0,0 var(--ay,50%),100% 100%)}
+  .cloud .q:nth-child(1){--ay:120%;--ty0:34%}.cloud .q:nth-child(2){--ay:50%;--ty0:31%}.cloud .q:nth-child(3){--ay:-25%;--ty0:28%}
+  .cloud .q:nth-child(2){--tl:clamp(48px,calc(16.4vw - 20vh + 8px),178px)}
+  .q.dark::after{background:var(--pill)}
+}
 /* ---- responsive refinements ---- */
 .card,.lcard{scrollbar-width:thin}
 @media (min-width:901px){.card,.lcard{overflow:auto}}
@@ -297,7 +376,7 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
   #chgEra .tag{font-size:11px!important;padding:2px 7px!important}
   .devnote{display:none}.fun{font-size:11px;gap:1px}.fun div{padding:1px 0}#chgEra>div{gap:4px!important}
 }
-@media (max-width:900px),(max-height:600px){
+@media (max-width:900px),(max-height:479px){
   .vis{height:min(80vw,560px)}.phone{height:86%;max-width:42%}
   .nav{mask-image:linear-gradient(90deg,#000 85%,transparent)}
 }
@@ -325,14 +404,15 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
 
   <!-- HOME -->
   <section class="page home" id="p-home">
-    <div class="homegrid">
-      <div class="hero">
-        <span class="chip">Knox × Atlantic Data Institute</span>
-        <h1>Why does <em>Trump</em> win online?</h1>
-        <p class="sub" id="homeSub">17 years, 89,324 posts, two platforms. Pick a question.</p>
-        <div class="qs" id="qs"></div>
-      </div>
+    <div class="hero hhead">
+      <span class="chip">Knox × Atlantic Data Institute</span>
+      <h1>Why does <em>Trump</em> win online?</h1>
+      <p class="sub" id="homeSub">17 years, 89,324 posts, two platforms. Pick a question.</p>
+    </div>
+    <div class="hstage">
+      <div class="cloud l" id="qsL"></div>
       <div class="vis" id="heroVis"></div>
+      <div class="cloud r" id="qsR"></div>
     </div>
   </section>
 
@@ -341,7 +421,7 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
     <div class="head"><div><span class="chip">Q1 · What makes him do so well?</span><h2>A named enemy, his own voice, and <em>big moments</em>.</h2></div>
       <div class="seg" data-k="whyEra"><button data-v="Both" class="on">Both</button><button data-v="Truth Social">Truth Social</button><button data-v="Twitter">Twitter (now X)</button></div></div>
     <div class="body">
-      <div class="card"><h3 style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap">What lifts a post above his usual performance<span id="whyLeg"></span></h3><div class="k">Each dot shows how posts of that type do compared with his other posts. Right of the line = more likes than usual. Tap a row for details on the right, then browse real posts. Topics leave out his copy-paste endorsement posts, which skew them. Categories our accuracy check could not confirm are hidden.</div><div class="bars" id="whyBars"></div></div>
+      <div class="card"><h3 style="display:flex;justify-content:space-between;gap:8px;flex-wrap:wrap">What lifts a post above his usual performance<span id="whyLeg"></span></h3><div class="k hdesc">Each dot shows how posts of that type do compared with his other posts. Right of the line = more likes than usual. Tap a row for details on the right, then browse real posts. Topics leave out his copy-paste endorsement posts, which skew them. Categories our accuracy check could not confirm are hidden.</div><div class="bars" id="whyBars"></div></div>
       <div class="stack"><div class="kpis" id="whyK"></div><div class="card" id="whyPost"></div></div>
     </div>
     <div class="take"><b>Takeaway</b><span id="whyTake"></span><button data-go="works">What flops? →</button></div>
@@ -352,7 +432,7 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
     <div class="head"><div><span class="chip">Q2 · What works with his base, and what flops?</span><h2>Hit hard, stay personal, <em>skip the copy-paste</em>.</h2></div>
       <div style="display:flex;gap:10px;align-items:center;flex-wrap:wrap"><span id="wkLeg"></span><div class="seg" data-k="wkEra"><button data-v="Both" class="on">Both</button><button data-v="Truth Social">Truth Social</button><button data-v="Twitter">Twitter (now X)</button></div></div></div>
     <div class="body wk">
-      <div class="card"><h3 style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag o">Works</span><span class="tag">Flops</span><span class="k" style="font-weight:500">Best to worst. Hover for details, click for real posts. Topics leave out his copy-paste endorsement posts.</span></h3><div class="bars" id="wkUp"></div></div>
+      <div class="card"><h3 style="display:flex;gap:8px;align-items:center;flex-wrap:wrap"><span class="tag o">Works</span><span class="tag">Flops</span><span class="k hdesc" style="font-weight:500">Best to worst. Tap a row for details on the right. Topics leave out his copy-paste endorsement posts.</span></h3><div class="bars" id="wkUp"></div></div>
       <div class="card" id="wkSide"></div>
     </div>
     <div class="take"><b>Takeaway</b><span id="wkTake"></span><button data-go="learn">Lessons →</button></div>
@@ -371,7 +451,7 @@ body.mopen .app{filter:blur(6px) saturate(.9);transition:filter .2s}
     <div class="head"><div><span class="chip">Q4 · How does he compare with other senior politicians?</span><h2>Louder than Congress, <em>not angrier</em>.</h2></div>
       <div class="seg" id="cmpSeg"></div></div>
     <div class="body">
-      <div class="card"><h3 id="cmpTitle"></h3><div class="k">Twitter, Jun 2017 – Jan 2021. Same sampled days and the same rules for everyone. Click a bar to read their tweets.</div><div class="bars" id="cmpBars"></div></div>
+      <div class="card"><h3 id="cmpTitle"></h3><div class="k hdesc">Twitter, Jun 2017 – Jan 2021. Same sampled days and the same rules for everyone. Click a bar to read their tweets.</div><div class="bars" id="cmpBars"></div></div>
       <div class="stack"><div class="kpis" id="cmpK" style="grid-template-columns:minmax(0,1fr)"></div></div>
     </div>
     <div class="take"><b>Takeaway</b><span id="cmpTake"></span><button data-go="change">Over time →</button></div>
